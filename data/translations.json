@@ -1,0 +1,37 @@
+{
+  "he": {
+    "cart": "עגלה",
+    "checkout": "אישור ההזמנה",
+    "stockLast": "האחרון במלאי — אל תפספסו",
+    "limitedStock": "מלאי מוגבל",
+    "outOfStock": "אזל מהמלאי"
+  },
+  "fr": {
+    "cart": "Panier",
+    "checkout": "Valider la commande",
+    "stockLast": "Dernier en stock — ne le manquez pas",
+    "limitedStock": "Stock limité",
+    "outOfStock": "Rupture de stock"
+  },
+  "en": {
+    "cart": "Cart",
+    "checkout": "Validate order",
+    "stockLast": "Last one in stock — don't miss it",
+    "limitedStock": "Limited stock",
+    "outOfStock": "Out of stock"
+  },
+  "ar": {
+    "cart": "السلة",
+    "checkout": "تأكيد الطلب",
+    "stockLast": "آخر قطعة في المخزون",
+    "limitedStock": "كمية محدودة",
+    "outOfStock": "غير متوفر"
+  },
+  "ru": {
+    "cart": "Корзина",
+    "checkout": "Подтвердить заказ",
+    "stockLast": "Последний товар в наличии",
+    "limitedStock": "Осталось мало",
+    "outOfStock": "Нет в наличии"
+  }
+}

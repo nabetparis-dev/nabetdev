@@ -1,0 +1,51 @@
+import Link from "next/link";
+import { useCart } from "./CartContext";
+import { shekel } from "../lib/format";
+import { useLang } from "./LanguageContext";
+
+function renderStars() { return "★★★★★"; }
+function urgency(p, t){
+  if(!p) return "";
+  if(Number(p.stock) <= 0) return t("outOfStock");
+  if(p.urgentText) return p.urgentText;
+  if(p.showStockUrgency === false) return "";
+  if(Number(p.stock) === 1) return t("lastStock");
+  if(Number(p.stock) <= 3) return t("limitedStock");
+  return "";
+}
+
+export default function ProductCard({ p, cat }) {
+  const cart = useCart();
+  const { t } = useLang();
+  const image = (p.images && p.images[0]) || p.image || "/products/placeholder-wallet.svg";
+  const urgent = urgency(p, t);
+
+  function addToCart(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    cart?.add(p, 1);
+  }
+
+  return (
+    <article className="card">
+      <Link href={`/product/${p.id}`} className="cardImageLink">
+        <img src={image} alt={p.name} loading="lazy" decoding="async" onError={(e) => { e.currentTarget.src = "/products/placeholder-wallet.svg"; }} />
+      </Link>
+      <div className="badge">{p.badge}</div>
+      {urgent && <div className="urgentBadge">{urgent}</div>}
+      <div className="cardBody">
+        <small>{cat?.name}</small>
+        <h3>{p.name}</h3>
+        {p.color && <div className="productColorMini">{t("color")}: {p.color}</div>}
+        <div className="productStars"><span>{renderStars(p.rating)}</span><small>{p.rating || 5}/5 • {p.reviewCount || 36} {t("reviews")}</small></div>
+        <p>{p.shortDescription}</p>
+        <div className="miniPromo">{t("discount2")}</div>
+        <div className="prices"><b>{shekel(p.price)}</b>{p.oldPrice && p.oldPrice > p.price && <span>{shekel(p.oldPrice)}</span>}</div>
+        <div className="cardActions">
+          <Link href={`/product/${p.id}`}>{t("viewProduct")}</Link>
+          <button onClick={addToCart} disabled={p.stock <= 0}>{p.stock <= 0 ? t("outOfStock") : t("addToCart")}</button>
+        </div>
+      </div>
+    </article>
+  );
+}

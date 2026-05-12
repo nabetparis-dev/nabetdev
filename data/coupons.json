@@ -1,0 +1,10 @@
+[
+  {
+    "code": "NABET10",
+    "type": "percent",
+    "value": 10,
+    "active": true,
+    "minItems": 2,
+    "description": "10% הנחה בקניית 2 מוצרים או יותר"
+  }
+]

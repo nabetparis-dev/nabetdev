@@ -1,0 +1,10 @@
+Corrections faites:
+- Le mailer ne bloque plus la création commande/contact si Gmail refuse ou SMTP échoue.
+- La commande est créée même si email échoue, puis page merci.
+- Bouton אישור ההזמנה affiche שולח הזמנה pendant l’envoi.
+- Contact form corrigé avec loading + try/catch.
+- Les messages contact sont sauvegardés dans data/contactMessages.json.
+- Bouton remonter en haut ajouté.
+- Badge -50 corrigé.
+- Hero image remet une image NABET PARIS / Paris locale.
+- Build à vérifier ci-dessous.

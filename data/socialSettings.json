@@ -1,0 +1,28 @@
+{
+  "instagram": {
+    "enabled": true,
+    "url": "",
+    "label": "Instagram"
+  },
+  "facebook": {
+    "enabled": true,
+    "url": "",
+    "label": "Facebook"
+  },
+  "tiktok": {
+    "enabled": true,
+    "url": "",
+    "label": "TikTok"
+  },
+  "google": {
+    "enabled": true,
+    "businessUrl": "",
+    "reviewsUrl": "",
+    "label": "Google"
+  },
+  "whatsapp": {
+    "enabled": true,
+    "number": "972538298484",
+    "message": "שלום, אשמח לקבל פרטים על מוצרי NABET PARIS"
+  }
+}

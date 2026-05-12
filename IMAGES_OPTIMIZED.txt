@@ -1,0 +1,12 @@
+37 images optimisées et intégrées localement dans public/uploads/products
+
+LOT 2 TARGETED IMAGE LOCALIZATION:
+External WordPress image URLs detected: 147
+Images found in uploaded archive: 92
+Images optimized/integrated: 92
+Missing images: 55
+Errors: 0
+Original matched size: 25.68 MB
+Optimized matched size: 12.18 MB
+Reduction: 52.6%
+Files relinked: 1

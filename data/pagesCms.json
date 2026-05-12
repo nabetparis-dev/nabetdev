@@ -1,0 +1,150 @@
+{
+  "header": {
+    "logo": "/logo-nabet.png",
+    "topbar": "משלוח מהיר • איכות פרימיום • עד 50% הנחה • תשלום מאובטח",
+    "menuItems": [
+      {
+        "label": "בית",
+        "url": "/"
+      },
+      {
+        "label": "ארנקי עור",
+        "url": "/category/wallets"
+      },
+      {
+        "label": "מחזיקי כרטיסים",
+        "url": "/category/card-holders"
+      },
+      {
+        "label": "מזוודות",
+        "url": "/category/suitcases"
+      },
+      {
+        "label": "תיקי גב",
+        "url": "/category/backpacks"
+      },
+      {
+        "label": "צור קשר",
+        "url": "/contact"
+      }
+    ]
+  },
+  "home": {
+    "title": "דף הבית",
+    "seoTitle": "NABET PARIS  | ארנקים, מזוודות ותיקים במחירי אאוטלט",
+    "seoDescription": "NABET PARIS Official — קולקציית ארנקים, מזוודות, תיקי גב ואביזרי נסיעות באיכות פרימיום, מחירי אאוטלט, משלוח ותשלום בטוח בישראל.",
+    "sections": [
+      {
+        "type": "hero",
+        "title": "NABET PARIS",
+        "text": "ארנקים, מזוודות ותיקים בעיצוב יוקרתי — איכות פרימיום, מחירי אאוטלט ושירות אישי בישראל.",
+        "image": "/uploads/products/nabet-paris.webp",
+        "buttonText": "קנייה עכשיו",
+        "buttonUrl": "#products",
+        "secondButtonText": "צפייה בקולקציה",
+        "secondButtonUrl": "#products",
+        "badge": "-50%",
+        "badgeText": "OUTLET"
+      },
+      {
+        "type": "html",
+        "html": "<section class='luxTrustStrip'><div><b>✓ תשלום בטוח</b><span>כרטיס אשראי / תשלום בעת קבלה</span></div><div><b>✓ משלוח מהיר</b><span>לכל רחבי הארץ</span></div><div><b>✓ איכות פרימיום</b><span>מוצרים חזקים ואלגנטיים</span></div><div><b>✓ 10% הנחה</b><span>בקניית 2 מוצרים או יותר</span></div></section>"
+      },
+      {
+        "type": "columns",
+        "title": "למה לקנות אצל NABET PARIS?",
+        "columns": [
+          {
+            "icon": "💳",
+            "title": "הגנת RFID",
+            "text": "ארנקים חכמים ומוגנים לכרטיסים."
+          },
+          {
+            "icon": "💧",
+            "title": "עמידות גבוהה",
+            "text": "חומרים חזקים לשימוש יום־יומי ונסיעות."
+          },
+          {
+            "icon": "🧳",
+            "title": "מוצרי נסיעות",
+            "text": "מזוודות ותיקים אלגנטיים במחירי אאוטלט."
+          },
+          {
+            "icon": "⭐",
+            "title": "חוויה יוקרתית",
+            "text": "עיצוב נקי, שירות מהיר ומוצרים שבאמת נותנים חשק לקנות."
+          }
+        ]
+      },
+      {
+        "type": "html",
+        "html": "<section class='luxSeoBlock'><span>NABET PARIS </span><h2>ארנקים, מזוודות ותיקים — איכות פרימיום במחיר Outlet</h2><p>ב-NABET PARIS תמצאו ארנקים מגנטיים, ארנקי RFID, מזוודות קבינה, תיקי גב ואביזרי נסיעות בעיצוב אלגנטי. המוצרים נבחרים בקפידה כדי לתת לכם איכות גבוהה, מראה יוקרתי וחוויית קנייה בטוחה.</p></section>"
+      }
+    ]
+  },
+  "contact": {
+    "title": "צור קשר",
+    "seoTitle": "צור קשר ונקודות מכירה | NABET PARIS",
+    "seoDescription": "צור קשר עם NABET PARIS, וואטסאפ, טלפון, אימייל ונקודות מכירה.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "צור קשר",
+        "text": "נשמח לעזור לכם לבחור את המוצר המתאים ביותר, לבדוק זמינות במלאי ולתאם איסוף או משלוח.",
+        "buttonText": "שליחה ב-WhatsApp",
+        "buttonUrl": "https://wa.me/972538298484"
+      },
+      {
+        "type": "branches",
+        "title": "הסניפים שלנו",
+        "branches": [
+          {
+            "name": "קניון הדסה עין כרם",
+            "phone": "0538298484",
+            "map": "https://www.google.com/maps/search/?api=1&query=קניון%20הדסה%20עין%20כרם%20ירושלים"
+          },
+          {
+            "name": "קניון רמות",
+            "phone": "0537084251",
+            "map": "https://www.google.com/maps/search/?api=1&query=קניון%20רמות%20ירושלים"
+          },
+          {
+            "name": "קניון ביתר עילית",
+            "phone": "0537084252",
+            "map": "https://www.google.com/maps/search/?api=1&query=קניון%20ביתר%20עילית"
+          },
+          {
+            "name": "סטנד אשדוד",
+            "phone": "",
+            "map": "https://www.google.com/maps/search/?api=1&query=אשדוד"
+          },
+          {
+            "name": "סטנד מבשרת ציון",
+            "phone": "",
+            "map": "https://www.google.com/maps/search/?api=1&query=מבשרת%20ציון"
+          },
+          {
+            "name": "ראש העין",
+            "phone": "",
+            "map": "https://www.google.com/maps/search/?api=1&query=ראש%20העין"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "title": "NABET PARIS",
+    "text": "NABET PARIS ישראל — איכות אירופאית, מחירי אאוטלט ושירות אישי.",
+    "showBranches": true,
+    "links": [
+      {
+        "label": "צור קשר",
+        "url": "/contact"
+      },
+      {
+        "label": "תקנון ותנאי רכישה",
+        "url": "/terms"
+      }
+    ]
+  }
+}

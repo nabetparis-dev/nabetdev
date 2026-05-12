@@ -1,0 +1,54 @@
+{
+  "topbar": "משלוח מהיר • איכות פרימיום • עד 50% הנחה • תשלום מאובטח • אפשרות תשלום בקבלת המוצר",
+  "heroTitle": "NABET PARIS — יוקרה צרפתית במחירי אאוטלט",
+  "heroText": "מזוודות, תיקים, תיקי גב, ארנקי עור ואביזרי אופנה בעיצוב יוקרתי, איכות גבוהה ומחירים שמרגישים כמו הזדמנות אמיתית.",
+  "heroButton": "לקולקציה",
+  "secondaryButton": "תשלום בקבלת המוצר",
+  "collectionTitle": "הקולקציות הנמכרות ביותר",
+  "footerText": "NABET PARIS ישראל — איכות אירופאית, מחירי אאוטלט ושירות אישי.",
+  "contactTitle": "צור קשר",
+  "contactText": "נשמח לעזור לכם לבחור את המוצר המתאים ביותר, לבדוק זמינות במלאי ולתאם איסוף או משלוח.",
+  "contactEmail": "NABET.PARIS@GMAIL.COM",
+  "contactPhone": "+972538298484",
+  "whatsapp": "972538298484",
+  "storesTitle": "הסניפים שלנו",
+  "storesText": "ניתן להגיע לנקודות המכירה של NABET PARIS בתיאום מראש.",
+  "store1": "בוטיק NABET PARIS — קניון הדסה עין כרם, ירושלים",
+  "store2": "בוטיק NABET PARIS — רמות, ירושלים",
+  "store3": "בוטיק NABET PARIS — בית וגן, ירושלים",
+  "store4": "בוטיק NABET PARIS — ביתר עילית",
+  "paymentInfo": "ניתן לשלם אונליין בצורה מאובטחת או לבחור תשלום בעת קבלת המוצר.",
+  "shippingInfo": "דמי משלוח: 59.9 ₪ לכל מוצר. ניתן לבחור גם איסוף עצמי מנקודת מכירה.",
+  "branches": [
+    {
+      "name": "קניון הדסה עין כרם",
+      "phone": "0538298484",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D7%A7%D7%A0%D7%99%D7%95%D7%9F%20%D7%94%D7%93%D7%A1%D7%94%20%D7%A2%D7%99%D7%9F%20%D7%9B%D7%A8%D7%9D%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D"
+    },
+    {
+      "name": "קניון רמות",
+      "phone": "0537084251",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D7%A7%D7%A0%D7%99%D7%95%D7%9F%20%D7%A8%D7%9E%D7%95%D7%AA%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D"
+    },
+    {
+      "name": "קניון ביתר עילית",
+      "phone": "0537084252",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D7%A7%D7%A0%D7%99%D7%95%D7%9F%20%D7%91%D7%99%D7%AA%D7%A8%20%D7%A2%D7%99%D7%9C%D7%99%D7%AA"
+    },
+    {
+      "name": "סטנד אשדוד",
+      "phone": "",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%A9%D7%93%D7%95%D7%93"
+    },
+    {
+      "name": "סטנד מבשרת ציון",
+      "phone": "",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%91%D7%A9%D7%A8%D7%AA%20%D7%A6%D7%99%D7%95%D7%9F"
+    },
+    {
+      "name": "ראש העין",
+      "phone": "",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D7%A8%D7%90%D7%A9%20%D7%94%D7%A2%D7%99%D7%9F"
+    }
+  ]
+}

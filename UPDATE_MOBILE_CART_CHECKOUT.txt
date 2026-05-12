@@ -1,0 +1,9 @@
+Correctifs:
+- Le panier ne s’ouvre plus automatiquement après ajout produit.
+- Une petite notification “נוסף לעגלה” apparaît avec bouton “צפייה בעגלה”.
+- Bouton “חזרה לחנות” ajouté dans le panier.
+- Formulaire client complet obligatoire:
+  nom, prénom, rue/impasse/numéro, porte/étage, ville, code postal, pays Israël verrouillé, téléphone, email.
+- Validation commande bloque si un champ obligatoire manque.
+- WhatsApp et email reçoivent l’adresse complète.
+Build OK.

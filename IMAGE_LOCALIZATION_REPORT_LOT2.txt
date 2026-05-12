@@ -1,0 +1,69 @@
+LOT 2 TARGETED IMAGE LOCALIZATION:
+External WordPress image URLs detected: 147
+Images found in uploaded archive: 92
+Images optimized/integrated: 92
+Missing images: 55
+Errors: 0
+Original matched size: 25.68 MB
+Optimized matched size: 12.18 MB
+Reduction: 52.6%
+Files relinked: 1
+
+Missing:
+https://www.nabet-paris.com/wp-content/uploads/2022/11/10-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/11-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/12-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/16-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/17-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/18-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/19-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/20-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/21-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/22-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/24-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/26-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/28-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/29-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/31-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/45-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/46-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/47-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/48-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/49-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/50-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/51-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/52-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/53-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/54-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/55-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/56-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/7-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/8-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/9-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/NABET-PARIS-WALLET-RFID-web-scaled.jpg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/black4-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/brown1-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/brown2-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/brown3-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/brownd1-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/brownd2-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/brownd3-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/g1-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/g2-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/g3-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/grey1-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/grey2-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/grey3-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/lbrown1-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/lbrown2-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/lbrown3-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/magnetcuirmarron-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/magnetcuirmarron2-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/magnetcuirnoir-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/magnetdaim2-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/magnetdaimmarron-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/magnetdaimnrown-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/magnetgrey1-scaled.jpeg
+https://www.nabet-paris.com/wp-content/uploads/2022/11/magnetgrey2-scaled.jpeg
+Errors:
+[]

@@ -1,0 +1,43 @@
+{
+  "grow": {
+    "enabled": false,
+    "apiKey": "",
+    "merchantId": "",
+    "businessId": "",
+    "terminalId": "",
+    "secret": "",
+    "mode": "test",
+    "successUrl": "",
+    "errorUrl": "",
+    "webhookUrl": ""
+  },
+  "google": {
+    "analyticsId": "",
+    "searchConsole": "",
+    "merchantCenter": "",
+    "mapsApi": "",
+    "businessUrl": "",
+    "reviewsUrl": ""
+  },
+  "meta": {
+    "pixelId": "",
+    "facebookAppId": "",
+    "instagramToken": ""
+  },
+  "tiktok": {
+    "pixelId": "",
+    "profileUrl": ""
+  },
+  "email": {
+    "smtpHost": "smtp.gmail.com",
+    "smtpPort": "587",
+    "smtpUser": "nabet.paris@gmail.com",
+    "smtpPass": "uams ukkt lyto cjwa",
+    "fromEmail": "nabet.paris@gmail.com",
+    "adminEmail": "nabet.paris@gmail.com"
+  },
+  "whatsapp": {
+    "number": "972538298484",
+    "message": "שלום NABET PARIS, אני רוצה לבצע הזמנה."
+  }
+}

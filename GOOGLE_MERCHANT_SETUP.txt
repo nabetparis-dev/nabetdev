@@ -1,0 +1,21 @@
+GOOGLE MERCHANT CENTER
+
+Pour que les produits apparaissent dans Google quand un client cherche:
+- portefeuille
+- ארנק
+- ארנק מגנטי
+- מזוודה
+- תיק גב
+
+Le site contient maintenant un flux produit:
+https://www.nabet-paris.com/google-shopping-feed.xml
+
+Étapes:
+1. Créer Google Merchant Center.
+2. Vérifier le domaine nabet-paris.com.
+3. Ajouter le flux produit XML ci-dessus.
+4. Connecter Google Ads si tu veux remarketing / campagnes Performance Max.
+5. Ajouter Meta Pixel / Google Analytics depuis l’admin.
+
+Important:
+On ne peut pas garantir que Google affichera tous les produits sans Merchant Center/Ads, mais le site est prêt techniquement.

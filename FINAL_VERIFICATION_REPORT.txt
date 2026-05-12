@@ -1,0 +1,22 @@
+NABET PARIS FINAL VERIFICATION
+
+Corrigé:
+- SMTP: nabet.paris@gmail.com / smtp.gmail.com / port 587 / app password configuré.
+- Email de confirmation commande et contact utilisent le SMTP configuré.
+- Branding email: NABET PARIS plus élégant, Official retiré.
+- Texte -50% forcé en blanc.
+- Images produits affichées en entier: object-fit contain.
+- Plugin admin ajouté: Compresseur images WebP.
+- Upload admin images: conversion automatique WebP + resize max 1400px.
+- API admin /api/admin/optimize-images pour compresser toutes les images déjà présentes.
+- Animations légères ajoutées.
+- Menu mobile ajouté.
+- Panier optimisé mobile.
+- Responsive renforcé pour téléphone.
+- Build Next.js vérifié OK.
+
+Tests à faire chez toi:
+1. http://localhost:3000/api/test-email
+2. Ajouter un produit au panier et cliquer אישור ההזמנה
+3. Contact > envoyer un message
+4. Admin > Compresseur images

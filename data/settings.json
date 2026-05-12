@@ -1,0 +1,19 @@
+{
+  "siteName": "NABET PARIS",
+  "siteUrl": "https://www.nabet-paris.com",
+  "adminPassword": "Rehouvenilana26.",
+  "adminEmail": "NABET.PARIS@GMAIL.COM",
+  "whatsapp": "972538298484",
+  "seoTitle": "NABET PARIS ישראל | ארנקים, מזוודות ותיקי גב במחירי אאוטלט",
+  "seoDescription": "NABET PARIS ישראל — ארנקי עור, מחזיקי כרטיסים RFID, מזוודות ותיקי גב באיכות פרימיום, מחירי אאוטלט, משלוח מהיר ותשלום בקבלת המוצר.",
+  "seoKeywords": "NABET PARIS, נבט פריז, ארנקים, ארנקי עור, ארנק RFID, מחזיק כרטיסים, מזוודות, מזוודת קבינה, תיקי גב, אאוטלט, ירושלים",
+  "shabbatMode": {
+    "enabled": true,
+    "city": "Jerusalem",
+    "timezone": "Asia/Jerusalem",
+    "closeMinutesBeforeCandleLighting": 0,
+    "openMinutesAfterHavdalah": 0,
+    "message": "האתר סגור כעת לכבוד שבת וייפתח בצאת השבת.",
+    "allowAdmin": true
+  }
+}

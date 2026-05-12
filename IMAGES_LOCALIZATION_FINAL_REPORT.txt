@@ -1,0 +1,17 @@
+
+IMAGE LOCALIZATION FINAL LOT:
+Site source: NABET_PARIS_SITE_WITH_OPTIMIZED_IMAGES_LOT2.zip
+Archive source: 2022.zip
+External WordPress image URLs before: 55
+Matched and optimized from final archive: 55
+Still missing after final archive: 0
+Files updated: 1
+Matched original size: 21.35 MB
+Matched optimized size: 4.49 MB
+Reduction: 79.0%
+
+
+Remaining URLs:
+
+
+Missing during match:

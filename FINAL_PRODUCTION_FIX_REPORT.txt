@@ -1,0 +1,7 @@
+Corrections finales production:
+- Texte NABET PARIS à côté du logo supprimé.
+- Onglet Langues retiré de l’admin.
+- Menu mobile public renforcé.
+- Menu admin mobile ajouté.
+- Logo email intégré en pièce jointe inline cid:nabet-logo pour affichage Gmail.
+- Build vérifié OK.
