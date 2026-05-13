@@ -151,7 +151,28 @@ function CartDrawer() {
         cart.setOpen(false);
         window.location.href = `/order/thank-you?id=${order.id}&total=${encodeURIComponent(total)}&wa=${msg}`;
         return;
-     
+      }
+
+      if(paymentMode === "grow"){
+        const orderRes = await fetch("/api/orders/create", {
+          method:"POST",
+          headers:{"Content-Type":"application/json"},
+          body:JSON.stringify({items:cart.items, customer:customerForOrder, deliveryMode, paymentMethod:"grow", shipping:shippingCost, discount})
+        });
+        const orderData = await orderRes.json().catch(()=>({ok:false,error:"תשובת שרת לא תקינה"}));
+        if(!orderRes.ok || !orderData.ok) {
+          alert(orderData.error || "שגיאה ביצירת ההזמנה");
+          return;
+        }
+        const res = await fetch("/api/grow-checkout", {
+          method:"POST",
+          headers:{"Content-Type":"application/json"},
+          body:JSON.stringify({orderId:orderData.order.id})
+        });
+        const data = await res.json().catch(()=>({}));
+        if(data.url) window.location.href = data.url;
+        else alert(data.error || "תשלום בכרטיס אשראי עדיין לא מוגדר באדמין");
+        return;
       }
     } catch (e) {
       alert("שגיאה בשליחת ההזמנה: " + e.message);

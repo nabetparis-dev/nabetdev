@@ -85,7 +85,16 @@ export default function Admin(){
   async function saveCategory(){ const exists=full.categories.find(c=>c.id===currentCat.id); const res=await fetch(exists?`/api/admin/categories/${currentCat.id}`:"/api/admin/categories",{method:exists?"PUT":"POST",headers:{"Content-Type":"application/json","x-admin-token":token},body:JSON.stringify(currentCat)}); const data=await res.json().catch(()=>({})); if(!res.ok)return alert(data.error||"שגיאה"); alert("הקטגוריה נשמרה"); setCurrentCat(null); load(); }
   async function deleteCategory(id){ if(!confirm("למחוק קטגוריה?"))return; const res=await fetch(`/api/admin/categories/${id}`,{method:"DELETE",headers:{"x-admin-token":token}}); if(!res.ok)return alert("אי אפשר למחוק"); load(); }
 
-  async function saveOrder(order=currentOrder){ await fetch(`/api/admin/orders/${order.id}`,{method:"PUT",headers:{"Content-Type":"application/json","x-admin-token":token},body:JSON.stringify(order)}); alert("הזמנה נשמרה"); setCurrentOrder(null); load(); }
+  async function saveOrder(order=currentOrder){ await fetch(`/api/admin/orders/${order.id}`,{method:"PUT",headers:{"Content-Type":"application/json","x-admin-token":token},body:JSON.stringify({...order, sendEmail:true})}); alert("הזמנה נשמרה + מייל נשלח אם יש אימייל לקוח"); setCurrentOrder(null); load(); }
+  async function orderAction(id, action, label){
+    if(!confirm(`${label}? מייל אוטומטי יישלח ללקוח אם יש אימייל.`)) return;
+    const note = action === "refuse" || action === "cancel" ? prompt("הערה ללקוח / Note client (אפשר להשאיר ריק)") || "" : "";
+    const res = await fetch(`/api/admin/orders/${id}`,{method:"POST",headers:{"Content-Type":"application/json","x-admin-token":token},body:JSON.stringify({action,note})});
+    const data = await res.json().catch(()=>({}));
+    if(!res.ok || !data.ok) return alert(data.error || "שגיאה בעדכון הזמנה");
+    alert(`${label} בוצע. ${data.statusMail?.ok ? "המייל נשלח" : "המייל נשמר בלוג / לא נשלח (בדוק SMTP או אימייל לקוח)"}`);
+    load();
+  }
   async function deleteOrder(id){ if(!confirm("למחוק הזמנה?"))return; await fetch(`/api/admin/orders/${id}`,{method:"DELETE",headers:{"x-admin-token":token}}); load(); }
   async function savePluginSettings(){ await fetch("/api/admin/plugin-settings",{method:"PUT",headers:{"Content-Type":"application/json","x-admin-token":token},body:JSON.stringify({apiSettings:full.apiSettings,socialSettings:full.socialSettings,designSettings:full.designSettings,coupons:full.coupons,translations:full.translations})}); alert("נשמר"); load(); }
 
@@ -98,8 +107,8 @@ export default function Admin(){
     <div className="adminTop"><h1>ניהול NABET PARIS</h1></div>
     <button className="adminMobileMenuBtn" onClick={()=>setAdminMenuOpen(v=>!v)} type="button">☰ תפריט ניהול</button><div className={`adminTabs wcTabs ${adminMenuOpen ? "open" : ""}`}>{[["dashboard","Dashboard"],["orders","Commandes"],["customers","Clients"],["products","Produits"],["media","Médias"],["imageOptimizer","Compresseur images"],["categories","Catégories"],["coupons","Coupons"],["home","Accueil"],["pages","Pages"],["header","Menu / Header"],["footer","Footer"],["socials","Google / Instagram / Facebook"],["apis","APIs / Grow / Email"],["design","Logo / Couleurs"],["seo","SEO"],["json","Avancé JSON"]].map(([k,l])=><button key={k} className={tab===k?"active":""} onClick={()=>{setTab(k);setAdminMenuOpen(false)}}>{l}</button>)}</div>
 
-    {tab==="dashboard"&&<section className="dashboardGrid"><div className="dashCard"><span>CA total</span><b>{shekel(revenue)}</b></div><div className="dashCard"><span>Commandes</span><b>{full.orders?.length||0}</b></div><div className="dashCard"><span>En attente</span><b>{pending}</b></div><div className="dashCard"><span>Stock faible</span><b>{lowStock}</b></div><div className="adminBox wide"><h2>Dernières commandes</h2><OrdersTable orders={(full.orders||[]).slice(0,8)} setCurrentOrder={setCurrentOrder} deleteOrder={deleteOrder}/></div></section>}
-    {tab==="orders"&&<section className="adminBox"><h2>Commandes</h2><OrdersTable orders={full.orders||[]} setCurrentOrder={setCurrentOrder} deleteOrder={deleteOrder}/></section>}
+    {tab==="dashboard"&&<section className="dashboardGrid"><div className="dashCard"><span>CA total</span><b>{shekel(revenue)}</b></div><div className="dashCard"><span>Commandes</span><b>{full.orders?.length||0}</b></div><div className="dashCard"><span>En attente</span><b>{pending}</b></div><div className="dashCard"><span>Stock faible</span><b>{lowStock}</b></div><div className="adminBox wide"><h2>Dernières commandes</h2><OrdersTable orders={(full.orders||[]).slice(0,8)} setCurrentOrder={setCurrentOrder} deleteOrder={deleteOrder} orderAction={orderAction}/></div></section>}
+    {tab==="orders"&&<section className="adminBox"><h2>Commandes</h2><OrdersTable orders={full.orders||[]} setCurrentOrder={setCurrentOrder} deleteOrder={deleteOrder} orderAction={orderAction}/></section>}
     {currentOrder&&<OrderModal order={currentOrder} setOrder={setCurrentOrder} save={saveOrder} close={()=>setCurrentOrder(null)} />}
     {tab==="customers"&&<CustomersPanel orders={full.orders||[]} />}
 
@@ -122,12 +131,30 @@ export default function Admin(){
   </main>
 }
 
-function OrdersTable({orders,setCurrentOrder,deleteOrder}){ return <div className="ordersTable"><div className="ordersHead"><b>ID</b><b>Client</b><b>Total</b><b>Statut</b><b>Date</b><b>Actions</b></div>{orders.map(o=><div key={o.id} className="ordersRow"><span>{o.id}</span><span>{o.customer?.name||"-"}<small>{o.customer?.phone}</small></span><b>{shekel(o.total||0)}</b><span className={"status "+o.status}>{o.status}</span><span>{o.date?new Date(o.date).toLocaleString("he-IL"):""}</span><div><button onClick={()=>setCurrentOrder({...o})}>Voir</button><button onClick={()=>deleteOrder(o.id)}>×</button></div></div>)}</div> }
-function OrderModal({order,setOrder,save,close}){ return <div className="modalShade" onClick={close}><div className="adminModal" onClick={e=>e.stopPropagation()}><button className="modalClose" onClick={close}>×</button><h2>Commande {order.id}</h2><label>Statut<select value={order.status||"pending"} onChange={e=>setOrder({...order,status:e.target.value})}><option value="pending">En attente</option><option value="confirmed">Confirmée</option><option value="preparing">Préparation</option><option value="shipped">Envoyée</option><option value="delivered">Livrée</option><option value="cancelled">Annulée</option></select></label><label>Paiement<select value={order.paymentStatus||""} onChange={e=>setOrder({...order,paymentStatus:e.target.value})}><option value="unpaid">Non payé</option><option value="pay_on_receive">Paiement sur place/réception</option><option value="paid">Payé</option><option value="refunded">Remboursé</option></select></label><div className="orderDetails"><b>Client:</b> {order.customer?.name} — {order.customer?.phone}<br/><b>Adresse:</b> {order.customer?.address}<br/><b>Total:</b> {shekel(order.total||0)}</div><h3>Produits</h3>{(order.items||[]).map((i,idx)=><div className="orderLine" key={idx}>
-  <b>{i.name}</b> × {i.qty} — {shekel(i.total)}
-  <small>ID: {i.id}</small>
-  <a href={`/product/${i.id}`} target="_blank" rel="noopener">Voir produit</a>
-</div>)}<div className="modalActions"><button onClick={()=>save(order)}>Sauvegarder</button><a target="_blank" rel="noreferrer" href={`https://wa.me/${String(order.customer?.phone||"").replace(/\D/g,"")}?text=${encodeURIComponent("שלום, הזמנתך NABET PARIS מספר "+order.id+" בטיפול.")}`}>WhatsApp client</a><button onClick={()=>window.print()}>Imprimer</button></div></div></div> }
+function OrdersTable({orders,setCurrentOrder,deleteOrder,orderAction}){
+  const statusLabel = {pending:"ממתינה",received:"התקבלה",accepted:"אושרה",confirmed:"אושרה",refused:"סורבה",cancelled:"בוטלה",shipped:"נשלחה",refund_started:"החזר בטיפול",refund_confirmed:"החזר אושר",refunded:"הוחזר"};
+  return <div className="ordersTable">
+    <div className="ordersHead"><b>ID</b><b>Client</b><b>Total</b><b>Statut</b><b>Date</b><b>Actions</b></div>
+    {orders.map(o=><div key={o.id} className="ordersRow">
+      <span>{o.id}</span>
+      <span>{o.customer?.name||"-"}<small>{o.customer?.phone}</small><small>{o.customer?.email}</small></span>
+      <b>{shekel(o.total||0)}</b>
+      <span className={"status "+o.status}>{statusLabel[o.status]||o.status}</span>
+      <span>{o.date?new Date(o.date).toLocaleString("he-IL"):""}</span>
+      <div className="orderActions">
+        <button onClick={()=>setCurrentOrder({...o})}>Voir</button>
+        <button onClick={()=>orderAction(o.id,"accept","אישור הזמנה")}>Accepter</button>
+        <button onClick={()=>orderAction(o.id,"refuse","סירוב הזמנה")}>Refuser</button>
+        <button onClick={()=>orderAction(o.id,"cancel","ביטול הזמנה")}>Annuler</button>
+        <button onClick={()=>orderAction(o.id,"ship","סימון כנשלח")}>Expédiée</button>
+        <button onClick={()=>orderAction(o.id,"refund_start","התחלת החזר")}>Remb. lancé</button>
+        <button onClick={()=>orderAction(o.id,"refund_confirm","אישור החזר")}>Remb. confirmé</button>
+        <button className="dangerBtn" onClick={()=>deleteOrder(o.id)}>×</button>
+      </div>
+    </div>)}
+  </div>
+}
+
 
 function CustomersPanel({orders}){ const map={}; orders.forEach(o=>{const key=o.customer?.phone||o.customer?.email||o.customer?.name||"unknown"; if(!map[key])map[key]={...o.customer,orders:0,total:0}; map[key].orders++; map[key].total+=Number(o.total||0);}); const customers=Object.values(map); return <section className="adminBox"><h2>Clients</h2><div className="ordersTable"><div className="ordersHead"><b>Nom</b><b>Téléphone</b><b>Email</b><b>Commandes</b><b>Total</b><b>WhatsApp</b></div>{customers.map((c,i)=><div key={i} className="ordersRow"><span>{c.name}</span><span>{c.phone}</span><span>{c.email}</span><b>{c.orders}</b><b>{shekel(c.total)}</b><a href={`https://wa.me/${String(c.phone||"").replace(/\D/g,"")}`} target="_blank" rel="noreferrer">WhatsApp</a></div>)}</div></section> }
 

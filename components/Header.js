@@ -11,7 +11,7 @@ export default function Header({ categories = [], content = {}, cms = {} }) {
   function close(){ setMenuOpen(false); }
 
   return (
-    <header>
+   <header>
       <div className="topbar">{header.topbar || content.topbar || "NABET PARIS"}</div>
       <div className="nav">
         <Link href="/" className="brand" aria-label="NABET PARIS" onClick={close}>

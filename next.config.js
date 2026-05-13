@@ -10,6 +10,21 @@ const nextConfig = {
     dangerouslyAllowSVG: true,
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;"
   },
+  async redirects() {
+    return [
+      { source: "/product-category/:slug*", destination: "/", permanent: true },
+      { source: "/category/:slug*", destination: "/", permanent: true },
+      { source: "/shop/:slug*", destination: "/", permanent: true },
+      { source: "/collections/:slug*", destination: "/", permanent: true },
+      { source: "/products/:slug*", destination: "/", permanent: true },
+      { source: "/cart", destination: "/", permanent: true },
+      { source: "/checkout", destination: "/", permanent: true },
+      { source: "/wp-content/:slug*", destination: "/", permanent: true },
+      { source: "/he/:slug*", destination: "/", permanent: true },
+      { source: "/fr/:slug*", destination: "/", permanent: true }
+    ];
+  },
+
   async headers() {
     return [
       {
