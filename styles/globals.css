@@ -2236,3 +2236,46 @@ header{
     min-height:50px!important;
   }
 }
+@media (max-width: 768px) {
+  .cart-drawer,
+  .cart-panel,
+  .mobile-cart,
+  .cart-modal {
+    z-index: 99999 !important;
+  }
+
+  .cart-drawer button,
+  .cart-panel button,
+  .mobile-cart button,
+  .cart-modal button {
+    position: relative;
+    z-index: 100000 !important;
+    pointer-events: auto !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .cart-drawer,
+  .cart-panel,
+  .cart-modal,
+  .mobile-cart {
+    top: 80px !important;
+    height: calc(100vh - 80px) !important;
+  }
+}
+@media (max-width: 768px) {
+  .cartDrawer {
+    top: 80px !important;
+    height: calc(100vh - 80px) !important;
+    max-height: calc(100vh - 80px) !important;
+    overflow-y: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+  }
+
+  .cartHead {
+    position: sticky !important;
+    top: 0 !important;
+    background: white !important;
+    z-index: 10 !important;
+  }
+}
