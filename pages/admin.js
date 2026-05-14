@@ -155,7 +155,67 @@ function OrdersTable({orders,setCurrentOrder,deleteOrder,orderAction}){
   </div>
 }
 
+function OrderModal({order,setOrder,save,close}){
+  const items = Array.isArray(order.items) ? order.items : [];
+  const customer = order.customer || {};
 
+  return (
+    <div className="modalShade" onClick={close}>
+      <div className="adminModal" onClick={e=>e.stopPropagation()}>
+        <button className="modalClose" onClick={close}>×</button>
+        <h2>Commande {order.id}</h2>
+
+        <div className="twoCols">
+          <label>Nom client
+            <input value={customer.name || ""} onChange={e=>setOrder({...order, customer:{...customer, name:e.target.value}})} />
+          </label>
+          <label>Téléphone
+            <input value={customer.phone || ""} onChange={e=>setOrder({...order, customer:{...customer, phone:e.target.value}})} />
+          </label>
+          <label>Email
+            <input value={customer.email || ""} onChange={e=>setOrder({...order, customer:{...customer, email:e.target.value}})} />
+          </label>
+          <label>Statut
+            <select value={order.status || "pending"} onChange={e=>setOrder({...order,status:e.target.value})}>
+              <option value="pending">En attente</option>
+              <option value="accepted">Acceptée</option>
+              <option value="refused">Refusée</option>
+              <option value="cancelled">Annulée</option>
+              <option value="shipped">Expédiée</option>
+              <option value="refund_started">Remboursement lancé</option>
+              <option value="refund_confirmed">Remboursement confirmé</option>
+            </select>
+          </label>
+        </div>
+
+        <h3>Produits</h3>
+        <div className="adminList">
+          {items.length ? items.map((item,i)=>(
+            <div className="adminItem" key={i}>
+              <img src={item.image || item.img || "/products/placeholder-wallet.svg"} onError={e=>{e.currentTarget.src="/products/placeholder-wallet.svg"}} />
+              <b>{item.name || item.title || "Produit"}</b>
+              <span>Quantité: {item.qty || item.quantity || 1}</span>
+              <span>{Number(item.price || 0).toFixed(2)} ₪</span>
+            </div>
+          )) : <p>Aucun produit dans cette commande.</p>}
+        </div>
+
+        <h3>Total: {Number(order.total || 0).toFixed(2)} ₪</h3>
+
+        <div className="modalActions">
+<button onClick={()=>{
+  setOrder({...order,status:"completed"});
+  save({...order,status:"completed"});
+}}>
+  🚚 ההזמנה נמסרה + מייל
+</button>
+          <button onClick={()=>save(order)}>Sauvegarder + envoyer mail</button>
+          <button onClick={close}>Fermer</button>
+        </div>
+      </div>
+    </div>
+  );
+}
 function CustomersPanel({orders}){ const map={}; orders.forEach(o=>{const key=o.customer?.phone||o.customer?.email||o.customer?.name||"unknown"; if(!map[key])map[key]={...o.customer,orders:0,total:0}; map[key].orders++; map[key].total+=Number(o.total||0);}); const customers=Object.values(map); return <section className="adminBox"><h2>Clients</h2><div className="ordersTable"><div className="ordersHead"><b>Nom</b><b>Téléphone</b><b>Email</b><b>Commandes</b><b>Total</b><b>WhatsApp</b></div>{customers.map((c,i)=><div key={i} className="ordersRow"><span>{c.name}</span><span>{c.phone}</span><span>{c.email}</span><b>{c.orders}</b><b>{shekel(c.total)}</b><a href={`https://wa.me/${String(c.phone||"").replace(/\D/g,"")}`} target="_blank" rel="noreferrer">WhatsApp</a></div>)}</div></section> }
 
 function ProductModal({p,setP,categories,save,close,uploadFiles,uploading,media}){ function set(k,v){setP({...p,[k]:v})} function addImages(files){uploadFiles(files,urls=>{const images=[...(p.images||[]),...urls]; setP({...p,images,image:p.image||images[0]})})} function removeImage(i){const images=[...(p.images||[])]; images.splice(i,1); setP({...p,images,image:images[0]||""})} function mainImage(i){const images=[...(p.images||[])]; const selected=images.splice(i,1)[0]; images.unshift(selected); setP({...p,images,image:selected})} function addMedia(url){const images=[...(p.images||[]),url]; setP({...p,images,image:p.image||url})}

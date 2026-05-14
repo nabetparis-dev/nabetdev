@@ -32,7 +32,7 @@ export default async function handler(req,res){
   if(req.method !== "POST") return res.status(405).end();
 
   const tmpDir = path.join(process.cwd(), "tmp_uploads");
-  const uploadDir = path.join(process.cwd(), "public", "uploads");
+  const uploadDir = path.join(process.cwd(), "public", "uploads", "products");
   fs.mkdirSync(tmpDir,{recursive:true});
   fs.mkdirSync(uploadDir,{recursive:true});
 
@@ -53,15 +53,15 @@ export default async function handler(req,res){
         const dest = path.join(uploadDir, finalName);
 
         try{
-          await optimizeToWebp(file.filepath, dest);
-          urls.push(`/uploads/${finalName}`);
-        }catch(e){
-          const ext = path.extname(original) || ".jpg";
-          const fallbackName = `${base}${ext}`;
-          const fallback = path.join(uploadDir, fallbackName);
-          fs.renameSync(file.filepath, fallback);
-          urls.push(`/uploads/${fallbackName}`);
-        }
+  await optimizeToWebp(file.filepath, dest);
+  urls.push(`/uploads/products/${finalName}`);
+}catch(e){
+  const ext = path.extname(original) || ".jpg";
+  const fallbackName = `${base}${ext}`;
+  const fallback = path.join(uploadDir, fallbackName);
+  fs.renameSync(file.filepath, fallback);
+  urls.push(`/uploads/products/${fallbackName}`);
+}
 
         try{ if(fs.existsSync(file.filepath)) fs.unlinkSync(file.filepath); }catch{}
       }

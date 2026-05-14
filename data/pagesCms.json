@@ -20,12 +20,17 @@
         "url": "/category/suitcases"
       },
       {
-        "label": "תיקי גב",
+        "label": "תיקים גברים",
         "url": "/category/backpacks"
       },
       {
+        "label": "תיקים וארנקים לנשים",
+        "url": "category/tikim-ve-arnakim-la-nashim "
+      },
+      {
         "label": "צור קשר",
-        "url": "/contact"
+        "url": "/contact",
+        "newTab": false
       }
     ]
   },
