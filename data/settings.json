@@ -14,6 +14,12 @@
     "closeMinutesBeforeCandleLighting": 0,
     "openMinutesAfterHavdalah": 0,
     "message": "האתר סגור כעת לכבוד שבת וייפתח בצאת השבת.",
-    "allowAdmin": true
+    "allowAdmin": true,
+    "title": "האתר סגור כעת לכבוד שבת",
+    "badge": "שבת שלום",
+    "logo": "/logo-nabet.png",
+    "image": "",
+    "saleText": "אחרי שבת כל האתר עד 50% הנחה — תחזרו מהר!",
+    "smallText": "תודה על ההבנה. נשמח לראותכם שוב לאחר צאת השבת."
   }
 }

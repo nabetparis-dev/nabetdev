@@ -11,6 +11,7 @@ export default function handler(req,res){
     if(b.designSettings) writeJson("designSettings",b.designSettings);
     if(b.coupons) writeJson("coupons",b.coupons);
     if(b.translations) writeJson("translations",b.translations);
+    if(b.settings) writeJson("settings",{...safe("settings",{}),...b.settings});
     res.json({ok:true});
   } else res.status(405).end();
 }

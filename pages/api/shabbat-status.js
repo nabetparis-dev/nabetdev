@@ -86,6 +86,21 @@ function findWindow(now = new Date()) {
 export default function handler(req, res) {
   try {
     const settings = readJson("settings").shabbatMode || {};
+    if (settings.forceClosed) {
+      res.setHeader("Cache-Control", "no-store, max-age=0");
+      return res.json({
+        enabled:true,
+        closed:true,
+        manual:true,
+        message: settings.message || "האתר סגור זמנית לצורך תחזוקה.",
+        title: settings.title || "האתר סגור כעת לכבוד שבת",
+        badge: settings.badge || "שבת שלום",
+        saleText: settings.saleText || "אחרי שבת כל האתר עד 50% הנחה — תחזרו מהר!",
+        smallText: settings.smallText || "תודה על ההבנה. נשמח לראותכם שוב לאחר צאת השבת.",
+        image: settings.image || "",
+        logo: settings.logo || "/logo-nabet.png"
+      });
+    }
     if (!settings.enabled) {
       return res.json({ closed: false, enabled: false });
     }
@@ -99,6 +114,12 @@ export default function handler(req, res) {
         enabled: true,
         closed: true,
         message: settings.message || "האתר סגור כעת לכבוד שבת וייפתח בצאת השבת.",
+        title: settings.title || "האתר סגור כעת לכבוד שבת",
+        badge: settings.badge || "שבת שלום",
+        saleText: settings.saleText || "אחרי שבת כל האתר עד 50% הנחה — תחזרו מהר!",
+        smallText: settings.smallText || "תודה על ההבנה. נשמח לראותכם שוב לאחר צאת השבת.",
+        image: settings.image || "",
+        logo: settings.logo || "/logo-nabet.png",
         candleLighting: active.candleLighting.toISOString(),
         havdalah: active.havdalah.toISOString(),
         closeAt: active.closeAt.toISOString(),

@@ -39,28 +39,39 @@ export function CartProvider({ children }) {
     setProductsMap(prev => ({ ...prev, ...map }));
   }
 
-  function add(product, qty = 1) {
-    if (!product || product.stock <= 0) return alert(t("productUnavailable"));
-    setProductsMap(prev => ({ ...prev, [product.id]: product }));
+  function add(product, qty = 1, options = {}) {
+    if (!product || Number(options.stock ?? product.stock ?? 0) <= 0) return alert(t("productUnavailable"));
+    const color = options.color || product.selectedColor || "";
+    const colorHex = options.colorHex || product.selectedColorHex || "";
+    const size = options.size || product.selectedSize || "";
+    const variantImage = options.image || product.selectedImage || product.image || (product.images && product.images[0]) || "";
+    const variantKey = options.variantKey || [product.id, color, size].filter(Boolean).join("__") || product.id;
+    const cartBaseName = product.baseName || product.name;
+    const displayName = [cartBaseName, color, size].filter(Boolean).join(" - ");
+    const finalPrice = Number(options.price ?? product.price ?? 0);
+    const finalOldPrice = Number(options.oldPrice ?? product.oldPrice ?? 0);
+    const finalStock = Number(options.stock ?? product.stock ?? 0);
+    const cartProduct = { ...product, name: displayName, price: finalPrice, oldPrice: finalOldPrice, stock: finalStock, image: variantImage, images: [variantImage, ...((product.images||[]).filter(x=>x!==variantImage))], selectedColor: color, selectedColorHex: colorHex, selectedSize: size };
+    setProductsMap(prev => ({ ...prev, [variantKey]: cartProduct }));
     setItems(prev => {
-      const found = prev.find(x => x.id === product.id);
-      if (found) return prev.map(x => x.id === product.id ? { ...x, qty: x.qty + qty } : x);
-      return [...prev, { id: product.id, qty }];
+      const found = prev.find(x => x.key === variantKey);
+      if (found) return prev.map(x => x.key === variantKey ? { ...x, qty: x.qty + qty } : x);
+      return [...prev, { key: variantKey, id: product.id, qty, color, colorHex, size, image: variantImage }];
     });
-    setAddedNotice(product.name || t("addedToCart"));
+    setAddedNotice(displayName || t("addedToCart"));
     clearTimeout(window.__nabetAddedTimer);
     window.__nabetAddedTimer = setTimeout(() => setAddedNotice(null), 2600);
   }
 
-  function changeQty(id, delta) {
-    setItems(prev => prev.map(x => x.id === id ? { ...x, qty: x.qty + delta } : x).filter(x => x.qty > 0));
+  function changeQty(key, delta) {
+    setItems(prev => prev.map(x => (x.key || x.id) === key ? { ...x, qty: x.qty + delta } : x).filter(x => x.qty > 0));
   }
 
-  function remove(id) { setItems(prev => prev.filter(x => x.id !== id)); }
+  function remove(key) { setItems(prev => prev.filter(x => (x.key || x.id) !== key)); }
   function clear() { setItems([]); try { localStorage.removeItem("nabet_cart"); } catch {} }
 
   const count = items.reduce((s, x) => s + x.qty, 0);
-  const subtotal = items.reduce((s, x) => s + ((productsMap[x.id]?.price || 0) * x.qty), 0);
+  const subtotal = items.reduce((s, x) => s + (Number(x.price ?? productsMap[x.key || x.id]?.price ?? productsMap[x.id]?.price ?? 0) * x.qty), 0);
   const shipping = count > 0 ? SHIPPING_PER_ORDER : 0;
 
   const value = useMemo(() => ({
@@ -153,6 +164,28 @@ function CartDrawer() {
         return;
      
       }
+    const payRes = await fetch("/api/create-checkout-session", {
+        method: "POST",
+        headers: {"Content-Type":"application/json"},
+        body: JSON.stringify({
+          amount: total,
+          items: cart.items,
+          customer: customerForOrder,
+          deliveryMode,
+          shipping: shippingCost,
+          discount
+        })
+      });
+
+      const payData = await payRes.json();
+
+      if (!payRes.ok || !payData.url) {
+        alert(payData.error || "שגיאה ביצירת תשלום");
+        return;
+      }
+
+      window.location.href = payData.url;
+      return;
     } catch (e) {
       alert("שגיאה בשליחת ההזמנה: " + e.message);
     } finally {
@@ -175,20 +208,20 @@ function CartDrawer() {
           <>
             <div className="cartList">
               {cart.items.map(item => {
-                const p = cart.productsMap[item.id];
+                const p = cart.productsMap[item.key || item.id] || cart.productsMap[item.id];
                 const urgent = stockUrgency(p, t);
                 if (!p) return null;
                 return (
-                  <div className="cartItem" key={item.id}>
-                    <img src={(p.images && p.images[0]) || p.image} alt={p.name} />
+                  <div className="cartItem" key={item.key || item.id}>
+                    <img src={item.image || (p.images && p.images[0]) || p.image} alt={p.name} />
                     <div>
-                      <b>{p.name}</b><span>{shekel(p.price)}</span>
+                      <b>{item.name || p.name}</b>{(item.color || item.size) && <small className="cartVariantLine">{item.color && <>צבע: {item.color}</>}{item.color && item.size ? " · " : ""}{item.size && <>מידה: {item.size}</>}</small>}<span>{shekel(Number(item.price ?? p.price ?? 0))}</span>
                       {urgent && <em className="cartUrgent">{urgent}</em>}
                       <div className="qty">
-                        <button onClick={() => cart.changeQty(item.id, -1)}>-</button>
+                        <button onClick={() => cart.changeQty(item.key || item.id, -1)}>-</button>
                         <strong>{item.qty}</strong>
-                        <button onClick={() => cart.changeQty(item.id, 1)}>+</button>
-                        <button className="remove" onClick={() => cart.remove(item.id)}>{t("remove")}</button>
+                        <button onClick={() => cart.changeQty(item.key || item.id, 1)}>+</button>
+                        <button className="remove" onClick={() => cart.remove(item.key || item.id)}>{t("remove")}</button>
                       </div>
                     </div>
                   </div>

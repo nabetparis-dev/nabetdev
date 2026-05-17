@@ -11,12 +11,12 @@ function check(req){
 }
 
 function clean(name){
-  return String(name||"image")
+  return String(name || "image")
     .toLowerCase()
     .replace(/[^a-z0-9._-]+/g,"-")
     .replace(/-+/g,"-")
     .replace(/^-|-$/g,"")
-    .slice(0,80);
+    .slice(0,80) || "image";
 }
 
 async function optimizeToWebp(inputPath, outputPath){
@@ -25,6 +25,12 @@ async function optimizeToWebp(inputPath, outputPath){
     .resize({ width: 1400, height: 1400, fit: "inside", withoutEnlargement: true })
     .webp({ quality: 76, effort: 5 })
     .toFile(outputPath);
+}
+
+function parseForm(req, form){
+  return new Promise((resolve, reject) => {
+    form.parse(req, (err, fields, files) => err ? reject(err) : resolve({ fields, files }));
+  });
 }
 
 export default async function handler(req,res){
@@ -36,49 +42,46 @@ export default async function handler(req,res){
   fs.mkdirSync(tmpDir,{recursive:true});
   fs.mkdirSync(uploadDir,{recursive:true});
 
-  const form = formidable({ multiples:true, uploadDir:tmpDir, keepExtensions:true, maxFileSize: 60*1024*1024 });
+  try{
+    const form = formidable({ multiples:true, uploadDir:tmpDir, keepExtensions:true, maxFileSize: 60*1024*1024 });
+    const { files } = await parseForm(req, form);
+    const incoming = files.files || files.file || [];
+    const arr = Array.isArray(incoming) ? incoming : [incoming];
+    const urls = [];
 
-  form.parse(req, async (err,fields,files)=>{
-    if(err) return res.status(500).json({error:err.message});
-    try{
-      const incoming = files.files || files.file || [];
-      const arr = Array.isArray(incoming) ? incoming : [incoming];
-      const urls = [];
+    for(const file of arr){
+      if(!file?.filepath) continue;
+      const original = file.originalFilename || file.newFilename || "image";
+      const base = `${Date.now()}-${Math.random().toString(16).slice(2)}-${clean(original)}`.replace(/\.[^.]+$/,"");
+      const finalName = `${base}.webp`;
+      const dest = path.join(uploadDir, finalName);
 
-      for(const file of arr){
-        if(!file?.filepath) continue;
-        const original = file.originalFilename || file.newFilename || "image";
-        const base = `${Date.now()}-${Math.random().toString(16).slice(2)}-${clean(original)}`.replace(/\.[^.]+$/,"");
-        const finalName = `${base}.webp`;
-        const dest = path.join(uploadDir, finalName);
-
-        try{
-  await optimizeToWebp(file.filepath, dest);
-  urls.push(`/uploads/products/${finalName}`);
-}catch(e){
-  const ext = path.extname(original) || ".jpg";
-  const fallbackName = `${base}${ext}`;
-  const fallback = path.join(uploadDir, fallbackName);
-  fs.renameSync(file.filepath, fallback);
-  urls.push(`/uploads/products/${fallbackName}`);
-}
-
+      try{
+        await optimizeToWebp(file.filepath, dest);
+        urls.push(`/uploads/products/${finalName}`);
+      }catch(e){
+        const ext = path.extname(original) || ".jpg";
+        const fallbackName = `${base}${ext}`;
+        const fallback = path.join(uploadDir, fallbackName);
+        fs.renameSync(file.filepath, fallback);
+        urls.push(`/uploads/products/${fallbackName}`);
+      }finally{
         try{ if(fs.existsSync(file.filepath)) fs.unlinkSync(file.filepath); }catch{}
       }
-
-      let media=[]; try{ media=readJson("media"); }catch{}
-      const newItems = urls.map(url=>({
-        id:`media-${Date.now()}-${Math.random().toString(16).slice(2)}`,
-        url,
-        name:url.split("/").pop(),
-        optimized:true,
-        createdAt:new Date().toISOString()
-      }));
-
-      writeJson("media",[...newItems,...media]);
-      res.json({ok:true,files:urls,media:newItems});
-    }catch(e){
-      res.status(500).json({error:e.message});
     }
-  });
+
+    let media=[]; try{ media=readJson("media"); }catch{}
+    const newItems = urls.map(url=>({
+      id:`media-${Date.now()}-${Math.random().toString(16).slice(2)}`,
+      url,
+      name:url.split("/").pop(),
+      optimized:true,
+      createdAt:new Date().toISOString()
+    }));
+
+    writeJson("media",[...newItems,...media]);
+    return res.json({ok:true,files:urls,media:newItems});
+  }catch(e){
+    return res.status(500).json({error:e.message});
+  }
 }

@@ -11,7 +11,12 @@ export default async function handler(req,res){
     const p = products.find(x => x.id === item.id);
     const qty = Number(item.qty || 1);
     const price = Number(p?.price || item.price || 0);
-    return {id:item.id,name:p?.name||item.name||item.id,image:p?.image||"",price,qty,total:price*qty};
+    const color = item.color || item.selectedColor || "";
+    const size = item.size || item.selectedSize || "";
+    const image = item.image || p?.image || "";
+    const baseName = p?.name || item.name || item.id;
+    const name = [baseName, color, size].filter(Boolean).join(" - ");
+    return {id:item.id,key:item.key||item.id,name,image,price,qty,color,size,total:price*qty};
   });
   const subtotal = items.reduce((s,i)=>s+i.total,0);
   const discount = Number(body.discount || 0);

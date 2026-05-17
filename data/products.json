@@ -1,5 +1,599 @@
 [
   {
+    "id": "waterproof-rolling-travel-bag",
+    "name": "תיק נסיעות עם גלגלים ותאים מרובים",
+    "slug": "תיק-נסיעות-עם-גלגלים-ותאים-מרובים",
+    "categoryId": "suitcases",
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 2,
+    "badge": "מבצע",
+    "color": "blue",
+    "image": "/uploads/products/1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+    "images": [
+      "/uploads/products/1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+    ],
+    "shortDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה במיוחד",
+    "description": "תיק נסיעות איכותי וחזק במיוחד עם גלגלים איכותיים לנסיעה נוחה וקלה.\nהתיק מתאים במיוחד לטיסות, חופשות, נסיעות עבודה ושימוש יומיומי.\n\nכולל תאים רבים ורוכסנים חזקים לארגון מושלם של בגדים, מסמכים, אביזרים וציוד אישי בצורה מסודרת ונוחה.\n\nעשוי מחומר עמיד במיוחד עם הגנה טובה מפני מים ולחות, לשמירה מקסימלית על הציוד שלכם גם במהלך נסיעות ארוכות.\n\n✔ גלגלים איכותיים ושקטים\n✔ תאים רבים לאחסון נוח\n✔ עמיד במיוחד למשקל\n✔ חומר חזק ואיכותי\n✔ עמיד למים\n✔ ידיות אחיזה נוחות\n✔ מושלם לנסיעות ולטיסות\n✔ עיצוב אלגנטי ומודרני\n\nהתיק משלב נוחות, איכות ועמידות ברמה גבוהה במיוחד.",
+    "seoTitle": "תיק נסיעות עם גלגלים עמיד למים | Nabet Paris",
+    "seoDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה למים ולמשקל. מושלם לטיסות, חופשות ונסיעות מבית Nabet Paris.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "תיק נסיעות מבוקש מאוד",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:49:00.000Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bdbdbd",
+        "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      }
+    ],
+    "sizeVariants": [
+      {
+        "label": "קטן",
+        "description": "20 אינץ׳ — מתאים לקבינה",
+        "price": 299.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "בנוני",
+        "description": "24 אינץ׳ — מתאים לקבינה",
+        "price": 319.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "גדול",
+        "description": "28 אינץ׳ — מתאים לקבינה",
+        "price": 349.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      }
+    ],
+    "updatedAt": "2026-05-17T13:24:41.903Z"
+  },
+  {
+    "id": "waterproof-rolling-travel-bag--שחור-קטן",
+    "name": "תיק נסיעות עם גלגלים ותאים מרובים שחור קטן",
+    "slug": "waterproof-rolling-travel-bag--שחור-קטן",
+    "categoryId": "suitcases",
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 2,
+    "badge": "מבצע",
+    "color": "שחור",
+    "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+    "images": [
+      "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+    ],
+    "shortDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה במיוחד",
+    "description": "תיק נסיעות איכותי וחזק במיוחד עם גלגלים איכותיים לנסיעה נוחה וקלה.\nהתיק מתאים במיוחד לטיסות, חופשות, נסיעות עבודה ושימוש יומיומי.\n\nכולל תאים רבים ורוכסנים חזקים לארגון מושלם של בגדים, מסמכים, אביזרים וציוד אישי בצורה מסודרת ונוחה.\n\nעשוי מחומר עמיד במיוחד עם הגנה טובה מפני מים ולחות, לשמירה מקסימלית על הציוד שלכם גם במהלך נסיעות ארוכות.\n\n✔ גלגלים איכותיים ושקטים\n✔ תאים רבים לאחסון נוח\n✔ עמיד במיוחד למשקל\n✔ חומר חזק ואיכותי\n✔ עמיד למים\n✔ ידיות אחיזה נוחות\n✔ מושלם לנסיעות ולטיסות\n✔ עיצוב אלגנטי ומודרני\n\nהתיק משלב נוחות, איכות ועמידות ברמה גבוהה במיוחד.",
+    "seoTitle": "תיק נסיעות עם גלגלים ותאים מרובים שחור קטן | NABET PARIS",
+    "seoDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה למים ולמשקל. מושלם לטיסות, חופשות ונסיעות מבית Nabet Paris.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "תיק נסיעות מבוקש מאוד",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-17T13:24:41.906Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bdbdbd",
+        "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      }
+    ],
+    "sizeVariants": [
+      {
+        "label": "קטן",
+        "description": "20 אינץ׳ — מתאים לקבינה",
+        "price": 299.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "בנוני",
+        "description": "24 אינץ׳ — מתאים לקבינה",
+        "price": 319.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "גדול",
+        "description": "28 אינץ׳ — מתאים לקבינה",
+        "price": 349.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      }
+    ],
+    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
+    "size": "קטן",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "קטן",
+      "colorHex": "#111111",
+      "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 2
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "waterproof-rolling-travel-bag",
+    "parentProductId": "waterproof-rolling-travel-bag"
+  },
+  {
+    "id": "waterproof-rolling-travel-bag--שחור-בנוני",
+    "name": "תיק נסיעות עם גלגלים ותאים מרובים שחור בנוני",
+    "slug": "waterproof-rolling-travel-bag--שחור-בנוני",
+    "categoryId": "suitcases",
+    "price": 319.9,
+    "oldPrice": 599.9,
+    "stock": 2,
+    "badge": "מבצע",
+    "color": "שחור",
+    "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+    "images": [
+      "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+    ],
+    "shortDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה במיוחד",
+    "description": "תיק נסיעות איכותי וחזק במיוחד עם גלגלים איכותיים לנסיעה נוחה וקלה.\nהתיק מתאים במיוחד לטיסות, חופשות, נסיעות עבודה ושימוש יומיומי.\n\nכולל תאים רבים ורוכסנים חזקים לארגון מושלם של בגדים, מסמכים, אביזרים וציוד אישי בצורה מסודרת ונוחה.\n\nעשוי מחומר עמיד במיוחד עם הגנה טובה מפני מים ולחות, לשמירה מקסימלית על הציוד שלכם גם במהלך נסיעות ארוכות.\n\n✔ גלגלים איכותיים ושקטים\n✔ תאים רבים לאחסון נוח\n✔ עמיד במיוחד למשקל\n✔ חומר חזק ואיכותי\n✔ עמיד למים\n✔ ידיות אחיזה נוחות\n✔ מושלם לנסיעות ולטיסות\n✔ עיצוב אלגנטי ומודרני\n\nהתיק משלב נוחות, איכות ועמידות ברמה גבוהה במיוחד.",
+    "seoTitle": "תיק נסיעות עם גלגלים ותאים מרובים שחור בנוני | NABET PARIS",
+    "seoDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה למים ולמשקל. מושלם לטיסות, חופשות ונסיעות מבית Nabet Paris.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "תיק נסיעות מבוקש מאוד",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-17T13:24:41.906Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bdbdbd",
+        "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      }
+    ],
+    "sizeVariants": [
+      {
+        "label": "קטן",
+        "description": "20 אינץ׳ — מתאים לקבינה",
+        "price": 299.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "בנוני",
+        "description": "24 אינץ׳ — מתאים לקבינה",
+        "price": 319.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "גדול",
+        "description": "28 אינץ׳ — מתאים לקבינה",
+        "price": 349.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      }
+    ],
+    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
+    "size": "בנוני",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "בנוני",
+      "colorHex": "#111111",
+      "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+      "price": 319.9,
+      "oldPrice": 599.9,
+      "stock": 2
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "waterproof-rolling-travel-bag",
+    "parentProductId": "waterproof-rolling-travel-bag"
+  },
+  {
+    "id": "waterproof-rolling-travel-bag--שחור-גדול",
+    "name": "תיק נסיעות עם גלגלים ותאים מרובים שחור גדול",
+    "slug": "waterproof-rolling-travel-bag--שחור-גדול",
+    "categoryId": "suitcases",
+    "price": 349.9,
+    "oldPrice": 599.9,
+    "stock": 2,
+    "badge": "מבצע",
+    "color": "שחור",
+    "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+    "images": [
+      "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+    ],
+    "shortDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה במיוחד",
+    "description": "תיק נסיעות איכותי וחזק במיוחד עם גלגלים איכותיים לנסיעה נוחה וקלה.\nהתיק מתאים במיוחד לטיסות, חופשות, נסיעות עבודה ושימוש יומיומי.\n\nכולל תאים רבים ורוכסנים חזקים לארגון מושלם של בגדים, מסמכים, אביזרים וציוד אישי בצורה מסודרת ונוחה.\n\nעשוי מחומר עמיד במיוחד עם הגנה טובה מפני מים ולחות, לשמירה מקסימלית על הציוד שלכם גם במהלך נסיעות ארוכות.\n\n✔ גלגלים איכותיים ושקטים\n✔ תאים רבים לאחסון נוח\n✔ עמיד במיוחד למשקל\n✔ חומר חזק ואיכותי\n✔ עמיד למים\n✔ ידיות אחיזה נוחות\n✔ מושלם לנסיעות ולטיסות\n✔ עיצוב אלגנטי ומודרני\n\nהתיק משלב נוחות, איכות ועמידות ברמה גבוהה במיוחד.",
+    "seoTitle": "תיק נסיעות עם גלגלים ותאים מרובים שחור גדול | NABET PARIS",
+    "seoDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה למים ולמשקל. מושלם לטיסות, חופשות ונסיעות מבית Nabet Paris.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "תיק נסיעות מבוקש מאוד",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-17T13:24:41.906Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bdbdbd",
+        "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      }
+    ],
+    "sizeVariants": [
+      {
+        "label": "קטן",
+        "description": "20 אינץ׳ — מתאים לקבינה",
+        "price": 299.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "בנוני",
+        "description": "24 אינץ׳ — מתאים לקבינה",
+        "price": 319.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "גדול",
+        "description": "28 אינץ׳ — מתאים לקבינה",
+        "price": 349.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      }
+    ],
+    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
+    "size": "גדול",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "גדול",
+      "colorHex": "#111111",
+      "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+      "price": 349.9,
+      "oldPrice": 599.9,
+      "stock": 2
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "waterproof-rolling-travel-bag",
+    "parentProductId": "waterproof-rolling-travel-bag"
+  },
+  {
+    "id": "waterproof-rolling-travel-bag--אפור-קטן",
+    "name": "תיק נסיעות עם גלגלים ותאים מרובים אפור קטן",
+    "slug": "waterproof-rolling-travel-bag--אפור-קטן",
+    "categoryId": "suitcases",
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 2,
+    "badge": "מבצע",
+    "color": "אפור",
+    "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+    "images": [
+      "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+    ],
+    "shortDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה במיוחד",
+    "description": "תיק נסיעות איכותי וחזק במיוחד עם גלגלים איכותיים לנסיעה נוחה וקלה.\nהתיק מתאים במיוחד לטיסות, חופשות, נסיעות עבודה ושימוש יומיומי.\n\nכולל תאים רבים ורוכסנים חזקים לארגון מושלם של בגדים, מסמכים, אביזרים וציוד אישי בצורה מסודרת ונוחה.\n\nעשוי מחומר עמיד במיוחד עם הגנה טובה מפני מים ולחות, לשמירה מקסימלית על הציוד שלכם גם במהלך נסיעות ארוכות.\n\n✔ גלגלים איכותיים ושקטים\n✔ תאים רבים לאחסון נוח\n✔ עמיד במיוחד למשקל\n✔ חומר חזק ואיכותי\n✔ עמיד למים\n✔ ידיות אחיזה נוחות\n✔ מושלם לנסיעות ולטיסות\n✔ עיצוב אלגנטי ומודרני\n\nהתיק משלב נוחות, איכות ועמידות ברמה גבוהה במיוחד.",
+    "seoTitle": "תיק נסיעות עם גלגלים ותאים מרובים אפור קטן | NABET PARIS",
+    "seoDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה למים ולמשקל. מושלם לטיסות, חופשות ונסיעות מבית Nabet Paris.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "תיק נסיעות מבוקש מאוד",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-17T13:24:41.906Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bdbdbd",
+        "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      }
+    ],
+    "sizeVariants": [
+      {
+        "label": "קטן",
+        "description": "20 אינץ׳ — מתאים לקבינה",
+        "price": 299.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "בנוני",
+        "description": "24 אינץ׳ — מתאים לקבינה",
+        "price": 319.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "גדול",
+        "description": "28 אינץ׳ — מתאים לקבינה",
+        "price": 349.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      }
+    ],
+    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
+    "size": "קטן",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "קטן",
+      "colorHex": "#bdbdbd",
+      "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 2
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "waterproof-rolling-travel-bag",
+    "parentProductId": "waterproof-rolling-travel-bag"
+  },
+  {
+    "id": "waterproof-rolling-travel-bag--אפור-בנוני",
+    "name": "תיק נסיעות עם גלגלים ותאים מרובים אפור בנוני",
+    "slug": "waterproof-rolling-travel-bag--אפור-בנוני",
+    "categoryId": "suitcases",
+    "price": 319.9,
+    "oldPrice": 599.9,
+    "stock": 2,
+    "badge": "מבצע",
+    "color": "אפור",
+    "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+    "images": [
+      "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+    ],
+    "shortDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה במיוחד",
+    "description": "תיק נסיעות איכותי וחזק במיוחד עם גלגלים איכותיים לנסיעה נוחה וקלה.\nהתיק מתאים במיוחד לטיסות, חופשות, נסיעות עבודה ושימוש יומיומי.\n\nכולל תאים רבים ורוכסנים חזקים לארגון מושלם של בגדים, מסמכים, אביזרים וציוד אישי בצורה מסודרת ונוחה.\n\nעשוי מחומר עמיד במיוחד עם הגנה טובה מפני מים ולחות, לשמירה מקסימלית על הציוד שלכם גם במהלך נסיעות ארוכות.\n\n✔ גלגלים איכותיים ושקטים\n✔ תאים רבים לאחסון נוח\n✔ עמיד במיוחד למשקל\n✔ חומר חזק ואיכותי\n✔ עמיד למים\n✔ ידיות אחיזה נוחות\n✔ מושלם לנסיעות ולטיסות\n✔ עיצוב אלגנטי ומודרני\n\nהתיק משלב נוחות, איכות ועמידות ברמה גבוהה במיוחד.",
+    "seoTitle": "תיק נסיעות עם גלגלים ותאים מרובים אפור בנוני | NABET PARIS",
+    "seoDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה למים ולמשקל. מושלם לטיסות, חופשות ונסיעות מבית Nabet Paris.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "תיק נסיעות מבוקש מאוד",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-17T13:24:41.906Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bdbdbd",
+        "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      }
+    ],
+    "sizeVariants": [
+      {
+        "label": "קטן",
+        "description": "20 אינץ׳ — מתאים לקבינה",
+        "price": 299.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "בנוני",
+        "description": "24 אינץ׳ — מתאים לקבינה",
+        "price": 319.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "גדול",
+        "description": "28 אינץ׳ — מתאים לקבינה",
+        "price": 349.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      }
+    ],
+    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
+    "size": "בנוני",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "בנוני",
+      "colorHex": "#bdbdbd",
+      "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+      "price": 319.9,
+      "oldPrice": 599.9,
+      "stock": 2
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "waterproof-rolling-travel-bag",
+    "parentProductId": "waterproof-rolling-travel-bag"
+  },
+  {
+    "id": "waterproof-rolling-travel-bag--אפור-גדול",
+    "name": "תיק נסיעות עם גלגלים ותאים מרובים אפור גדול",
+    "slug": "waterproof-rolling-travel-bag--אפור-גדול",
+    "categoryId": "suitcases",
+    "price": 349.9,
+    "oldPrice": 599.9,
+    "stock": 2,
+    "badge": "מבצע",
+    "color": "אפור",
+    "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+    "images": [
+      "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+    ],
+    "shortDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה במיוחד",
+    "description": "תיק נסיעות איכותי וחזק במיוחד עם גלגלים איכותיים לנסיעה נוחה וקלה.\nהתיק מתאים במיוחד לטיסות, חופשות, נסיעות עבודה ושימוש יומיומי.\n\nכולל תאים רבים ורוכסנים חזקים לארגון מושלם של בגדים, מסמכים, אביזרים וציוד אישי בצורה מסודרת ונוחה.\n\nעשוי מחומר עמיד במיוחד עם הגנה טובה מפני מים ולחות, לשמירה מקסימלית על הציוד שלכם גם במהלך נסיעות ארוכות.\n\n✔ גלגלים איכותיים ושקטים\n✔ תאים רבים לאחסון נוח\n✔ עמיד במיוחד למשקל\n✔ חומר חזק ואיכותי\n✔ עמיד למים\n✔ ידיות אחיזה נוחות\n✔ מושלם לנסיעות ולטיסות\n✔ עיצוב אלגנטי ומודרני\n\nהתיק משלב נוחות, איכות ועמידות ברמה גבוהה במיוחד.",
+    "seoTitle": "תיק נסיעות עם גלגלים ותאים מרובים אפור גדול | NABET PARIS",
+    "seoDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה למים ולמשקל. מושלם לטיסות, חופשות ונסיעות מבית Nabet Paris.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "תיק נסיעות מבוקש מאוד",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-17T13:24:41.906Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024234803-095b5e532b81d-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bdbdbd",
+        "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+        "images": [
+          "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+        ],
+        "stock": 2
+      }
+    ],
+    "sizeVariants": [
+      {
+        "label": "קטן",
+        "description": "20 אינץ׳ — מתאים לקבינה",
+        "price": 299.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "בנוני",
+        "description": "24 אינץ׳ — מתאים לקבינה",
+        "price": 319.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      },
+      {
+        "label": "גדול",
+        "description": "28 אינץ׳ — מתאים לקבינה",
+        "price": 349.9,
+        "oldPrice": 599.9,
+        "stock": 2
+      }
+    ],
+    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
+    "size": "גדול",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "גדול",
+      "colorHex": "#bdbdbd",
+      "image": "/uploads/products/1779024277351-e2d9ee5cde6c9-1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
+      "price": 349.9,
+      "oldPrice": 599.9,
+      "stock": 2
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "waterproof-rolling-travel-bag",
+    "parentProductId": "waterproof-rolling-travel-bag"
+  },
+  {
     "id": "ארנק-עור-לגבר-ארנק-איכותי-ואלגנטי",
     "slug": "ארנק-עור-לגבר-איכותי-ואלגנטי",
     "wpId": "199",
@@ -45,7 +639,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:00:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-rfid-slim-l-brown",
@@ -93,7 +693,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:01:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-blue",
@@ -140,7 +746,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:02:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "rfid-ארנק-נשלפים",
@@ -188,7 +800,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:03:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "rfid-ארנק-קטן",
@@ -236,7 +854,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:04:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-black-magnet",
@@ -283,7 +907,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:05:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "rfid-נבט-פריז-ארנק",
@@ -331,7 +961,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:06:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "rfid-ארנק-יוקרתי",
@@ -378,7 +1014,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:07:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "backpack-platinum-black",
@@ -431,7 +1073,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:08:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "backpack-ind-black",
@@ -479,7 +1127,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:09:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "backpack-tema",
@@ -529,7 +1183,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:10:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "backpack-top-black",
@@ -582,7 +1242,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:11:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "backpack-superb-black",
@@ -635,7 +1301,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:12:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "backpack-bomba-black-kp",
@@ -684,7 +1356,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:13:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "suitcase-cabin-case-20-black",
@@ -731,7 +1409,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:14:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "suitcase-cabin-case-20-blue",
@@ -778,7 +1462,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:15:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "suitcase-cabin-case-20-grey-teze",
@@ -825,7 +1515,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:16:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "luggage-sets-3-pieces-nabet-paris-grey",
@@ -872,7 +1568,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:17:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "luggage-sets-3-pieces-nabet-paris-blue-turquoise",
@@ -919,7 +1621,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:18:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-wine-red-magnet",
@@ -966,7 +1674,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:19:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-orange-magnet",
@@ -1013,7 +1727,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:20:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-red-magnet",
@@ -1059,7 +1779,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:21:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-camel-magnet",
@@ -1105,7 +1831,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:22:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-nabet-paris-rfid-big-wallet",
@@ -1152,7 +1884,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:23:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-black",
@@ -1199,7 +1937,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:24:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-brown",
@@ -1246,7 +1990,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:25:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "suitcase-24-grey-teze",
@@ -1293,7 +2043,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:26:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "suitcase-24-turquoise",
@@ -1340,7 +2096,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:27:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "suitcase-24-black",
@@ -1387,7 +2149,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:28:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "suitcase-24-grey",
@@ -1434,7 +2202,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:29:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "suitcase-24-black",
@@ -1487,7 +2261,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:30:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "big-suitcase-xxl-28-turquoise",
@@ -1534,7 +2314,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "createdAt": "2026-05-14T08:31:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "ארנק-יוקרתי",
@@ -1581,7 +2367,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:32:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "ארנק-קטן-נשלף",
@@ -1628,7 +2420,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:33:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "נבט-פריז-ארנק-נשלף",
@@ -1675,7 +2473,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:34:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "ארנק-קומפקטי-נבט-פריז",
@@ -1722,7 +2526,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:35:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "ארנק-קומפקטי",
@@ -1769,7 +2579,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:36:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "ארנק-לכרטיסים",
@@ -1816,7 +2632,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:37:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "מחזיק-כרטיסים",
@@ -1863,7 +2685,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "createdAt": "2026-05-14T08:38:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-slim-rfid-brown-magnet",
@@ -1910,7 +2738,13 @@
     ],
     "showStockUrgency": true,
     "urgentText": "",
-    "color": ""
+    "color": "",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:39:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "ארנק-אדום-לאישה-nabet-paris",
@@ -1934,7 +2768,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "⚠ נותרו יחידות אחרונות במלאי – הביקוש גבוה!"
+    "urgentText": "⚠ נותרו יחידות אחרונות במלאי – הביקוש גבוה!",
+    "categoryIds": [
+      "women-bags-wallets"
+    ],
+    "createdAt": "2026-05-14T08:40:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "tik-gaver-shahor-alaksoni-yokrati-nabet-paris",
@@ -1958,7 +2798,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "נותרו יחידות אחרונות במלאי"
+    "urgentText": "נותרו יחידות אחרונות במלאי",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:41:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "tik-gav-ortopedi-lemahshev-nayad-nabet-paris",
@@ -1984,7 +2830,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "⚠ המלאי מוגבל"
+    "urgentText": "⚠ המלאי מוגבל",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:42:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "wallet-passport-women",
@@ -2008,7 +2860,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "מוצר מבוקש מאוד"
+    "urgentText": "מוצר מבוקש מאוד",
+    "categoryIds": [
+      "women-bags-wallets"
+    ],
+    "createdAt": "2026-05-14T08:43:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "lightweight-waterproof-backpack",
@@ -2032,7 +2890,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "נמכר במהירות"
+    "urgentText": "נמכר במהירות",
+    "categoryIds": [
+      "women-bags-wallets"
+    ],
+    "createdAt": "2026-05-14T08:44:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "expandable-airplane-backpack",
@@ -2056,7 +2920,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "✔ תיק מבוקש מאוד לנסיעות"
+    "urgentText": "✔ תיק מבוקש מאוד לנסיעות",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:45:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "tefillin-laptop-travel-bag",
@@ -2080,7 +2950,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "נמכר במהירות"
+    "urgentText": "נמכר במהירות",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:46:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "tefillin-laptop-travel-bag-21",
@@ -2104,7 +2980,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "נמכר במהירות"
+    "urgentText": "נמכר במהירות",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:47:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "cordura-laptop-backpack-16",
@@ -2128,31 +3010,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "✔ איכות פרימיום – מלאי מוגבל\n"
-  },
-  {
-    "id": "waterproof-rolling-travel-bag",
-    "name": "תיק נסיעות עם גלגלים ותאים מרובים",
-    "slug": "תיק-נסיעות-עם-גלגלים-ותאים-מרובים",
-    "categoryId": "suitcases",
-    "price": 299.9,
-    "oldPrice": 599.9,
-    "stock": 2,
-    "badge": "מבצע",
-    "color": "blue",
-    "image": "/uploads/products/1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp",
-    "images": [
-      "/uploads/products/1778765195599-859cc75763ad5-nabet_travel_bag_paris.webp"
+    "urgentText": "✔ איכות פרימיום – מלאי מוגבל\n",
+    "categoryIds": [
+      "backpacks"
     ],
-    "shortDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה במיוחד",
-    "description": "תיק נסיעות איכותי וחזק במיוחד עם גלגלים איכותיים לנסיעה נוחה וקלה.\nהתיק מתאים במיוחד לטיסות, חופשות, נסיעות עבודה ושימוש יומיומי.\n\nכולל תאים רבים ורוכסנים חזקים לארגון מושלם של בגדים, מסמכים, אביזרים וציוד אישי בצורה מסודרת ונוחה.\n\nעשוי מחומר עמיד במיוחד עם הגנה טובה מפני מים ולחות, לשמירה מקסימלית על הציוד שלכם גם במהלך נסיעות ארוכות.\n\n✔ גלגלים איכותיים ושקטים\n✔ תאים רבים לאחסון נוח\n✔ עמיד במיוחד למשקל\n✔ חומר חזק ואיכותי\n✔ עמיד למים\n✔ ידיות אחיזה נוחות\n✔ מושלם לנסיעות ולטיסות\n✔ עיצוב אלגנטי ומודרני\n\nהתיק משלב נוחות, איכות ועמידות ברמה גבוהה במיוחד.",
-    "seoTitle": "תיק נסיעות עם גלגלים עמיד למים | Nabet Paris",
-    "seoDescription": "תיק נסיעות איכותי עם גלגלים, תאים רבים ועמידות גבוהה למים ולמשקל. מושלם לטיסות, חופשות ונסיעות מבית Nabet Paris.",
-    "rating": 5,
-    "reviewCount": 36,
-    "reviews": [],
-    "showStockUrgency": true,
-    "urgentText": "תיק נסיעות מבוקש מאוד"
+    "createdAt": "2026-05-14T08:48:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "nabet-paris-school-laptop-backpack",
@@ -2178,7 +3042,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 המלאי מוגבל – הדגם המבוקש ללימודים ולטיסות"
+    "urgentText": "🔥 המלאי מוגבל – הדגם המבוקש ללימודים ולטיסות",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:50:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "nabet-paris-leather-tablet-bag",
@@ -2202,7 +3072,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 הדגם היוקרתי במלאי מוגבל – עור אמיתי איכות פרימיום"
+    "urgentText": "🔥 הדגם היוקרתי במלאי מוגבל – עור אמיתי איכות פרימיום",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:51:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "nabet-paris-premium-laptop-bag",
@@ -2226,7 +3102,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "תיק מחשב איכותי עם הגנה מקצועית"
+    "urgentText": "תיק מחשב איכותי עם הגנה מקצועית",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:52:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "tik-tsad-yomi-rav-taim",
@@ -2250,7 +3132,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 המלאי מוגבל – אחד התיקים הכי פרקטיים ונוחים שלנו"
+    "urgentText": "🔥 המלאי מוגבל – אחד התיקים הכי פרקטיים ונוחים שלנו",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:53:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "tik-gav-nashim-eleganti-premium",
@@ -2274,7 +3162,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 מבוקש מאוד – מלאי מוגבל"
+    "urgentText": "🔥 מבוקש מאוד – מלאי מוגבל",
+    "categoryIds": [
+      "women-bags-wallets"
+    ],
+    "createdAt": "2026-05-14T08:54:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "tik-nashim-kal-im-harbe-kisim",
@@ -2298,7 +3192,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 אחד התיקים הכי נמכרים – מלאי מוגבל"
+    "urgentText": "🔥 אחד התיקים הכי נמכרים – מלאי מוגבל",
+    "categoryIds": [
+      "women-bags-wallets"
+    ],
+    "createdAt": "2026-05-14T08:55:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "pouch-yokrati-lenesiyot-im-harbe-kisim",
@@ -2322,7 +3222,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 מושלם לנסיעות ולטיולים – מלאי מוגבל"
+    "urgentText": "🔥 מושלם לנסיעות ולטיולים – מלאי מוגבל",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:56:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "mahzik-kartisim-or-amiti-rfid-nabet",
@@ -2346,55 +3252,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 נשארו יחידות אחרונות – דגם מבוקש במיוחד"
-  },
-  {
-    "id": "vigor-business-roller-bag",
-    "name": "תיק עסקים יוקרתי על גלגלים VIGOR למחשב ומסמכים",
-    "slug": "תיק-עסקים-יוקרתי-על-גלגלים-vigor-למחשב-ומסמכים",
-    "categoryId": "backpacks",
-    "price": 349.9,
-    "oldPrice": 699.9,
-    "stock": 2,
-    "badge": "מבצע",
-    "color": "Black",
-    "image": "/uploads/products/1778768824690-6d895ee34de04-travel_bag_paris.webp",
-    "images": [
-      "/uploads/products/1778768824690-6d895ee34de04-travel_bag_paris.webp"
+    "urgentText": "🔥 נשארו יחידות אחרונות – דגם מבוקש במיוחד",
+    "categoryIds": [
+      "wallets"
     ],
-    "shortDescription": "תיק טרולי אלגנטי ואיכותי לאנשי עסקים, עורכי דין ורופאים עם מקום למחשב, מסמכים ותאים מרובים",
-    "description": "\nתיק טרולי אלגנטי ואיכותי לאנשי עסקים, עורכי דין ורופאים עם מקום למחשב, מסמכים ותאים מרובים\n\nDescription longue :\nתיק העסקים היוקרתי של VIGOR נועד במיוחד לאנשי עסקים, עורכי דין, רופאים ואנשים שצריכים לקחת איתם מחשב, מסמכים וציוד בצורה מסודרת ואלגנטית.\n\nהתיק כולל תאים רבים ונוחים לארגון מושלם של מחשב נייד, קלסרים, מסמכים, מטענים ואביזרים נוספים.\nעשוי מבד איכותי, חזק ועמיד במיוחד עם הגנה מפני מים לשימוש יומיומי ונסיעות עבודה.\n\nידית טרולי חזקה וגלגלים איכותיים מאפשרים נסיעה נוחה ושקטה גם בעומס.\nעיצוב יוקרתי ומקצועי שמתאים לפגישות, משרדים, בתי משפט ונסיעות עסקים.\n\n✔ מקום מיוחד למחשב נייד\n✔ תאים רבים למסמכים ואביזרים\n✔ עמיד למים\n✔ גלגלים איכותיים ונוחים\n✔ מתאים לנסיעות עבודה ולשימוש יומיומי\n✔ מותג VIGOR האיכותי והאמין",
-    "seoTitle": "תיק עסקים על גלגלים VIGOR למחשב ומסמכים – יוקרתי ועמיד",
-    "seoDescription": "תיק טרולי יוקרתי של VIGOR לאנשי עסקים, עורכי דין ורופאים. מתאים למחשב נייד, מסמכים וציוד עבודה עם תאים רבים, גלגלים חזקים ועמידות למים.",
-    "rating": 5,
-    "reviewCount": 36,
-    "reviews": [],
-    "showStockUrgency": true,
-    "urgentText": "המלאי מוגבל – תיק עסקים יוקרתי מבוקש מאוד"
-  },
-  {
-    "id": "vigor-business-roller-bag",
-    "name": "תיק עסקים יוקרתי על גלגלים VIGOR למחשב ומסמכים",
-    "slug": "תיק-עסקים-יוקרתי-על-גלגלים-vigor-למחשב-ומסמכים",
-    "categoryId": "backpacks",
-    "price": 299.9,
-    "oldPrice": 599.9,
-    "stock": 2,
-    "badge": "מבצע",
-    "color": "Black",
-    "image": "/uploads/products/1778768824690-6d895ee34de04-travel_bag_paris.webp",
-    "images": [
-      "/uploads/products/1778768824690-6d895ee34de04-travel_bag_paris.webp"
-    ],
-    "shortDescription": "תיק טרולי אלגנטי ואיכותי לאנשי עסקים, עורכי דין ורופאים עם מקום למחשב, מסמכים ותאים מרובים",
-    "description": "\nתיק טרולי אלגנטי ואיכותי לאנשי עסקים, עורכי דין ורופאים עם מקום למחשב, מסמכים ותאים מרובים\n\nDescription longue :\nתיק העסקים היוקרתי של VIGOR נועד במיוחד לאנשי עסקים, עורכי דין, רופאים ואנשים שצריכים לקחת איתם מחשב, מסמכים וציוד בצורה מסודרת ואלגנטית.\n\nהתיק כולל תאים רבים ונוחים לארגון מושלם של מחשב נייד, קלסרים, מסמכים, מטענים ואביזרים נוספים.\nעשוי מבד איכותי, חזק ועמיד במיוחד עם הגנה מפני מים לשימוש יומיומי ונסיעות עבודה.\n\nידית טרולי חזקה וגלגלים איכותיים מאפשרים נסיעה נוחה ושקטה גם בעומס.\nעיצוב יוקרתי ומקצועי שמתאים לפגישות, משרדים, בתי משפט ונסיעות עסקים.\n\n✔ מקום מיוחד למחשב נייד\n✔ תאים רבים למסמכים ואביזרים\n✔ עמיד למים\n✔ גלגלים איכותיים ונוחים\n✔ מתאים לנסיעות עבודה ולשימוש יומיומי\n✔ מותג VIGOR האיכותי והאמין",
-    "seoTitle": "תיק עסקים על גלגלים VIGOR למחשב ומסמכים – יוקרתי ועמיד",
-    "seoDescription": "תיק טרולי יוקרתי של VIGOR לאנשי עסקים, עורכי דין ורופאים. מתאים למחשב נייד, מסמכים וציוד עבודה עם תאים רבים, גלגלים חזקים ועמידות למים.",
-    "rating": 5,
-    "reviewCount": 36,
-    "reviews": [],
-    "showStockUrgency": true,
-    "urgentText": "המלאי מוגבל – תיק עסקים יוקרתי מבוקש מאוד"
+    "createdAt": "2026-05-14T08:57:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "mini-rfid-leather-wallet-nabet",
@@ -2418,7 +3282,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "המלאי מוגבל"
+    "urgentText": "המלאי מוגבל",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:00:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "arnak-ktor-rfid-magnet-11x8",
@@ -2442,7 +3312,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 מלאי מוגבל – אחד הארנקים הכי פרקטיים ויוקרתיים שלנו"
+    "urgentText": "🔥 מלאי מוגבל – אחד הארנקים הכי פרקטיים ויוקרתיים שלנו",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:01:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "arnak-nishlaf-rfid-9-5x7",
@@ -2466,7 +3342,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 חדש אצלנו – ארנק נשלף קומפקטי עם מקום מפתיע להכול"
+    "urgentText": "🔥 חדש אצלנו – ארנק נשלף קומפקטי עם מקום מפתיע להכול",
+    "categoryIds": [
+      "wallets"
+    ],
+    "createdAt": "2026-05-14T08:02:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "vigor-travel-bag-shoes-compartment",
@@ -2490,7 +3372,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 מלאי מוגבל – תיק הנסיעות המבוקש של VIGOR"
+    "urgentText": "🔥 מלאי מוגבל – תיק הנסיעות המבוקש של VIGOR",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:03:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "vigor-women-bag-multi-compartments",
@@ -2514,7 +3402,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 מלאי מוגבל – תיק הנשים היוקרתי של VIGOR"
+    "urgentText": "🔥 מלאי מוגבל – תיק הנשים היוקרתי של VIGOR",
+    "categoryIds": [
+      "women-bags-wallets"
+    ],
+    "createdAt": "2026-05-14T08:04:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "lightweight-backpack-multi-compartments-38x23",
@@ -2538,7 +3432,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "🔥 מלאי מוגבל – תיק הגב הקל והמבוקש ביותר"
+    "urgentText": "🔥 מלאי מוגבל – תיק הגב הקל והמבוקש ביותר",
+    "categoryIds": [
+      "women-bags-wallets"
+    ],
+    "createdAt": "2026-05-14T08:05:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "sac-femme-leger-multi-compartiments-35x25",
@@ -2562,7 +3462,13 @@
     "reviewCount": 36,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "נותרו יחידות אחרונות במלאי"
+    "urgentText": "נותרו יחידות אחרונות במלאי",
+    "categoryIds": [
+      "women-bags-wallets"
+    ],
+    "createdAt": "2026-05-14T08:06:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   },
   {
     "id": "tik-gav-kabina-lamatos-im-galgalim-nishlafim",
@@ -2586,6 +3492,12 @@
     "reviewCount": 61,
     "reviews": [],
     "showStockUrgency": true,
-    "urgentText": "תיק גב מיוחד לטיסות עם גלגלים נשלפים – מתאים לכל חברות התעופה."
+    "urgentText": "תיק גב מיוחד לטיסות עם גלגלים נשלפים – מתאים לכל חברות התעופה.",
+    "categoryIds": [
+      "backpacks"
+    ],
+    "createdAt": "2026-05-14T08:07:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
   }
 ]

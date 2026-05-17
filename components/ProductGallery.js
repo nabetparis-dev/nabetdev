@@ -1,10 +1,11 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function ProductGallery({ product }) {
   const fallback = "/products/placeholder-wallet.svg";
   const images = product.images?.length ? product.images : [product.image || fallback];
   const [active, setActive] = useState(images[0]);
   const [zoom, setZoom] = useState(false);
+  useEffect(() => { setActive(images[0]); }, [images[0]]);
 
   function safeImg(e){ e.currentTarget.src = fallback; }
 

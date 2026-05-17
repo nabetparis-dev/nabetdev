@@ -35,17 +35,25 @@ export default function ShabbatGate({ children }) {
   return (
     <main className="shabbatClosedPage" dir="rtl">
       <div className="shabbatCard">
-        <img src="/logo-nabet.png" alt="NABET PARIS" />
-        <div className="shabbatBadge">שבת שלום</div>
-        <h1>האתר סגור כעת לכבוד שבת</h1>
+        {status.image ? (
+          <div className="shabbatHeroImage" style={{backgroundImage:`url(${status.image})`}} aria-hidden="true" />
+        ) : (
+          <div className="shabbatVisual" aria-hidden="true">
+            <div className="candle c1"><span></span></div>
+            <div className="candle c2"><span></span></div>
+            <div className="challah"></div>
+          </div>
+        )}
+        <img src={status.logo || "/logo-nabet.png"} alt="NABET PARIS" />
+        <div className="shabbatBadge">{status.badge || "שבת שלום"}</div>
+        <h1>{status.title || "האתר סגור כעת לכבוד שבת"}</h1>
         <p>{status.message || "האתר סגור כעת לכבוד שבת וייפתח בצאת השבת."}</p>
         <div className="shabbatTimeBox">
           <span>האתר ייפתח בצאת שבת:</span>
-          <b>{status.opensAtText || status.havdalahText}</b>
+          <b>{status.opensAtText || status.havdalahText || "בקרוב"}</b>
         </div>
-        <p className="shabbatSmall">
-          תודה על ההבנה. נשמח לראותכם שוב לאחר צאת השבת.
-        </p>
+        {status.saleText && <div className="shabbatSaleBox">{status.saleText}</div>}
+        {status.smallText && <p className="shabbatSmall">{status.smallText}</p>}
       </div>
     </main>
   );
