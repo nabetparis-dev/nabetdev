@@ -100,86 +100,30 @@ export default function Product({ product, related = [], category, categories, c
               <div className="prices big"><b>{shekel(selectedPrice)}</b>{selectedOldPrice ? <span>{shekel(selectedOldPrice)}</span> : null}</div>
               {productUrgency(tProduct, t) && <p className="productUrgencyBig">{productUrgency(tProduct, t)}</p>}
             </div>
+<button
+  onClick={() => { addToCart(); cart.setOpen(true); }}
+  disabled={variantStock <= 0}
+  className="buy urgentBuyPulse"
+>
+  🛒 הוספה לעגלה
+</button>
+
 <div className="fastBuyBox">
-  <button
-    onClick={addToCart}
-    disabled={variantStock <= 0}
-    className="buy urgentBuyPulse"
-  >
-    🛒 {t("addToCart")}
+  <button className="applePayBtn" onClick={() => { addToCart(); cart.setOpen(true); }}>
+    <img src="/apple-pay.svg" alt="Apple Pay" />
   </button>
 
-  <button
-    className="applePayBtn"
-    onClick={async () => {
-      const res = await fetch("/api/payment/hyp", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          amount: Number(selectedPrice) + 59.9,
-        }),
-      });
-
-      const data = await res.json();
-
-      if (data.paymentUrl) {
-        window.location.href = data.paymentUrl;
-      }
-    }}
-  >
-  <img src="/apple-pay.svg" alt="Apple Pay" />
+  <button className="googlePayBtn" onClick={() => { addToCart(); cart.setOpen(true); }}>
+    <img src="/google-pay.svg" alt="Google Pay" />
   </button>
 
-  <button
-    className="googlePayBtn"
-    onClick={async () => {
-      const res = await fetch("/api/payment/hyp", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          amount: Number(selectedPrice) + 59.9,
-        }),
-      });
-
-      const data = await res.json();
-
-      if (data.paymentUrl) {
-        window.location.href = data.paymentUrl;
-      }
-    }}
-  >
-   <img src="/google-pay.svg" alt="Google Pay" />
+  <button className="bitBtn" onClick={() => { addToCart(); cart.setOpen(true); }}>
+    <img src="/bit-logo.svg" alt="bit" />
   </button>
 
-  <button
-    className="bitBtn"
-    onClick={async () => {
-      const res = await fetch("/api/payment/hyp", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          amount: Number(selectedPrice) + 59.9,
-        }),
-      });
-
-      const data = await res.json();
-
-      if (data.paymentUrl) {
-        window.location.href = data.paymentUrl;
-      }
-    }}
-  >
-  <img src="/bit-logo.svg" alt="bit" />
-  </button>
-<p className="expressShippingNote">
-  🚚 תוספת של 59.9₪ עבור משלוח עד הבית
-</p>
+  <p className="expressShippingNote">
+    🚚 המשך מהיר לתשלום מאובטח דרך העגלה
+  </p>
 </div>          </div>
           {colorVariants.length > 0 && <div className="variantBlock"><h3>בחרו צבע</h3><div className="colorSwatches">{colorVariants.map((v,i)=><button key={i} type="button" className={i===selectedColorIndex?"selected":""} onClick={()=>setSelectedColorIndex(i)} title={v.colorName}><span style={{background:v.colorHex||"#ddd"}}></span><em>{v.colorName}</em></button>)}</div></div>}
           {sizeVariants.length > 0 && <div className="variantBlock"><h3>בחרו מידה</h3><div className="sizeChips proSizeChips">{sizeVariants.map((v,i)=><button key={i} type="button" className={i===selectedSizeIndex?"selected":""} onClick={()=>setSelectedSizeIndex(i)}><strong>{v.label}</strong>{v.description && <small>{v.description}</small>}{hasValue(v.price) && <em>{shekel(v.price)}</em>}</button>)}</div></div>}

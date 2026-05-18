@@ -1,6 +1,7 @@
 export default async function handler(req, res) {
   try {
     const amount = req.body?.amount || 0;
+    const orderId = req.body?.orderId || "";
 
     const hypRes = await fetch(
       `${process.env.SITE_URL}/api/payment/hyp`,
@@ -11,6 +12,7 @@ export default async function handler(req, res) {
         },
         body: JSON.stringify({
           amount,
+          orderId,
         }),
       }
     );

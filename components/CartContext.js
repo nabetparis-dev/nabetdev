@@ -164,11 +164,32 @@ const [paymentMode, setPaymentMode] = useState("grow");
         return;
      
       }
-    const payRes = await fetch("/api/create-checkout-session", {
+    
+      const orderRes = await fetch("/api/orders/create", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({
+          items:cart.items,
+          customer:customerForOrder,
+          deliveryMode,
+          paymentMethod:"card_hyp",
+          shipping:shippingCost,
+          discount
+        })
+      });
+
+      const orderData = await orderRes.json().catch(()=>({ok:false,error:"תשובת שרת לא תקינה"}));
+
+      if(!orderRes.ok || !orderData.ok) {
+        alert(orderData.error || "שגיאה ביצירת ההזמנה");
+        return;
+      }
+const payRes = await fetch("/api/create-checkout-session", {
         method: "POST",
         headers: {"Content-Type":"application/json"},
         body: JSON.stringify({
           amount: total,
+          orderId: orderData.order.id,
           items: cart.items,
           customer: customerForOrder,
           deliveryMode,

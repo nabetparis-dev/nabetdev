@@ -2522,3 +2522,22 @@ header{
   height:42px;
   width:auto;
 }
+
+.buy.urgentBuyPulse{
+  background:#e00000 !important;
+  color:#fff !important;
+  border:2px solid #e00000 !important;
+  font-size:24px !important;
+  font-weight:900 !important;
+  padding:20px !important;
+  border-radius:22px !important;
+  width:100% !important;
+  box-shadow:0 0 30px rgba(224,0,0,0.45) !important;
+  animation:pulseCart 1s infinite !important;
+}
+
+@keyframes pulseCart{
+  0%{transform:scale(1);}
+  50%{transform:scale(1.04);}
+  100%{transform:scale(1);}
+}
