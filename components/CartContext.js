@@ -104,7 +104,7 @@ function CartDrawer() {
   const { t } = useLang();
   const [acceptedTerms, setAcceptedTerms] = useState(false);
   const [deliveryMode, setDeliveryMode] = useState("shipping");
-  const [paymentMode, setPaymentMode] = useState("cod");
+const [paymentMode, setPaymentMode] = useState("grow");
   const [customer, setCustomer] = useState({
     firstName:"",
     lastName:"",
@@ -246,15 +246,49 @@ function CartDrawer() {
               <input required type="email" placeholder="אימייל *" value={customer.email} onChange={e=>setCustomer({...customer,email:e.target.value})} />
             </div>
 
-            <div className="checkoutOptions">
-              <h3>{t("deliveryOptions")}</h3>
-              <label><input type="radio" checked={deliveryMode==="shipping"} onChange={()=>setDeliveryMode("shipping")} /> {t("homeDelivery")}</label>
-              <label><input type="radio" checked={deliveryMode==="pickup"} onChange={()=>setDeliveryMode("pickup")} /> {t("pickup")}</label>
-              <h3>{t("paymentOptions")}</h3>
-              <label><input type="radio" checked={paymentMode==="cod"} onChange={()=>setPaymentMode("cod")} /> {t("payOnReceive")}</label>
-              <label><input type="radio" checked={paymentMode==="grow"} onChange={()=>setPaymentMode("grow")} /> תשלום בכרטיס אשראי</label>
-            </div>
+<div className="checkoutOptions">
 
+  <h3>אפשרויות משלוח</h3>
+
+  <label className="modernOption">
+    <input
+      type="radio"
+      checked={deliveryMode==="shipping"}
+      onChange={()=>setDeliveryMode("shipping")}
+    />
+    🚚 משלוח עד הבית
+  </label>
+
+  <label className="modernOption">
+    <input
+      type="radio"
+      checked={deliveryMode==="pickup"}
+      onChange={()=>setDeliveryMode("pickup")}
+    />
+🏬 איסוף חינם בירושלים
+  </label>
+<h3>אמצעי תשלום</h3>
+
+<label className="modernOption">
+  <input
+    type="radio"
+    checked={paymentMode==="grow"}
+    onChange={()=>setPaymentMode("grow")}
+  />
+  💳 תשלום בכרטיס אשראי / Apple Pay / Google Pay / bit
+</label>
+
+{deliveryMode === "pickup" && (
+  <label className="modernOption">
+    <input
+      type="radio"
+      checked={paymentMode==="cod"}
+      onChange={()=>setPaymentMode("cod")}
+    />
+    💵 תשלום בעת קבלת המוצר
+  </label>
+)}
+</div>
             <div className="cartTotal"><span>{t("productsAmount")}</span><b>{shekel(cart.subtotal)}</b></div>
             <div className="cartTotal soft"><span>{t("shipping")}</span><b>{shekel(shippingCost)}</b></div>
             {discount > 0 && <div className="cartTotal discountLine"><span>{t("discountLine")}</span><b>-{shekel(discount)}</b></div>}

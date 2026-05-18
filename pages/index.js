@@ -60,7 +60,9 @@ function CategoryShelf({ category, products, translateProduct, t }){
   const shown = products.slice(0, visible).map(translateProduct);
   if(!products.length) return null;
 
-  return (
+  const shuffledProducts = [...products].sort(() => Math.random() - 0.5);
+
+return (
     <section className="section categoryShelf" id={`cat-${category.id}`}>
       <div className="sectionHead">
         <div>
