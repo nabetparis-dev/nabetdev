@@ -1,5 +1,4066 @@
 [
   {
+    "id": "premium-hard-luggage",
+    "name": "מזוודות קשיחות פרימיום",
+    "slug": "סט-מזוודות-קשיחות-פרימיום",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 8,
+    "badge": "🔥 BEST SELLER",
+    "color": "multi",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_21_22.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_21_59.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_19_59.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "סט מזוודות קשיחות פרימיום | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T09:56:33.163Z",
+    "updatedAt": "2026-05-19T11:55:24.479Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+  },
+  {
+    "id": "premium-hard-luggage--שחור-cabin-case",
+    "name": "מזוודות קשיחות פרימיום שחור Cabin case",
+    "slug": "premium-hard-luggage--שחור-cabin-case",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "שחור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום שחור Cabin case  | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.479Z",
+    "updatedAt": "2026-05-19T11:55:24.479Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "Cabin case ",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "Cabin case ",
+      "colorHex": "#111",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--שחור-מזוודה-בינונית",
+    "name": "מזוודות קשיחות פרימיום שחור מזוודה בינונית",
+    "slug": "premium-hard-luggage--שחור-מזוודה-בינונית",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "שחור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום שחור מזוודה בינונית | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "מזוודה בינונית",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "מזוודה בינונית",
+      "colorHex": "#111",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png",
+      "price": 349.9,
+      "oldPrice": 699.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--שחור-מזוודה-גדולה",
+    "name": "מזוודות קשיחות פרימיום שחור מזוודה גדולה",
+    "slug": "premium-hard-luggage--שחור-מזוודה-גדולה",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "שחור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום שחור מזוודה גדולה | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "מזוודה גדולה",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "מזוודה גדולה",
+      "colorHex": "#111",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png",
+      "price": 449.9,
+      "oldPrice": 899.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--שחור-סט-3-מזוודות",
+    "name": "מזוודות קשיחות פרימיום שחור סט  3 מזוודות",
+    "slug": "premium-hard-luggage--שחור-סט-3-מזוודות",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 999.9,
+    "oldPrice": 1999.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "שחור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום שחור סט  3 מזוודות | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "סט  3 מזוודות",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "סט  3 מזוודות",
+      "colorHex": "#111",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png",
+      "price": 999.9,
+      "oldPrice": 1999.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--אפור-cabin-case",
+    "name": "מזוודות קשיחות פרימיום אפור Cabin case",
+    "slug": "premium-hard-luggage--אפור-cabin-case",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "אפור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום אפור Cabin case  | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "Cabin case ",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "Cabin case ",
+      "colorHex": "#999",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--אפור-מזוודה-בינונית",
+    "name": "מזוודות קשיחות פרימיום אפור מזוודה בינונית",
+    "slug": "premium-hard-luggage--אפור-מזוודה-בינונית",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "אפור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום אפור מזוודה בינונית | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "מזוודה בינונית",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "מזוודה בינונית",
+      "colorHex": "#999",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+      "price": 349.9,
+      "oldPrice": 699.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--אפור-מזוודה-גדולה",
+    "name": "מזוודות קשיחות פרימיום אפור מזוודה גדולה",
+    "slug": "premium-hard-luggage--אפור-מזוודה-גדולה",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "אפור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום אפור מזוודה גדולה | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "מזוודה גדולה",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "מזוודה גדולה",
+      "colorHex": "#999",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+      "price": 449.9,
+      "oldPrice": 899.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--אפור-סט-3-מזוודות",
+    "name": "מזוודות קשיחות פרימיום אפור סט  3 מזוודות",
+    "slug": "premium-hard-luggage--אפור-סט-3-מזוודות",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 999.9,
+    "oldPrice": 1999.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "אפור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום אפור סט  3 מזוודות | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "סט  3 מזוודות",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "סט  3 מזוודות",
+      "colorHex": "#999",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png",
+      "price": 999.9,
+      "oldPrice": 1999.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--כחול-cabin-case",
+    "name": "מזוודות קשיחות פרימיום כחול Cabin case",
+    "slug": "premium-hard-luggage--כחול-cabin-case",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "כחול",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום כחול Cabin case  | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "Cabin case ",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "Cabin case ",
+      "colorHex": "#244c88",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--כחול-מזוודה-בינונית",
+    "name": "מזוודות קשיחות פרימיום כחול מזוודה בינונית",
+    "slug": "premium-hard-luggage--כחול-מזוודה-בינונית",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "כחול",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום כחול מזוודה בינונית | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "מזוודה בינונית",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "מזוודה בינונית",
+      "colorHex": "#244c88",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+      "price": 349.9,
+      "oldPrice": 699.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--כחול-מזוודה-גדולה",
+    "name": "מזוודות קשיחות פרימיום כחול מזוודה גדולה",
+    "slug": "premium-hard-luggage--כחול-מזוודה-גדולה",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "כחול",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום כחול מזוודה גדולה | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "מזוודה גדולה",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "מזוודה גדולה",
+      "colorHex": "#244c88",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+      "price": 449.9,
+      "oldPrice": 899.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--כחול-סט-3-מזוודות",
+    "name": "מזוודות קשיחות פרימיום כחול סט  3 מזוודות",
+    "slug": "premium-hard-luggage--כחול-סט-3-מזוודות",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 999.9,
+    "oldPrice": 1999.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "כחול",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום כחול סט  3 מזוודות | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "סט  3 מזוודות",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "סט  3 מזוודות",
+      "colorHex": "#244c88",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png",
+      "price": 999.9,
+      "oldPrice": 1999.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--ורוד-cabin-case",
+    "name": "מזוודות קשיחות פרימיום ורוד Cabin case",
+    "slug": "premium-hard-luggage--ורוד-cabin-case",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "ורוד",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום ורוד Cabin case  | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "Cabin case ",
+    "selectedVariant": {
+      "color": "ורוד",
+      "size": "Cabin case ",
+      "colorHex": "#d8a0b6",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--ורוד-מזוודה-בינונית",
+    "name": "מזוודות קשיחות פרימיום ורוד מזוודה בינונית",
+    "slug": "premium-hard-luggage--ורוד-מזוודה-בינונית",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "ורוד",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום ורוד מזוודה בינונית | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "מזוודה בינונית",
+    "selectedVariant": {
+      "color": "ורוד",
+      "size": "מזוודה בינונית",
+      "colorHex": "#d8a0b6",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+      "price": 349.9,
+      "oldPrice": 699.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--ורוד-מזוודה-גדולה",
+    "name": "מזוודות קשיחות פרימיום ורוד מזוודה גדולה",
+    "slug": "premium-hard-luggage--ורוד-מזוודה-גדולה",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "ורוד",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום ורוד מזוודה גדולה | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "מזוודה גדולה",
+    "selectedVariant": {
+      "color": "ורוד",
+      "size": "מזוודה גדולה",
+      "colorHex": "#d8a0b6",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+      "price": 449.9,
+      "oldPrice": 899.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-hard-luggage--ורוד-סט-3-מזוודות",
+    "name": "מזוודות קשיחות פרימיום ורוד סט  3 מזוודות",
+    "slug": "premium-hard-luggage--ורוד-סט-3-מזוודות",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 999.9,
+    "oldPrice": 1999.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "ורוד",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות קשיחות פרימיום ורוד סט  3 מזוודות | NABET PARIS",
+    "seoDescription": "סט מזוודות קשיחות פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_13_43.png"
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#999",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_18_23.png"
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_12_29.png"
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#d8a0b6",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+        ],
+        "stock": 5,
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png"
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "description": "''28 –  עד 23 ק״ג",
+        "label": "מזוודה גדולה",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "description": "''28 + ''24 + ''20",
+        "label": "סט  3 מזוודות",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+    "baseName": "מזוודות קשיחות פרימיום",
+    "size": "סט  3 מזוודות",
+    "selectedVariant": {
+      "color": "ורוד",
+      "size": "סט  3 מזוודות",
+      "colorHex": "#d8a0b6",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_15_11.png",
+      "price": 999.9,
+      "oldPrice": 1999.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-hard-luggage",
+    "parentProductId": "premium-hard-luggage"
+  },
+  {
+    "id": "premium-soft-luggage",
+    "name": "מזוודות בד פרימיום",
+    "slug": "סט-מזוודות-בד-פרימיום",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 699.9,
+    "oldPrice": 1499.9,
+    "stock": 8,
+    "badge": "🔥 BEST SELLER",
+    "color": "multi",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+      "/uploads/luggages/19-mai-2026,-12_39_56.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_24_48.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "סט מזוודות בד פרימיום | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T09:56:33.163Z",
+    "updatedAt": "2026-05-19T11:49:43.423Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+  },
+  {
+    "id": "premium-soft-luggage--שחור-cabin-case",
+    "name": "מזוודות בד פרימיום שחור Cabin case",
+    "slug": "premium-soft-luggage--שחור-cabin-case",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "שחור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום שחור Cabin case  | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "Cabin case ",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "Cabin case ",
+      "colorHex": "#111",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--שחור-מזוודה-בינונית",
+    "name": "מזוודות בד פרימיום שחור מזוודה בינונית",
+    "slug": "premium-soft-luggage--שחור-מזוודה-בינונית",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "שחור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום שחור מזוודה בינונית | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "מזוודה בינונית",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "מזוודה בינונית",
+      "colorHex": "#111",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+      "price": 349.9,
+      "oldPrice": 699.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--שחור-מזוודה-גדולה",
+    "name": "מזוודות בד פרימיום שחור מזוודה גדולה",
+    "slug": "premium-soft-luggage--שחור-מזוודה-גדולה",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "שחור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום שחור מזוודה גדולה | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "מזוודה גדולה",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "מזוודה גדולה",
+      "colorHex": "#111",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+      "price": 449.9,
+      "oldPrice": 899.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--שחור-סט-3-מזוודות",
+    "name": "מזוודות בד פרימיום שחור סט  3 מזוודות",
+    "slug": "premium-soft-luggage--שחור-סט-3-מזוודות",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 999.9,
+    "oldPrice": 1999.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "שחור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום שחור סט  3 מזוודות | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "סט  3 מזוודות",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "סט  3 מזוודות",
+      "colorHex": "#111",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+      "price": 999.9,
+      "oldPrice": 1999.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--כחול-cabin-case",
+    "name": "מזוודות בד פרימיום כחול Cabin case",
+    "slug": "premium-soft-luggage--כחול-cabin-case",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "כחול",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום כחול Cabin case  | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "Cabin case ",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "Cabin case ",
+      "colorHex": "#244c88",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--כחול-מזוודה-בינונית",
+    "name": "מזוודות בד פרימיום כחול מזוודה בינונית",
+    "slug": "premium-soft-luggage--כחול-מזוודה-בינונית",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "כחול",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום כחול מזוודה בינונית | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "מזוודה בינונית",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "מזוודה בינונית",
+      "colorHex": "#244c88",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+      "price": 349.9,
+      "oldPrice": 699.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--כחול-מזוודה-גדולה",
+    "name": "מזוודות בד פרימיום כחול מזוודה גדולה",
+    "slug": "premium-soft-luggage--כחול-מזוודה-גדולה",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "כחול",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום כחול מזוודה גדולה | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "מזוודה גדולה",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "מזוודה גדולה",
+      "colorHex": "#244c88",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+      "price": 449.9,
+      "oldPrice": 899.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--כחול-סט-3-מזוודות",
+    "name": "מזוודות בד פרימיום כחול סט  3 מזוודות",
+    "slug": "premium-soft-luggage--כחול-סט-3-מזוודות",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 999.9,
+    "oldPrice": 1999.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "כחול",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום כחול סט  3 מזוודות | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "סט  3 מזוודות",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "סט  3 מזוודות",
+      "colorHex": "#244c88",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+      "price": 999.9,
+      "oldPrice": 1999.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--אפור-cabin-case",
+    "name": "מזוודות בד פרימיום אפור Cabin case",
+    "slug": "premium-soft-luggage--אפור-cabin-case",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "אפור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום אפור Cabin case  | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "Cabin case ",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "Cabin case ",
+      "colorHex": "#bfbfbf",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--אפור-מזוודה-בינונית",
+    "name": "מזוודות בד פרימיום אפור מזוודה בינונית",
+    "slug": "premium-soft-luggage--אפור-מזוודה-בינונית",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "אפור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום אפור מזוודה בינונית | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "מזוודה בינונית",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "מזוודה בינונית",
+      "colorHex": "#bfbfbf",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+      "price": 349.9,
+      "oldPrice": 699.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--אפור-מזוודה-גדולה",
+    "name": "מזוודות בד פרימיום אפור מזוודה גדולה",
+    "slug": "premium-soft-luggage--אפור-מזוודה-גדולה",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "אפור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום אפור מזוודה גדולה | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "מזוודה גדולה",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "מזוודה גדולה",
+      "colorHex": "#bfbfbf",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+      "price": 449.9,
+      "oldPrice": 899.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--אפור-סט-3-מזוודות",
+    "name": "מזוודות בד פרימיום אפור סט  3 מזוודות",
+    "slug": "premium-soft-luggage--אפור-סט-3-מזוודות",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 999.9,
+    "oldPrice": 1999.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "אפור",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום אפור סט  3 מזוודות | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "סט  3 מזוודות",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "סט  3 מזוודות",
+      "colorHex": "#bfbfbf",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+      "price": 999.9,
+      "oldPrice": 1999.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--סט-3-מזוודות-cabin-case",
+    "name": "מזוודות בד פרימיום סט  3 מזוודות Cabin case",
+    "slug": "premium-soft-luggage--סט-3-מזוודות-cabin-case",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "סט  3 מזוודות",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום סט  3 מזוודות Cabin case  | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "Cabin case ",
+    "selectedVariant": {
+      "color": "סט  3 מזוודות",
+      "size": "Cabin case ",
+      "colorHex": "#11fa00",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--סט-3-מזוודות-מזוודה-בינונית",
+    "name": "מזוודות בד פרימיום סט  3 מזוודות מזוודה בינונית",
+    "slug": "premium-soft-luggage--סט-3-מזוודות-מזוודה-בינונית",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "סט  3 מזוודות",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום סט  3 מזוודות מזוודה בינונית | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "מזוודה בינונית",
+    "selectedVariant": {
+      "color": "סט  3 מזוודות",
+      "size": "מזוודה בינונית",
+      "colorHex": "#11fa00",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+      "price": 349.9,
+      "oldPrice": 699.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--סט-3-מזוודות-מזוודה-גדולה",
+    "name": "מזוודות בד פרימיום סט  3 מזוודות מזוודה גדולה",
+    "slug": "premium-soft-luggage--סט-3-מזוודות-מזוודה-גדולה",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "סט  3 מזוודות",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום סט  3 מזוודות מזוודה גדולה | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "מזוודה גדולה",
+    "selectedVariant": {
+      "color": "סט  3 מזוודות",
+      "size": "מזוודה גדולה",
+      "colorHex": "#11fa00",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+      "price": 449.9,
+      "oldPrice": 899.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
+    "id": "premium-soft-luggage--סט-3-מזוודות-סט-3-מזוודות",
+    "name": "מזוודות בד פרימיום סט  3 מזוודות סט  3 מזוודות",
+    "slug": "premium-soft-luggage--סט-3-מזוודות-סט-3-מזוודות",
+    "categoryId": "suitcases",
+    "categoryIds": [
+      "suitcases"
+    ],
+    "price": 999.9,
+    "oldPrice": 1999.9,
+    "stock": 5,
+    "badge": "🔥 BEST SELLER",
+    "color": "סט  3 מזוודות",
+    "images": [
+      "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+    ],
+    "shortDescription": "מזוודות פרימיום חזקות במיוחד עם 8 גלגלי סיליקון ובולמי זעזועים.",
+    "description": "\nסט מזוודות איכותי ויוקרתי מבית NABET PARIS.\n\n✔ 8 גלגלי סיליקון שקטים במיוחד\n✔ בולמי זעזועים בכל גלגל\n✔ מערכת הרחבה להגדלת נפח\n✔ עמידות גבוהה במיוחד\n✔ רוכסן חזק ואיכותי במיוחד\n✔ קוד נעילה מובנה\n✔ עמידות למים ולגשם\n✔ חיזוקי אלומיניום פנימיים\n✔ מתאים לטיסות ולנסיעות ארוכות\n✔ עיצוב יוקרתי ומודרני\n\nהמזוודות נבנו במיוחד לנוחות מקסימלית ועמידות ברמה הגבוהה ביותר.\n",
+    "seoTitle": "מזוודות בד פרימיום סט  3 מזוודות סט  3 מזוודות | NABET PARIS",
+    "seoDescription": "סט מזוודות בד פרימיום עם 8 גלגלים, בולמי זעזועים, הרחבה, נעילת קוד ועמידות גבוהה במיוחד.",
+    "rating": 5,
+    "reviewCount": 124,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 הדגם המבוקש ביותר באתר",
+    "createdAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_10_06.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#244c88",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_08_42.png"
+        ],
+        "stock": 5
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_37_55.png"
+        ],
+        "stock": 8
+      },
+      {
+        "colorName": "סט  3 מזוודות",
+        "colorHex": "#11fa00",
+        "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+        "images": [
+          "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png"
+        ],
+        "stock": 8
+      }
+    ],
+    "sizeVariants": [
+      {
+        "sizeName": "20 אינץ׳ - מתאים לעלייה למטוס",
+        "priceModifier": 0,
+        "stock": 5,
+        "label": "Cabin case ",
+        "description": "''20 –   55x35x23 -  מתאימה לעלייה למטוס",
+        "price": 299.9,
+        "oldPrice": 599.9
+      },
+      {
+        "sizeName": "24 אינץ׳ - מושלם לשבוע חופשה",
+        "priceModifier": 150,
+        "stock": 5,
+        "description": "''24 – אידיאלית לשבוע נסיעה ",
+        "label": "מזוודה בינונית",
+        "price": 349.9,
+        "oldPrice": 699.9
+      },
+      {
+        "sizeName": "28 אינץ׳ - עד 23 ק״ג",
+        "priceModifier": 300,
+        "stock": 5,
+        "label": "מזוודה גדולה",
+        "description": "''28 –  עד 23 ק״ג",
+        "price": 449.9,
+        "oldPrice": 899.9
+      },
+      {
+        "sizeName": "סט 3 מזוודות",
+        "priceModifier": 700,
+        "stock": 5,
+        "label": "סט  3 מזוודות",
+        "description": "''28 + ''24 + ''20",
+        "price": 999.9,
+        "oldPrice": 1999.9
+      }
+    ],
+    "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+    "baseName": "מזוודות בד פרימיום",
+    "size": "סט  3 מזוודות",
+    "selectedVariant": {
+      "color": "סט  3 מזוודות",
+      "size": "סט  3 מזוודות",
+      "colorHex": "#11fa00",
+      "image": "/uploads/luggages/ChatGPT-Image-19-mai-2026,-12_26_35.png",
+      "price": 999.9,
+      "oldPrice": 1999.9,
+      "stock": 5
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "premium-soft-luggage",
+    "parentProductId": "premium-soft-luggage"
+  },
+  {
     "id": "mahzik-kartisim-or-amiti-rfid-nabet",
     "name": "מחזיק כרטיסים יוקרתי מעור אמיתי RFID – Nabet Paris",
     "slug": "מחזיק-כרטיסים-יוקרתי-מעור-אמיתי-rfid-nabet-paris",
@@ -3498,6 +7559,130 @@
       "backpacks"
     ],
     "createdAt": "2026-05-14T08:07:00.000Z",
+    "colorVariants": [],
+    "sizeVariants": []
+  },
+  {
+    "id": "security-bag-1",
+    "name": "תיק עור יוקרתי לנשק",
+    "slug": "תיק-עור-יוקרתי-לנשק",
+    "categoryId": "security-bags",
+    "categoryIds": [
+      "security-bags"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 5,
+    "badge": "מבצע",
+    "color": "black",
+    "image": "/uploads/security-bags/IMG_3570 - Grande.webp",
+    "images": [
+      "/uploads/security-bags/IMG_3570 - Grande.webp"
+    ],
+    "shortDescription": "תיק מקצועי איכותי וחזק במיוחד.",
+    "description": "תיק איכותי וחזק במיוחד עם עיצוב יוקרתי, רוכסנים איכותיים, חלוקה פנימית נוחה והתאמה לשימוש מקצועי יום־יומי.",
+    "seoTitle": "תיק עור יוקרתי לנשק | NABET PARIS",
+    "seoDescription": "תיק עור יוקרתי לנשק איכותי ומקצועי מבית NABET PARIS.",
+    "rating": 5,
+    "reviewCount": 18,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 מוצר מבוקש במיוחד",
+    "createdAt": "2026-05-19T08:27:09.049Z",
+    "updatedAt": "2026-05-19T08:27:09.049Z",
+    "colorVariants": [],
+    "sizeVariants": []
+  },
+  {
+    "id": "security-bag-2",
+    "name": "תיק טקטי מקצועי",
+    "slug": "תיק-טקטי-מקצועי",
+    "categoryId": "security-bags",
+    "categoryIds": [
+      "security-bags"
+    ],
+    "price": 349.9,
+    "oldPrice": 699.9,
+    "stock": 5,
+    "badge": "מבצע",
+    "color": "black",
+    "image": "/uploads/security-bags/IMG_3572 - Grande.webp",
+    "images": [
+      "/uploads/security-bags/IMG_3572 - Grande.webp"
+    ],
+    "shortDescription": "תיק מקצועי איכותי וחזק במיוחד.",
+    "description": "תיק איכותי וחזק במיוחד עם עיצוב יוקרתי, רוכסנים איכותיים, חלוקה פנימית נוחה והתאמה לשימוש מקצועי יום־יומי.",
+    "seoTitle": "תיק טקטי מקצועי | NABET PARIS",
+    "seoDescription": "תיק טקטי מקצועי איכותי ומקצועי מבית NABET PARIS.",
+    "rating": 5,
+    "reviewCount": 18,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 מוצר מבוקש במיוחד",
+    "createdAt": "2026-05-19T08:27:09.049Z",
+    "updatedAt": "2026-05-19T08:27:09.049Z",
+    "colorVariants": [],
+    "sizeVariants": []
+  },
+  {
+    "id": "security-bag-3",
+    "name": "תיק אבטחה קומפקטי",
+    "slug": "תיק-אבטחה-קומפקטי",
+    "categoryId": "security-bags",
+    "categoryIds": [
+      "security-bags"
+    ],
+    "price": 399.9,
+    "oldPrice": 799.9,
+    "stock": 5,
+    "badge": "מבצע",
+    "color": "black",
+    "image": "/uploads/security-bags/IMG_3575 - Grande.webp",
+    "images": [
+      "/uploads/security-bags/IMG_3575 - Grande.webp"
+    ],
+    "shortDescription": "תיק מקצועי איכותי וחזק במיוחד.",
+    "description": "תיק איכותי וחזק במיוחד עם עיצוב יוקרתי, רוכסנים איכותיים, חלוקה פנימית נוחה והתאמה לשימוש מקצועי יום־יומי.",
+    "seoTitle": "תיק אבטחה קומפקטי | NABET PARIS",
+    "seoDescription": "תיק אבטחה קומפקטי איכותי ומקצועי מבית NABET PARIS.",
+    "rating": 5,
+    "reviewCount": 18,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 מוצר מבוקש במיוחד",
+    "createdAt": "2026-05-19T08:27:09.049Z",
+    "updatedAt": "2026-05-19T08:27:09.049Z",
+    "colorVariants": [],
+    "sizeVariants": []
+  },
+  {
+    "id": "security-bag-4",
+    "name": "תיק נשיאה לכוחות הביטחון",
+    "slug": "תיק-נשיאה-לכוחות-הביטחון",
+    "categoryId": "security-bags",
+    "categoryIds": [
+      "security-bags"
+    ],
+    "price": 449.9,
+    "oldPrice": 899.9,
+    "stock": 5,
+    "badge": "מבצע",
+    "color": "black",
+    "image": "/uploads/security-bags/IMG_3576 - Grande.webp",
+    "images": [
+      "/uploads/security-bags/IMG_3576 - Grande.webp"
+    ],
+    "shortDescription": "תיק מקצועי איכותי וחזק במיוחד.",
+    "description": "תיק איכותי וחזק במיוחד עם עיצוב יוקרתי, רוכסנים איכותיים, חלוקה פנימית נוחה והתאמה לשימוש מקצועי יום־יומי.",
+    "seoTitle": "תיק נשיאה לכוחות הביטחון | NABET PARIS",
+    "seoDescription": "תיק נשיאה לכוחות הביטחון איכותי ומקצועי מבית NABET PARIS.",
+    "rating": 5,
+    "reviewCount": 18,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 מוצר מבוקש במיוחד",
+    "createdAt": "2026-05-19T08:27:09.049Z",
+    "updatedAt": "2026-05-19T08:27:09.049Z",
     "colorVariants": [],
     "sizeVariants": []
   }

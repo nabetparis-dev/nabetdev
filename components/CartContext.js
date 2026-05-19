@@ -40,7 +40,7 @@ export function CartProvider({ children }) {
   }
 
   function add(product, qty = 1, options = {}) {
-    if (!product || Number(options.stock ?? product.stock ?? 0) <= 0) return alert(t("productUnavailable"));
+    if (!product || Number(options.stock ?? product.stock ?? 0) <= 0) return 
     const color = options.color || product.selectedColor || "";
     const colorHex = options.colorHex || product.selectedColorHex || "";
     const size = options.size || product.selectedSize || "";
@@ -125,11 +125,11 @@ const [paymentMode, setPaymentMode] = useState("grow");
 
   async function checkout() {
     if (submitting) return;
-    if (!cart.items.length) return alert(t("alertEmpty"));
-    if (!acceptedTerms) return alert(t("alertTerms"));
+    if (!cart.items.length) return 
+    if (!acceptedTerms) return 
     const required = ["firstName","lastName","street","apartment","city","postalCode","phone","email"];
     const missing = required.some(k => !String(customer[k] || "").trim());
-    if(missing) return alert("נא למלא את כל פרטי הלקוח: שם, משפחה, כתובת, דלת, עיר, מיקוד, טלפון ואימייל");
+    if(missing) return 
     const customerForOrder = {
       ...customer,
       name: `${customer.firstName} ${customer.lastName}`.trim(),
@@ -146,7 +146,7 @@ const [paymentMode, setPaymentMode] = useState("grow");
         });
         const orderData = await orderRes.json().catch(()=>({ok:false,error:"תשובת שרת לא תקינה"}));
         if(!orderRes.ok || !orderData.ok) {
-          alert(orderData.error || "שגיאה ביצירת ההזמנה");
+          
           return;
         }
         const order = orderData.order;
@@ -181,7 +181,7 @@ const [paymentMode, setPaymentMode] = useState("grow");
       const orderData = await orderRes.json().catch(()=>({ok:false,error:"תשובת שרת לא תקינה"}));
 
       if(!orderRes.ok || !orderData.ok) {
-        alert(orderData.error || "שגיאה ביצירת ההזמנה");
+        
         return;
       }
 const payRes = await fetch("/api/create-checkout-session", {
@@ -201,14 +201,14 @@ const payRes = await fetch("/api/create-checkout-session", {
       const payData = await payRes.json();
 
       if (!payRes.ok || !payData.url) {
-        alert(payData.error || "שגיאה ביצירת תשלום");
+        
         return;
       }
 
       window.location.href = payData.url;
       return;
     } catch (e) {
-      alert("שגיאה בשליחת ההזמנה: " + e.message);
+      
     } finally {
       setSubmitting(false);
     }

@@ -9,8 +9,8 @@ import SiteFooter from "../components/SiteFooter";
 import { useCart } from "../components/CartContext";
 import { useLang } from "../components/LanguageContext";
 
-const INITIAL_PER_CATEGORY = 12;
-const STEP_PER_CATEGORY = 12;
+const INITIAL_PER_CATEGORY = 8;
+const STEP_PER_CATEGORY = 8;
 
 function lightProduct(p){
   const firstImage = (Array.isArray(p.images) && p.images[0]) || p.image || "/products/placeholder-wallet.svg";
@@ -76,7 +76,7 @@ return (
       {visible < products.length && (
         <div className="loadMoreWrap">
           <button className="loadMoreBtn" onClick={()=>setVisible(v=>v+STEP_PER_CATEGORY)}>
-            {t("viewMore") || "Voir plus"}
+            {"לצפייה בעוד מוצרים"}
           </button>
         </div>
       )}

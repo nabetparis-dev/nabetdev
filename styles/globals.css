@@ -2541,3 +2541,349 @@ header{
   50%{transform:scale(1.04);}
   100%{transform:scale(1);}
 }
+
+.adminMediaGrid img,
+.mediaGrid img,
+.mediaItem img{
+  width:100% !important;
+  max-height:160px !important;
+  object-fit:cover !important;
+  border-radius:14px !important;
+}
+
+.adminMediaGrid,
+.mediaGrid{
+  display:grid !important;
+  grid-template-columns:repeat(auto-fill,minmax(180px,1fr)) !important;
+  gap:18px !important;
+}
+
+.imagePreviewItem{
+  position:relative!important;
+  overflow:hidden!important;
+  border-radius:18px!important;
+  background:#fff!important;
+  padding:10px!important;
+}
+
+.imagePreviewItem img{
+  width:100%!important;
+  height:180px!important;
+  object-fit:cover!important;
+  border-radius:14px!important;
+}
+
+.deleteImg{
+  position:absolute!important;
+  top:8px!important;
+  right:8px!important;
+  width:34px!important;
+  height:34px!important;
+  border:none!important;
+  border-radius:50%!important;
+  background:#dc2626!important;
+  color:#fff!important;
+  font-size:24px!important;
+  font-weight:900!important;
+  cursor:pointer!important;
+  z-index:9999!important;
+  box-shadow:0 4px 12px rgba(0,0,0,.25)!important;
+}
+
+.deleteImg:hover{
+  transform:scale(1.08)!important;
+}
+
+.sizePremiumBadge{
+  background:linear-gradient(135deg,#b91c1c,#dc2626);
+  color:#fff;
+  padding:14px 18px;
+  border-radius:18px;
+  font-weight:900;
+  font-size:15px;
+  display:inline-flex;
+  align-items:center;
+  gap:10px;
+  margin:14px 0;
+  box-shadow:0 10px 25px rgba(185,28,28,.25);
+  animation:pulseBadge 2s infinite;
+}
+
+@keyframes pulseBadge{
+  0%{transform:scale(1)}
+  50%{transform:scale(1.03)}
+  100%{transform:scale(1)}
+}
+
+.proSizeChips{
+  display:grid!important;
+  grid-template-columns:repeat(auto-fit,minmax(150px,1fr))!important;
+  gap:12px!important;
+}
+
+.proSizeChips button{
+  border:2px solid #eee!important;
+  background:#fff!important;
+  border-radius:20px!important;
+  padding:16px!important;
+  text-align:center!important;
+  box-shadow:0 8px 18px rgba(0,0,0,.06)!important;
+}
+
+.proSizeChips button.selected{
+  background:#b91c1c!important;
+  color:#fff!important;
+  border-color:#b91c1c!important;
+  transform:scale(1.03)!important;
+}
+
+.proSizeChips strong{
+  display:block!important;
+  font-size:16px!important;
+  font-weight:900!important;
+}
+
+.proSizeChips small{
+  display:block!important;
+  margin-top:6px!important;
+  font-size:13px!important;
+  opacity:.85!important;
+}
+
+.proSizeChips em{
+  display:block!important;
+  margin-top:8px!important;
+  font-style:normal!important;
+  font-weight:900!important;
+}
+
+.colorSwatches{
+  display:flex!important;
+  flex-wrap:wrap!important;
+  gap:12px!important;
+}
+
+.colorSwatches button{
+  min-width:115px!important;
+  border:2px solid #eee!important;
+  background:#fff!important;
+  border-radius:18px!important;
+  padding:12px 14px!important;
+  font-weight:900!important;
+  box-shadow:0 8px 18px rgba(0,0,0,.06)!important;
+}
+
+.colorSwatches button.selected{
+  border-color:#b91c1c!important;
+  background:#fff5f5!important;
+  transform:scale(1.04)!important;
+}
+
+.colorSwatches span{
+  width:26px!important;
+  height:26px!important;
+  border-radius:50%!important;
+  display:inline-block!important;
+  border:2px solid #ddd!important;
+  margin-left:8px!important;
+}
+
+@media(max-width:768px){
+
+.buy.urgentBuyPulse{
+  position:fixed!important;
+  bottom:12px!important;
+  left:12px!important;
+  right:12px!important;
+  z-index:9999!important;
+
+  height:58px!important;
+  border-radius:18px!important;
+
+  font-size:18px!important;
+  font-weight:900!important;
+
+  box-shadow:0 10px 35px rgba(185,28,28,.35)!important;
+}
+
+.productPage{
+  padding-bottom:100px!important;
+}
+
+}
+
+.fastBuyBox{
+  margin-top:12px!important;
+  gap:8px!important;
+}
+
+.applePayBtn,
+.googlePayBtn,
+.bitBtn{
+  height:48px!important;
+  border-radius:16px!important;
+  padding:8px!important;
+  font-size:18px!important;
+}
+
+.applePayBtn img,
+.googlePayBtn img,
+.bitBtn img{
+  height:26px!important;
+  max-width:110px!important;
+  object-fit:contain!important;
+}
+
+.expressShippingNote{
+  font-size:13px!important;
+  margin-top:4px!important;
+}
+
+.fastBuyBox{
+  margin-top:30px!important;
+  display:flex!important;
+  flex-direction:column!important;
+  gap:10px!important;
+}
+
+.applePayBtn,
+.googlePayBtn,
+.bitBtn{
+  height:46px!important;
+  border-radius:16px!important;
+  padding:8px!important;
+}
+
+.applePayBtn img,
+.googlePayBtn img,
+.bitBtn img{
+  height:22px!important;
+}
+
+.expressShippingNote{
+  text-align:center!important;
+  font-size:13px!important;
+}
+
+@media(max-width:768px){
+.buy.urgentBuyPulse{
+  position:fixed!important;
+  bottom:12px!important;
+  left:12px!important;
+  right:12px!important;
+  z-index:9999!important;
+}
+}
+
+.floatingCheckoutBtn{
+  position:fixed!important;
+  bottom:14px!important;
+  left:14px!important;
+  right:14px!important;
+  z-index:99999!important;
+
+  height:58px!important;
+
+  border:none!important;
+  border-radius:18px!important;
+
+  background:linear-gradient(135deg,#b91c1c,#dc2626)!important;
+  color:#fff!important;
+
+  font-size:20px!important;
+  font-weight:900!important;
+
+  box-shadow:0 10px 35px rgba(185,28,28,.35)!important;
+
+  animation:floatingPulse 1.8s infinite;
+}
+
+@keyframes floatingPulse{
+  0%{transform:scale(1)}
+  50%{transform:scale(1.03)}
+  100%{transform:scale(1)}
+}
+
+@media(min-width:769px){
+  .floatingCheckoutBtn{
+    max-width:420px!important;
+    margin:auto!important;
+  }
+}
+
+.floatingCheckoutBtn{
+  position:fixed!important;
+  bottom:14px!important;
+  left:14px!important;
+  right:14px!important;
+  z-index:999999!important;
+  height:62px!important;
+  border:none!important;
+  border-radius:20px!important;
+  background:linear-gradient(135deg,#b91c1c,#ef0000)!important;
+  color:white!important;
+  font-size:22px!important;
+  font-weight:900!important;
+  box-shadow:0 12px 35px rgba(185,28,28,.45)!important;
+  animation:floatingPayPulse 1.4s infinite!important;
+}
+
+@keyframes floatingPayPulse{
+  0%{transform:scale(1)}
+  50%{transform:scale(1.05)}
+  100%{transform:scale(1)}
+}
+
+@media(min-width:769px){
+  .floatingCheckoutBtn{
+    max-width:430px!important;
+    margin:auto!important;
+  }
+}
+
+.floatingCheckoutBtn{
+  position:fixed!important;
+  bottom:14px!important;
+  left:14px!important;
+  right:14px!important;
+  z-index:999999999!important;
+  height:64px!important;
+  border:none!important;
+  border-radius:22px!important;
+  background:linear-gradient(135deg,#b91c1c,#ff0000)!important;
+  color:#fff!important;
+  font-size:24px!important;
+  font-weight:900!important;
+  box-shadow:0 14px 40px rgba(185,28,28,.55)!important;
+  animation:floatingCheckoutPulse 1.2s infinite!important;
+}
+
+@keyframes floatingCheckoutPulse{
+  0%{transform:scale(1)}
+  50%{transform:scale(1.05)}
+  100%{transform:scale(1)}
+}
+
+@media(min-width:769px){
+  .floatingCheckoutBtn{
+    max-width:430px!important;
+    margin:auto!important;
+  }
+}
+
+/* cacher ancien bouton flottant paiement */
+.floatingCartButton,
+.floatingPayButton,
+.checkoutFloatingBtn,
+.cartFloatingCheckout,
+.stickyCheckoutBtn{
+  display:none!important;
+}
+
+.floatingCheckoutBtn{
+  background:#ff0000!important;
+  background-image:none!important;
+  color:#fff!important;
+  border:3px solid #ff2a2a!important;
+  box-shadow:0 0 25px rgba(255,0,0,.75)!important;
+}
