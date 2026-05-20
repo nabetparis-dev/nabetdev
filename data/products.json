@@ -1,5 +1,4249 @@
 [
   {
+    "id": "ארנק-עור-מגנטי-דק-rfid-ultra-slim",
+    "name": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM",
+    "slug": "ארנק-עור-מגנטי-דק-במיוחד-rfid-nabet-paris-ultra-slim",
+    "categoryId": "wallets",
+    "categoryIds": [
+      "wallets"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 0,
+    "badge": "מבצע",
+    "color": "",
+    "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-ירוק-24.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-24.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#afb1de",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-15.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-15.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#c29800",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-23.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-23.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#804747",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-20.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-20.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום תזי",
+        "colorHex": "#a54545",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-27.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-27.webp"
+        ],
+        "stock": ""
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור דק במיוחד עם סגירת מגנט חזקה, הגנת RFID ועיצוב יוקרתי שלא מרגישים בכיס.",
+    "description": "הכירו את אחד הארנקים הדקים, הקטנים והיוקרתיים ביותר של NABET PARIS.\n\nארנק עור אמיתי בעיצוב ULTRA SLIM ייחודי, המשלב מראה אלגנטי, איכות גבוהה ונוחות מקסימלית לשימוש יום־יומי.\n\nהארנק כולל סגירת מגנט חזקה במיוחד עם תחושת פתיחה וסגירה יוקרתית ומדויקת — חוויית שימוש ממכרת ומרשימה במיוחד.\n\nלמרות הגודל הקטן והעיצוב הדק שלו, הארנק מסוגל להכיל עד 8 כרטיסים, הרבה שטרות, מטבעות וכל מה שצריך ליום־יום — בלי ליצור נפח מיותר בכיס.\n\nהוא נכנס בקלות לכל כיס ולא מרגישים אותו בכלל.\n\nבנוסף, הארנק כולל הגנת RFID מתקדמת להגנה על כרטיסי האשראי מפני גניבת נתונים אלחוטית.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ עיצוב ULTRA SLIM דק במיוחד  \n✔ סגירת מגנט חזקה ועוצמתית  \n✔ הגנת RFID מתקדמת  \n✔ מתאים לעד 8 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן מאוד ונוח בכיס  \n✔ איכות מהגבוהות בשוק  \n✔ חזק במיוחד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ עיצוב יוקרתי ואלגנטי  \n\nמידות:\n10 ס״מ × 8 ס״מ\n\nאם אתם מחפשים ארנק קטן, דק, חכם ויוקרתי באמת — זה אחד הדגמים המרשימים ביותר שתמצאו בישראל.",
+    "seoTitle": "ארנק עור מגנטי דק במיוחד עם RFID | NABET PARIS ULTRA SLIM",
+    "seoDescription": "ארנק עור מגנטי דק במיוחד עם הגנת RFID, סגירת מגנט חזקה ועיצוב יוקרתי. מתאים לעד 8 כרטיסים, שטרות ומטבעות במידות 10×8 ס״מ.",
+    "rating": 5,
+    "reviewCount": 72,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:52:43.551Z",
+    "updatedAt": "2026-05-20T09:58:17.085Z"
+  },
+  {
+    "id": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--שחור",
+    "name": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM שחור",
+    "slug": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--שחור",
+    "categoryId": "wallets",
+    "categoryIds": [
+      "wallets"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 0,
+    "badge": "מבצע",
+    "color": "שחור",
+    "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-ירוק-24.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-24.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#afb1de",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-15.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-15.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#c29800",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-23.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-23.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#804747",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-20.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-20.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום תזי",
+        "colorHex": "#a54545",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-27.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-27.webp"
+        ],
+        "stock": ""
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור דק במיוחד עם סגירת מגנט חזקה, הגנת RFID ועיצוב יוקרתי שלא מרגישים בכיס.",
+    "description": "הכירו את אחד הארנקים הדקים, הקטנים והיוקרתיים ביותר של NABET PARIS.\n\nארנק עור אמיתי בעיצוב ULTRA SLIM ייחודי, המשלב מראה אלגנטי, איכות גבוהה ונוחות מקסימלית לשימוש יום־יומי.\n\nהארנק כולל סגירת מגנט חזקה במיוחד עם תחושת פתיחה וסגירה יוקרתית ומדויקת — חוויית שימוש ממכרת ומרשימה במיוחד.\n\nלמרות הגודל הקטן והעיצוב הדק שלו, הארנק מסוגל להכיל עד 8 כרטיסים, הרבה שטרות, מטבעות וכל מה שצריך ליום־יום — בלי ליצור נפח מיותר בכיס.\n\nהוא נכנס בקלות לכל כיס ולא מרגישים אותו בכלל.\n\nבנוסף, הארנק כולל הגנת RFID מתקדמת להגנה על כרטיסי האשראי מפני גניבת נתונים אלחוטית.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ עיצוב ULTRA SLIM דק במיוחד  \n✔ סגירת מגנט חזקה ועוצמתית  \n✔ הגנת RFID מתקדמת  \n✔ מתאים לעד 8 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן מאוד ונוח בכיס  \n✔ איכות מהגבוהות בשוק  \n✔ חזק במיוחד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ עיצוב יוקרתי ואלגנטי  \n\nמידות:\n10 ס״מ × 8 ס״מ\n\nאם אתם מחפשים ארנק קטן, דק, חכם ויוקרתי באמת — זה אחד הדגמים המרשימים ביותר שתמצאו בישראל.",
+    "seoTitle": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM שחור | NABET PARIS",
+    "seoDescription": "ארנק עור מגנטי דק במיוחד עם הגנת RFID, סגירת מגנט חזקה ועיצוב יוקרתי. מתאים לעד 8 כרטיסים, שטרות ומטבעות במידות 10×8 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:58:06.896Z",
+    "updatedAt": "2026-05-20T09:58:17.085Z",
+    "baseName": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM",
+    "size": "",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "",
+      "colorHex": "#111111",
+      "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 0
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-מגנטי-דק-rfid-ultra-slim",
+    "parentProductId": "ארנק-עור-מגנטי-דק-rfid-ultra-slim"
+  },
+  {
+    "id": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--כחול",
+    "name": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM כחול",
+    "slug": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--כחול",
+    "categoryId": "wallets",
+    "categoryIds": [
+      "wallets"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 0,
+    "badge": "מבצע",
+    "color": "כחול",
+    "image": "/uploads/products/new-import/nabet-paris-לבן-15.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-לבן-15.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-24.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#afb1de",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-15.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-15.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#c29800",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-23.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-23.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#804747",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-20.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-20.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום תזי",
+        "colorHex": "#a54545",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-27.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-27.webp"
+        ],
+        "stock": ""
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור דק במיוחד עם סגירת מגנט חזקה, הגנת RFID ועיצוב יוקרתי שלא מרגישים בכיס.",
+    "description": "הכירו את אחד הארנקים הדקים, הקטנים והיוקרתיים ביותר של NABET PARIS.\n\nארנק עור אמיתי בעיצוב ULTRA SLIM ייחודי, המשלב מראה אלגנטי, איכות גבוהה ונוחות מקסימלית לשימוש יום־יומי.\n\nהארנק כולל סגירת מגנט חזקה במיוחד עם תחושת פתיחה וסגירה יוקרתית ומדויקת — חוויית שימוש ממכרת ומרשימה במיוחד.\n\nלמרות הגודל הקטן והעיצוב הדק שלו, הארנק מסוגל להכיל עד 8 כרטיסים, הרבה שטרות, מטבעות וכל מה שצריך ליום־יום — בלי ליצור נפח מיותר בכיס.\n\nהוא נכנס בקלות לכל כיס ולא מרגישים אותו בכלל.\n\nבנוסף, הארנק כולל הגנת RFID מתקדמת להגנה על כרטיסי האשראי מפני גניבת נתונים אלחוטית.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ עיצוב ULTRA SLIM דק במיוחד  \n✔ סגירת מגנט חזקה ועוצמתית  \n✔ הגנת RFID מתקדמת  \n✔ מתאים לעד 8 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן מאוד ונוח בכיס  \n✔ איכות מהגבוהות בשוק  \n✔ חזק במיוחד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ עיצוב יוקרתי ואלגנטי  \n\nמידות:\n10 ס״מ × 8 ס״מ\n\nאם אתם מחפשים ארנק קטן, דק, חכם ויוקרתי באמת — זה אחד הדגמים המרשימים ביותר שתמצאו בישראל.",
+    "seoTitle": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM כחול | NABET PARIS",
+    "seoDescription": "ארנק עור מגנטי דק במיוחד עם הגנת RFID, סגירת מגנט חזקה ועיצוב יוקרתי. מתאים לעד 8 כרטיסים, שטרות ומטבעות במידות 10×8 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:58:06.896Z",
+    "updatedAt": "2026-05-20T09:58:17.085Z",
+    "baseName": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM",
+    "size": "",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "",
+      "colorHex": "#afb1de",
+      "image": "/uploads/products/new-import/nabet-paris-לבן-15.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 0
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-מגנטי-דק-rfid-ultra-slim",
+    "parentProductId": "ארנק-עור-מגנטי-דק-rfid-ultra-slim"
+  },
+  {
+    "id": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--כמל",
+    "name": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM כמל",
+    "slug": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--כמל",
+    "categoryId": "wallets",
+    "categoryIds": [
+      "wallets"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 0,
+    "badge": "מבצע",
+    "color": "כמל",
+    "image": "/uploads/products/new-import/nabet-paris-לבן-23.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-לבן-23.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-24.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#afb1de",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-15.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-15.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#c29800",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-23.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-23.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#804747",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-20.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-20.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום תזי",
+        "colorHex": "#a54545",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-27.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-27.webp"
+        ],
+        "stock": ""
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור דק במיוחד עם סגירת מגנט חזקה, הגנת RFID ועיצוב יוקרתי שלא מרגישים בכיס.",
+    "description": "הכירו את אחד הארנקים הדקים, הקטנים והיוקרתיים ביותר של NABET PARIS.\n\nארנק עור אמיתי בעיצוב ULTRA SLIM ייחודי, המשלב מראה אלגנטי, איכות גבוהה ונוחות מקסימלית לשימוש יום־יומי.\n\nהארנק כולל סגירת מגנט חזקה במיוחד עם תחושת פתיחה וסגירה יוקרתית ומדויקת — חוויית שימוש ממכרת ומרשימה במיוחד.\n\nלמרות הגודל הקטן והעיצוב הדק שלו, הארנק מסוגל להכיל עד 8 כרטיסים, הרבה שטרות, מטבעות וכל מה שצריך ליום־יום — בלי ליצור נפח מיותר בכיס.\n\nהוא נכנס בקלות לכל כיס ולא מרגישים אותו בכלל.\n\nבנוסף, הארנק כולל הגנת RFID מתקדמת להגנה על כרטיסי האשראי מפני גניבת נתונים אלחוטית.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ עיצוב ULTRA SLIM דק במיוחד  \n✔ סגירת מגנט חזקה ועוצמתית  \n✔ הגנת RFID מתקדמת  \n✔ מתאים לעד 8 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן מאוד ונוח בכיס  \n✔ איכות מהגבוהות בשוק  \n✔ חזק במיוחד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ עיצוב יוקרתי ואלגנטי  \n\nמידות:\n10 ס״מ × 8 ס״מ\n\nאם אתם מחפשים ארנק קטן, דק, חכם ויוקרתי באמת — זה אחד הדגמים המרשימים ביותר שתמצאו בישראל.",
+    "seoTitle": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM כמל | NABET PARIS",
+    "seoDescription": "ארנק עור מגנטי דק במיוחד עם הגנת RFID, סגירת מגנט חזקה ועיצוב יוקרתי. מתאים לעד 8 כרטיסים, שטרות ומטבעות במידות 10×8 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:58:06.897Z",
+    "updatedAt": "2026-05-20T09:58:17.085Z",
+    "baseName": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM",
+    "size": "",
+    "selectedVariant": {
+      "color": "כמל",
+      "size": "",
+      "colorHex": "#c29800",
+      "image": "/uploads/products/new-import/nabet-paris-לבן-23.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 0
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-מגנטי-דק-rfid-ultra-slim",
+    "parentProductId": "ארנק-עור-מגנטי-דק-rfid-ultra-slim"
+  },
+  {
+    "id": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--חום",
+    "name": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM חום",
+    "slug": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--חום",
+    "categoryId": "wallets",
+    "categoryIds": [
+      "wallets"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 0,
+    "badge": "מבצע",
+    "color": "חום",
+    "image": "/uploads/products/new-import/nabet-paris-ורוד-20.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-ורוד-20.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-24.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#afb1de",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-15.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-15.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#c29800",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-23.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-23.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#804747",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-20.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-20.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום תזי",
+        "colorHex": "#a54545",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-27.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-27.webp"
+        ],
+        "stock": ""
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור דק במיוחד עם סגירת מגנט חזקה, הגנת RFID ועיצוב יוקרתי שלא מרגישים בכיס.",
+    "description": "הכירו את אחד הארנקים הדקים, הקטנים והיוקרתיים ביותר של NABET PARIS.\n\nארנק עור אמיתי בעיצוב ULTRA SLIM ייחודי, המשלב מראה אלגנטי, איכות גבוהה ונוחות מקסימלית לשימוש יום־יומי.\n\nהארנק כולל סגירת מגנט חזקה במיוחד עם תחושת פתיחה וסגירה יוקרתית ומדויקת — חוויית שימוש ממכרת ומרשימה במיוחד.\n\nלמרות הגודל הקטן והעיצוב הדק שלו, הארנק מסוגל להכיל עד 8 כרטיסים, הרבה שטרות, מטבעות וכל מה שצריך ליום־יום — בלי ליצור נפח מיותר בכיס.\n\nהוא נכנס בקלות לכל כיס ולא מרגישים אותו בכלל.\n\nבנוסף, הארנק כולל הגנת RFID מתקדמת להגנה על כרטיסי האשראי מפני גניבת נתונים אלחוטית.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ עיצוב ULTRA SLIM דק במיוחד  \n✔ סגירת מגנט חזקה ועוצמתית  \n✔ הגנת RFID מתקדמת  \n✔ מתאים לעד 8 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן מאוד ונוח בכיס  \n✔ איכות מהגבוהות בשוק  \n✔ חזק במיוחד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ עיצוב יוקרתי ואלגנטי  \n\nמידות:\n10 ס״מ × 8 ס״מ\n\nאם אתם מחפשים ארנק קטן, דק, חכם ויוקרתי באמת — זה אחד הדגמים המרשימים ביותר שתמצאו בישראל.",
+    "seoTitle": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM חום | NABET PARIS",
+    "seoDescription": "ארנק עור מגנטי דק במיוחד עם הגנת RFID, סגירת מגנט חזקה ועיצוב יוקרתי. מתאים לעד 8 כרטיסים, שטרות ומטבעות במידות 10×8 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:58:06.897Z",
+    "updatedAt": "2026-05-20T09:58:17.085Z",
+    "baseName": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM",
+    "size": "",
+    "selectedVariant": {
+      "color": "חום",
+      "size": "",
+      "colorHex": "#804747",
+      "image": "/uploads/products/new-import/nabet-paris-ורוד-20.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 0
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-מגנטי-דק-rfid-ultra-slim",
+    "parentProductId": "ארנק-עור-מגנטי-דק-rfid-ultra-slim"
+  },
+  {
+    "id": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--חום-תזי",
+    "name": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM חום תזי",
+    "slug": "ארנק-עור-מגנטי-דק-rfid-ultra-slim--חום-תזי",
+    "categoryId": "wallets",
+    "categoryIds": [
+      "wallets"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 0,
+    "badge": "מבצע",
+    "color": "חום תזי",
+    "image": "/uploads/products/new-import/nabet-paris-כחול-27.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-כחול-27.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-24.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-24.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#afb1de",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-15.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-15.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#c29800",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-23.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-23.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#804747",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-20.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-20.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום תזי",
+        "colorHex": "#a54545",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-27.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-27.webp"
+        ],
+        "stock": ""
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור דק במיוחד עם סגירת מגנט חזקה, הגנת RFID ועיצוב יוקרתי שלא מרגישים בכיס.",
+    "description": "הכירו את אחד הארנקים הדקים, הקטנים והיוקרתיים ביותר של NABET PARIS.\n\nארנק עור אמיתי בעיצוב ULTRA SLIM ייחודי, המשלב מראה אלגנטי, איכות גבוהה ונוחות מקסימלית לשימוש יום־יומי.\n\nהארנק כולל סגירת מגנט חזקה במיוחד עם תחושת פתיחה וסגירה יוקרתית ומדויקת — חוויית שימוש ממכרת ומרשימה במיוחד.\n\nלמרות הגודל הקטן והעיצוב הדק שלו, הארנק מסוגל להכיל עד 8 כרטיסים, הרבה שטרות, מטבעות וכל מה שצריך ליום־יום — בלי ליצור נפח מיותר בכיס.\n\nהוא נכנס בקלות לכל כיס ולא מרגישים אותו בכלל.\n\nבנוסף, הארנק כולל הגנת RFID מתקדמת להגנה על כרטיסי האשראי מפני גניבת נתונים אלחוטית.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ עיצוב ULTRA SLIM דק במיוחד  \n✔ סגירת מגנט חזקה ועוצמתית  \n✔ הגנת RFID מתקדמת  \n✔ מתאים לעד 8 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן מאוד ונוח בכיס  \n✔ איכות מהגבוהות בשוק  \n✔ חזק במיוחד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ עיצוב יוקרתי ואלגנטי  \n\nמידות:\n10 ס״מ × 8 ס״מ\n\nאם אתם מחפשים ארנק קטן, דק, חכם ויוקרתי באמת — זה אחד הדגמים המרשימים ביותר שתמצאו בישראל.",
+    "seoTitle": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM חום תזי | NABET PARIS",
+    "seoDescription": "ארנק עור מגנטי דק במיוחד עם הגנת RFID, סגירת מגנט חזקה ועיצוב יוקרתי. מתאים לעד 8 כרטיסים, שטרות ומטבעות במידות 10×8 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:58:06.897Z",
+    "updatedAt": "2026-05-20T09:58:17.085Z",
+    "baseName": "ארנק עור מגנטי דק במיוחד RFID – NABET PARIS ULTRA SLIM",
+    "size": "",
+    "selectedVariant": {
+      "color": "חום תזי",
+      "size": "",
+      "colorHex": "#a54545",
+      "image": "/uploads/products/new-import/nabet-paris-כחול-27.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 0
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-מגנטי-דק-rfid-ultra-slim",
+    "parentProductId": "ארנק-עור-מגנטי-דק-rfid-ultra-slim"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "slug": "ארנק-עור-קומפקטי-יוקרתי-עם-שליפה-מהירה-לכרטיסים-nabet-paris-elite",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "",
+    "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי עם שליפה מהירה לכרטיסים | NABET PARIS ELITE",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:38:51.576Z",
+    "updatedAt": "2026-05-20T09:49:30.071Z"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--שחור",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE שחור",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--שחור",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "שחור",
+    "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE שחור | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.079Z",
+    "updatedAt": "2026-05-20T09:49:30.079Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "",
+      "colorHex": "#111111",
+      "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--אפור",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE אפור",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--אפור",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "אפור",
+    "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE אפור | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.079Z",
+    "updatedAt": "2026-05-20T09:49:30.079Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "",
+      "colorHex": "#bfbfbf",
+      "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--חום",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE חום",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--חום",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "חום",
+    "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE חום | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.080Z",
+    "updatedAt": "2026-05-20T09:49:30.080Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "חום",
+      "size": "",
+      "colorHex": "#593636",
+      "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--יין-אדום",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE יין אדום",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--יין-אדום",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "יין אדום",
+    "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE יין אדום | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.080Z",
+    "updatedAt": "2026-05-20T09:49:30.080Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "יין אדום",
+      "size": "",
+      "colorHex": "#823030",
+      "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--כחול-גימס",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE כחול גימס",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--כחול-גימס",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "כחול גימס",
+    "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-בז-30.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE כחול גימס | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.080Z",
+    "updatedAt": "2026-05-20T09:49:30.080Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "כחול גימס",
+      "size": "",
+      "colorHex": "#5f90bf",
+      "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--אדום-גימס",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE אדום גימס",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--אדום-גימס",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "אדום גימס",
+    "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE אדום גימס | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.080Z",
+    "updatedAt": "2026-05-20T09:49:30.080Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "אדום גימס",
+      "size": "",
+      "colorHex": "#ff0000",
+      "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--כחול-נאפה",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE כחול נאפה",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--כחול-נאפה",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "כחול נאפה",
+    "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE כחול נאפה | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.080Z",
+    "updatedAt": "2026-05-20T09:49:30.080Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "כחול נאפה",
+      "size": "",
+      "colorHex": "#508dce",
+      "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--חום",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE חום",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--חום",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "חום",
+    "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE חום | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.080Z",
+    "updatedAt": "2026-05-20T09:49:30.080Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "חום",
+      "size": "",
+      "colorHex": "#683131",
+      "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--ירוק",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE ירוק",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--ירוק",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "ירוק",
+    "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-חום-29.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE ירוק | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.080Z",
+    "updatedAt": "2026-05-20T09:49:30.080Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "ירוק",
+      "size": "",
+      "colorHex": "#2aa732",
+      "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--כמל",
+    "name": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE כמל",
+    "slug": "ארנק-עור-קומפקטי-שליפה-מהירה-elite--כמל",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 249.9,
+    "oldPrice": 499.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "כמל",
+    "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-32.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-32.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#bfbfbf",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-33.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-33.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#593636",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-09.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-09.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "יין אדום",
+        "colorHex": "#823030",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-01.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-01.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול גימס",
+        "colorHex": "#5f90bf",
+        "image": "/uploads/products/new-import/nabet-paris-בז-30.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-30.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "אדום גימס",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-12.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-12.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "כחול נאפה",
+        "colorHex": "#508dce",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-26.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-26.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#683131",
+        "image": "/uploads/products/new-import/nabet-paris-ירוק-16.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ירוק-16.webp"
+        ],
+        "stock": ""
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#2aa732",
+        "image": "/uploads/products/new-import/nabet-paris-חום-29.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-29.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כמל",
+        "colorHex": "#ffc370",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-19.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן במיוחד עם מנגנון חכם לשליפה מהירה של כרטיסים, איכות פרימיום ועיצוב יוקרתי.",
+    "description": "ארנק העור החדש מסדרת ELITE של NABET PARIS משלב טכנולוגיה חכמה, עיצוב יוקרתי ונוחות מקסימלית לשימוש יום־יומי.\n\nזהו ארנק מקורי ומתקדם במיוחד — מכניסים את הכרטיסים לתוך התא המרכזי, לוחצים על הכפתור, וכל הכרטיסים נשלפים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ברמת גימור גבוהה מאוד, עם מבנה חזק במיוחד שמיועד להחזיק לאורך שנים. למרות הגודל הקומפקטי שלו, הארנק מאפשר להכניס עד 10 כרטיסים, הרבה שטרות, מטבעות ומסמכים חשובים — בלי ליצור נפח גדול בכיס.\n\nהעיצוב הדק והאלגנטי מאפשר להכניס אותו לכיס בקלות מבלי להרגיש אותו בכלל.\n\n✔ עור איכותי ויוקרתי במיוחד  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן ודק במיוחד  \n✔ עיצוב אלגנטי ויוקרתי  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ נכנס בקלות לכיס  \n✔ אחד הדגמים המבוקשים בישראל  \n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, אלגנטי וחזק במיוחד — זה הדגם המושלם בשבילכם.",
+    "seoTitle": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE כמל | NABET PARIS",
+    "seoDescription": "ארנק עור קומפקטי ויוקרתי עם מנגנון שליפה מהירה לכרטיסים בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. איכות פרימיום במידות 9.5×7 ס״מ.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:49:30.081Z",
+    "updatedAt": "2026-05-20T09:49:30.081Z",
+    "baseName": "ארנק עור קומפקטי יוקרתי עם שליפה מהירה לכרטיסים – NABET PARIS ELITE",
+    "size": "",
+    "selectedVariant": {
+      "color": "כמל",
+      "size": "",
+      "colorHex": "#ffc370",
+      "image": "/uploads/products/new-import/nabet-paris-כחול-19.webp",
+      "price": 249.9,
+      "oldPrice": 499.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-קומפקטי-שליפה-מהירה-elite",
+    "parentProductId": "ארנק-עור-קומפקטי-שליפה-מהירה-elite"
+  },
+  {
+    "id": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1",
+    "name": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE",
+    "slug": "ארנק-עור-יוקרתי-rfid-עם-שליפה-מהירה-nabet-paris-prestige",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "",
+    "image": "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+      "/uploads/products/new-import/nabet-paris-אפור-02.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור נפה",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-02.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-02.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "קמל",
+        "colorHex": "#d6ad66",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-17.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#7f5139",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-18.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-18.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#8e9bb8",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-11.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-11.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה לכרטיסים, עיצוב אלגנטי ואיכות מהגבוהות בשוק.",
+    "description": "ארנק העור היוקרתי החדש של NABET PARIS תוכנן במיוחד לאנשים שמחפשים איכות, יוקרה ונוחות ברמה הגבוהה ביותר.\n\nזהו אחד הארנקים המתקדמים והמקוריים ביותר בשוק — מכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור, וכל הכרטיסים יוצאים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ועמיד במיוחד עם גימור יוקרתי ונעים למגע. למרות הגודל הקטן שלו, הוא מסוגל להכיל עד 10 כרטיסים, שטרות רבים, מטבעות וכל מה שצריך לשימוש יום־יומי.\n\nהעיצוב הקומפקטי מאפשר להכניס אותו בקלות לכיס בלי להרגיש אותו בכלל — דק, קטן, אלגנטי ונוח בצורה יוצאת דופן.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן במיוחד ונכנס בקלות לכיס  \n✔ עיצוב אלגנטי ומודרני  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ איכות מהטובות בשוק  \n✔ מתאים לגברים ולנשים  \n\nמידות:\n10ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, יוקרתי וחזק במיוחד — זה הדגם שאתם חייבים להכיר.",
+    "seoTitle": "ארנק עור יוקרתי RFID עם שליפה מהירה | NABET PARIS",
+    "seoDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. עשוי עור אמיתי איכותי במידות 9.5×7 ס״מ.",
+    "rating": 4.9,
+    "reviewCount": 61,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:28:53.080Z",
+    "updatedAt": "2026-05-20T09:36:39.714Z"
+  },
+  {
+    "id": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1--שחור-נפה",
+    "name": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE שחור נפה",
+    "slug": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1--שחור-נפה",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "שחור נפה",
+    "image": "/uploads/products/new-import/nabet-paris-אפור-02.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-אפור-02.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור נפה",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-02.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-02.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "קמל",
+        "colorHex": "#d6ad66",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-17.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#7f5139",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-18.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-18.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#8e9bb8",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-11.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-11.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה לכרטיסים, עיצוב אלגנטי ואיכות מהגבוהות בשוק.",
+    "description": "ארנק העור היוקרתי החדש של NABET PARIS תוכנן במיוחד לאנשים שמחפשים איכות, יוקרה ונוחות ברמה הגבוהה ביותר.\n\nזהו אחד הארנקים המתקדמים והמקוריים ביותר בשוק — מכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור, וכל הכרטיסים יוצאים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ועמיד במיוחד עם גימור יוקרתי ונעים למגע. למרות הגודל הקטן שלו, הוא מסוגל להכיל עד 10 כרטיסים, שטרות רבים, מטבעות וכל מה שצריך לשימוש יום־יומי.\n\nהעיצוב הקומפקטי מאפשר להכניס אותו בקלות לכיס בלי להרגיש אותו בכלל — דק, קטן, אלגנטי ונוח בצורה יוצאת דופן.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן במיוחד ונכנס בקלות לכיס  \n✔ עיצוב אלגנטי ומודרני  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ איכות מהטובות בשוק  \n✔ מתאים לגברים ולנשים  \n\nמידות:\n10ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, יוקרתי וחזק במיוחד — זה הדגם שאתם חייבים להכיר.",
+    "seoTitle": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE שחור נפה | NABET PARIS",
+    "seoDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. עשוי עור אמיתי איכותי במידות 9.5×7 ס״מ.",
+    "rating": 4.9,
+    "reviewCount": 61,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:36:39.719Z",
+    "updatedAt": "2026-05-20T09:36:39.719Z",
+    "baseName": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE",
+    "size": "",
+    "selectedVariant": {
+      "color": "שחור נפה",
+      "size": "",
+      "colorHex": "#111111",
+      "image": "/uploads/products/new-import/nabet-paris-אפור-02.webp",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1",
+    "parentProductId": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1"
+  },
+  {
+    "id": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1--קמל",
+    "name": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE קמל",
+    "slug": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1--קמל",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "קמל",
+    "image": "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-שחור-17.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור נפה",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-02.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-02.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "קמל",
+        "colorHex": "#d6ad66",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-17.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#7f5139",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-18.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-18.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#8e9bb8",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-11.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-11.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה לכרטיסים, עיצוב אלגנטי ואיכות מהגבוהות בשוק.",
+    "description": "ארנק העור היוקרתי החדש של NABET PARIS תוכנן במיוחד לאנשים שמחפשים איכות, יוקרה ונוחות ברמה הגבוהה ביותר.\n\nזהו אחד הארנקים המתקדמים והמקוריים ביותר בשוק — מכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור, וכל הכרטיסים יוצאים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ועמיד במיוחד עם גימור יוקרתי ונעים למגע. למרות הגודל הקטן שלו, הוא מסוגל להכיל עד 10 כרטיסים, שטרות רבים, מטבעות וכל מה שצריך לשימוש יום־יומי.\n\nהעיצוב הקומפקטי מאפשר להכניס אותו בקלות לכיס בלי להרגיש אותו בכלל — דק, קטן, אלגנטי ונוח בצורה יוצאת דופן.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן במיוחד ונכנס בקלות לכיס  \n✔ עיצוב אלגנטי ומודרני  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ איכות מהטובות בשוק  \n✔ מתאים לגברים ולנשים  \n\nמידות:\n10ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, יוקרתי וחזק במיוחד — זה הדגם שאתם חייבים להכיר.",
+    "seoTitle": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE קמל | NABET PARIS",
+    "seoDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. עשוי עור אמיתי איכותי במידות 9.5×7 ס״מ.",
+    "rating": 4.9,
+    "reviewCount": 61,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:36:39.719Z",
+    "updatedAt": "2026-05-20T09:36:39.719Z",
+    "baseName": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE",
+    "size": "",
+    "selectedVariant": {
+      "color": "קמל",
+      "size": "",
+      "colorHex": "#d6ad66",
+      "image": "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1",
+    "parentProductId": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1"
+  },
+  {
+    "id": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1--חום",
+    "name": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE חום",
+    "slug": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1--חום",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "חום",
+    "image": "/uploads/products/new-import/nabet-paris-אפור-18.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-אפור-18.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור נפה",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-02.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-02.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "קמל",
+        "colorHex": "#d6ad66",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-17.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#7f5139",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-18.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-18.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#8e9bb8",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-11.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-11.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה לכרטיסים, עיצוב אלגנטי ואיכות מהגבוהות בשוק.",
+    "description": "ארנק העור היוקרתי החדש של NABET PARIS תוכנן במיוחד לאנשים שמחפשים איכות, יוקרה ונוחות ברמה הגבוהה ביותר.\n\nזהו אחד הארנקים המתקדמים והמקוריים ביותר בשוק — מכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור, וכל הכרטיסים יוצאים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ועמיד במיוחד עם גימור יוקרתי ונעים למגע. למרות הגודל הקטן שלו, הוא מסוגל להכיל עד 10 כרטיסים, שטרות רבים, מטבעות וכל מה שצריך לשימוש יום־יומי.\n\nהעיצוב הקומפקטי מאפשר להכניס אותו בקלות לכיס בלי להרגיש אותו בכלל — דק, קטן, אלגנטי ונוח בצורה יוצאת דופן.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן במיוחד ונכנס בקלות לכיס  \n✔ עיצוב אלגנטי ומודרני  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ איכות מהטובות בשוק  \n✔ מתאים לגברים ולנשים  \n\nמידות:\n10ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, יוקרתי וחזק במיוחד — זה הדגם שאתם חייבים להכיר.",
+    "seoTitle": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE חום | NABET PARIS",
+    "seoDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. עשוי עור אמיתי איכותי במידות 9.5×7 ס״מ.",
+    "rating": 4.9,
+    "reviewCount": 61,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:36:39.719Z",
+    "updatedAt": "2026-05-20T09:36:39.719Z",
+    "baseName": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE",
+    "size": "",
+    "selectedVariant": {
+      "color": "חום",
+      "size": "",
+      "colorHex": "#7f5139",
+      "image": "/uploads/products/new-import/nabet-paris-אפור-18.webp",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1",
+    "parentProductId": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1"
+  },
+  {
+    "id": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1--כחול",
+    "name": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE כחול",
+    "slug": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1--כחול",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 299.9,
+    "oldPrice": 599.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "כחול",
+    "image": "/uploads/products/new-import/nabet-paris-כחול-11.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-כחול-11.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור נפה",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-02.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-02.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "קמל",
+        "colorHex": "#d6ad66",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-17.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-17.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#7f5139",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-18.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-18.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#8e9bb8",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-11.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-11.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה לכרטיסים, עיצוב אלגנטי ואיכות מהגבוהות בשוק.",
+    "description": "ארנק העור היוקרתי החדש של NABET PARIS תוכנן במיוחד לאנשים שמחפשים איכות, יוקרה ונוחות ברמה הגבוהה ביותר.\n\nזהו אחד הארנקים המתקדמים והמקוריים ביותר בשוק — מכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור, וכל הכרטיסים יוצאים בצורה מסודרת, מהירה ונוחה במיוחד.\n\nהארנק עשוי מעור איכותי ועמיד במיוחד עם גימור יוקרתי ונעים למגע. למרות הגודל הקטן שלו, הוא מסוגל להכיל עד 10 כרטיסים, שטרות רבים, מטבעות וכל מה שצריך לשימוש יום־יומי.\n\nהעיצוב הקומפקטי מאפשר להכניס אותו בקלות לכיס בלי להרגיש אותו בכלל — דק, קטן, אלגנטי ונוח בצורה יוצאת דופן.\n\n✔ עור אמיתי איכותי ויוקרתי  \n✔ מנגנון שליפה מהירה בלחיצת כפתור  \n✔ מתאים לעד 10 כרטיסים  \n✔ מקום לשטרות ומטבעות  \n✔ קטן במיוחד ונכנס בקלות לכיס  \n✔ עיצוב אלגנטי ומודרני  \n✔ חזק מאוד לשימוש יום־יומי  \n✔ אחריות ארוכה במיוחד  \n✔ איכות מהטובות בשוק  \n✔ מתאים לגברים ולנשים  \n\nמידות:\n10ס״מ × 7 ס״מ\n\nאם אתם מחפשים ארנק קטן, חכם, יוקרתי וחזק במיוחד — זה הדגם שאתם חייבים להכיר.",
+    "seoTitle": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE כחול | NABET PARIS",
+    "seoDescription": "ארנק עור יוקרתי קטן במיוחד עם מנגנון שליפה מהירה בלחיצת כפתור, מתאים לעד 10 כרטיסים, שטרות ומטבעות. עשוי עור אמיתי איכותי במידות 9.5×7 ס״מ.",
+    "rating": 4.9,
+    "reviewCount": 61,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T09:36:39.719Z",
+    "updatedAt": "2026-05-20T09:36:39.719Z",
+    "baseName": "ארנק עור יוקרתי RFID עם שליפה מהירה – NABET PARIS PRESTIGE",
+    "size": "",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "",
+      "colorHex": "#8e9bb8",
+      "image": "/uploads/products/new-import/nabet-paris-כחול-11.webp",
+      "price": 299.9,
+      "oldPrice": 599.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1",
+    "parentProductId": "ארנק-עור-יוקרתי-rfid-שליפה-מהירה1"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "slug": "ארנק-כרטיסים-מעור-אמיתי-עם-שליפה-מהירה-rfid-nabet-paris",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "",
+    "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-בז-06.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ffa200",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS | NABET PARIS ישראל",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:20:12.163Z",
+    "updatedAt": "2026-05-20T09:03:40.706Z"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--כחול",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS כחול",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--כחול",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "כחול",
+    "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS כחול | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.989Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "כחול",
+      "size": "",
+      "colorHex": "#1d23cd",
+      "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--אפור",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS אפור",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--אפור",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "אפור",
+    "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS אפור | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "אפור",
+      "size": "",
+      "colorHex": "#919191",
+      "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--אדום",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS אדום",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--אדום",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "אדום",
+    "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-בז-22.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS אדום | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "אדום",
+      "size": "",
+      "colorHex": "#ff0000",
+      "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--ורוד",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS ורוד",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--ורוד",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "ורוד",
+    "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-חום-13.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS ורוד | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "ורוד",
+      "size": "",
+      "colorHex": "#ffb3f1",
+      "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--סגול",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS סגול",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--סגול",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "סגול",
+    "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-חום-21.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS סגול | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "סגול",
+      "size": "",
+      "colorHex": "#c32899",
+      "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--כחול-בעיר",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS כחול בעיר",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--כחול-בעיר",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "כחול בעיר",
+    "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS כחול בעיר | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "כחול בעיר",
+      "size": "",
+      "colorHex": "#80c8ff",
+      "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--חרדל",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS חרדל",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--חרדל",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "חרדל",
+    "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS חרדל | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "חרדל",
+      "size": "",
+      "colorHex": "#ffdc2e",
+      "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--ירוק",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS ירוק",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--ירוק",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "ירוק",
+    "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-בז-14.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS ירוק | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "ירוק",
+      "size": "",
+      "colorHex": "#8b9063",
+      "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--חום",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS חום",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--חום",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "חום",
+    "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS חום | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "חום",
+      "size": "",
+      "colorHex": "#884b11",
+      "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--שחור",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS שחור",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--שחור",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "שחור",
+    "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS שחור | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "שחור",
+      "size": "",
+      "colorHex": "#111111",
+      "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
+    "id": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--כתום",
+    "name": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS כתום",
+    "slug": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid--כתום",
+    "categoryId": "card-holders",
+    "categoryIds": [
+      "card-holders"
+    ],
+    "price": 199.9,
+    "oldPrice": 399.9,
+    "stock": 1,
+    "badge": "מבצע",
+    "color": "כתום",
+    "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+    "images": [
+      "/uploads/products/new-import/nabet-paris-בז-06.webp"
+    ],
+    "colorVariants": [
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "/uploads/products/new-import/nabet-paris-לבן-07.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-לבן-07.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול",
+        "colorHex": "#1d23cd",
+        "image": "/uploads/products/new-import/nabet-paris-שחור-25.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-שחור-25.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אפור",
+        "colorHex": "#919191",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-28.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-28.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "אדום",
+        "colorHex": "#ff0000",
+        "image": "/uploads/products/new-import/nabet-paris-בז-22.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-22.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ורוד",
+        "colorHex": "#ffb3f1",
+        "image": "/uploads/products/new-import/nabet-paris-חום-13.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-13.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "סגול",
+        "colorHex": "#c32899",
+        "image": "/uploads/products/new-import/nabet-paris-חום-21.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-חום-21.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "שחור",
+        "colorHex": "#111111",
+        "image": "",
+        "images": [],
+        "stock": 1
+      },
+      {
+        "colorName": "כחול בעיר",
+        "colorHex": "#80c8ff",
+        "image": "/uploads/products/new-import/nabet-paris-כחול-03.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-כחול-03.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חרדל",
+        "colorHex": "#ffdc2e",
+        "image": "/uploads/products/new-import/nabet-paris-אפור-34.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-אפור-34.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "ירוק",
+        "colorHex": "#8b9063",
+        "image": "/uploads/products/new-import/nabet-paris-בז-14.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-14.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "חום",
+        "colorHex": "#884b11",
+        "image": "/uploads/products/new-import/nabet-paris-ורוד-04.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-ורוד-04.webp"
+        ],
+        "stock": 1
+      },
+      {
+        "colorName": "כתום",
+        "colorHex": "#ff6600",
+        "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+        "images": [
+          "/uploads/products/new-import/nabet-paris-בז-06.webp"
+        ],
+        "stock": 1
+      }
+    ],
+    "sizeVariants": [],
+    "shortDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "description": "ארנק כרטיסים יוקרתי מבית NABET PARIS, עשוי עור איכותי ונעים למגע, עם מנגנון שליפה מהירה לכרטיסים.\n\nמכניסים את הכרטיסים לתא המרכזי, לוחצים על הכפתור — וכל הכרטיסים יוצאים בצורה מסודרת, נוחה ומהירה.\n\nהארנק קטן במיוחד, נכנס בקלות לכיס ולא מרגישים אותו, אבל עדיין נותן מקום מצוין לכרטיסים, שטרות ומטבעות.\n\n✔ עור איכותי ויוקרתי\n✔ מנגנון שליפה מהירה בלחיצת כפתור\n✔ מתאים עד 10 כרטיסים\n✔ מקום לשטרות\n✔ מקום למטבעות\n✔ קטן מאוד ונוח בכיס\n✔ חזק במיוחד לשימוש יום־יומי\n✔ עיצוב מקורי ואלגנטי\n✔ איכות מהטובות בשוק\n✔ מתאים לגברים ולנשים\n\nמידות:\n9.5 ס״מ × 7 ס״מ\n\nזהו אחד הארנקים הקומפקטיים והנוחים ביותר לשימוש יום־יומי — קטן, חזק, יוקרתי ומעוצב ברמה גבוהה.",
+    "seoTitle": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS כתום | NABET PARIS",
+    "seoDescription": "ארנק עור קטן, יוקרתי וחזק במיוחד עם מנגנון שליפה מהירה לכרטיסים.",
+    "rating": 5,
+    "reviewCount": 36,
+    "reviews": [],
+    "showStockUrgency": true,
+    "urgentText": "🔥 האחרון במלאי — אל תפספסו",
+    "createdAt": "2026-05-20T08:44:47.317Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
+    "baseName": "ארנק כרטיסים מעור אמיתי עם שליפה מהירה RFID – NABET PARIS",
+    "size": "",
+    "selectedVariant": {
+      "color": "כתום",
+      "size": "",
+      "colorHex": "#ffa200",
+      "image": "/uploads/products/new-import/nabet-paris-בז-06.webp",
+      "price": 199.9,
+      "oldPrice": 399.9,
+      "stock": 1
+    },
+    "isCatalogShortcut": true,
+    "isAutoVariant": true,
+    "autoGeneratedFrom": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid",
+    "parentProductId": "ארנק-כרטיסים-עור-שליפה-מהירה-rfid"
+  },
+  {
     "id": "premium-hard-luggage",
     "name": "מזוודות קשיחות פרימיום",
     "slug": "סט-מזוודות-קשיחות-פרימיום",
@@ -136,7 +4380,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.479Z",
-    "updatedAt": "2026-05-19T11:55:24.479Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -256,7 +4500,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -376,7 +4620,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -496,7 +4740,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -616,7 +4860,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -736,7 +4980,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -856,7 +5100,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -976,7 +5220,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -1096,7 +5340,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -1216,7 +5460,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -1336,7 +5580,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -1456,7 +5700,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -1576,7 +5820,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -1696,7 +5940,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -1816,7 +6060,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -1936,7 +6180,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:55:24.480Z",
-    "updatedAt": "2026-05-19T11:55:24.480Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -2166,7 +6410,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.424Z",
-    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -2286,7 +6530,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.424Z",
-    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -2406,7 +6650,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.424Z",
-    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -2526,7 +6770,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.424Z",
-    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -2646,7 +6890,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.424Z",
-    "updatedAt": "2026-05-19T11:49:43.424Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -2766,7 +7010,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -2886,7 +7130,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3006,7 +7250,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3126,7 +7370,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3246,7 +7490,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3366,7 +7610,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3486,7 +7730,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3606,7 +7850,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3726,7 +7970,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3846,7 +8090,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -3966,7 +8210,7 @@
     "showStockUrgency": true,
     "urgentText": "🔥 הדגם המבוקש ביותר באתר",
     "createdAt": "2026-05-19T11:49:43.425Z",
-    "updatedAt": "2026-05-19T11:49:43.425Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "colorVariants": [
       {
         "colorName": "שחור",
@@ -4233,7 +8477,7 @@
         "stock": 2
       }
     ],
-    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
     "size": "קטן",
     "selectedVariant": {
@@ -4320,7 +8564,7 @@
         "stock": 2
       }
     ],
-    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
     "size": "בנוני",
     "selectedVariant": {
@@ -4407,7 +8651,7 @@
         "stock": 2
       }
     ],
-    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
     "size": "גדול",
     "selectedVariant": {
@@ -4494,7 +8738,7 @@
         "stock": 2
       }
     ],
-    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
     "size": "קטן",
     "selectedVariant": {
@@ -4581,7 +8825,7 @@
         "stock": 2
       }
     ],
-    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
     "size": "בנוני",
     "selectedVariant": {
@@ -4668,7 +8912,7 @@
         "stock": 2
       }
     ],
-    "updatedAt": "2026-05-17T13:24:41.906Z",
+    "updatedAt": "2026-05-20T09:19:11.990Z",
     "baseName": "תיק נסיעות עם גלגלים ותאים מרובים",
     "size": "גדול",
     "selectedVariant": {
