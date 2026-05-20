@@ -2887,3 +2887,316 @@ header{
   border:3px solid #ff2a2a!important;
   box-shadow:0 0 25px rgba(255,0,0,.75)!important;
 }
+
+.stock,
+.productUrgencyBig{
+  display:none!important;
+}
+
+.whatsappProductBtn{
+  position:fixed!important;
+  bottom:70px!important;
+  left:12px!important;
+  right:12px!important;
+  z-index:999999!important;
+
+  height:38px!important;
+  min-height:38px!important;
+
+  border-radius:12px!important;
+
+  font-size:14px!important;
+  font-weight:800!important;
+
+  background:#25D366!important;
+  color:#fff!important;
+
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+
+  text-decoration:none!important;
+
+  box-shadow:0 6px 18px rgba(37,211,102,.25)!important;
+}
+
+.buy.urgentBuyPulse{
+  height:46px!important;
+  min-height:46px!important;
+  font-size:16px!important;
+}
+
+@media(min-width:769px){
+  .whatsappProductBtn{
+    max-width:420px!important;
+    margin:auto!important;
+  }
+}
+
+.paymentLogoFix img{
+  display:block!important;
+  width:auto!important;
+  height:24px!important;
+  object-fit:contain!important;
+  margin:auto!important;
+}
+
+.cartToast,
+.toast,
+.successToast,
+.addedToCartToast{
+  position:fixed!important;
+  top:80px!important;
+  left:14px!important;
+  right:14px!important;
+  bottom:auto!important;
+  z-index:999999999!important;
+
+  border-radius:16px!important;
+
+  background:#111!important;
+  color:#fff!important;
+
+  padding:14px!important;
+
+  font-weight:800!important;
+
+  box-shadow:0 10px 30px rgba(0,0,0,.35)!important;
+}
+
+.whatsappProductBtn{
+  position:fixed!important;
+  bottom:68px!important;
+  left:12px!important;
+  right:12px!important;
+  z-index:999999!important;
+
+  height:38px!important;
+
+  border-radius:12px!important;
+
+  background:#25D366!important;
+  color:#fff!important;
+
+  font-size:14px!important;
+  font-weight:800!important;
+
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+
+  text-decoration:none!important;
+}
+
+.buy.urgentBuyPulse{
+  bottom:12px!important;
+  height:46px!important;
+  font-size:16px!important;
+}
+
+.productPage{
+  padding-bottom:130px!important;
+}
+
+@media(max-width:768px){
+
+  .whatsappProductBtn{
+    position:fixed!important;
+    bottom:66px!important;
+    left:12px!important;
+    right:12px!important;
+
+    z-index:999999!important;
+
+    height:36px!important;
+    min-height:36px!important;
+
+    border-radius:12px!important;
+
+    font-size:13px!important;
+    font-weight:800!important;
+
+    background:#25D366!important;
+    color:#fff!important;
+
+    display:flex!important;
+    align-items:center!important;
+    justify-content:center!important;
+
+    text-decoration:none!important;
+  }
+
+  .buy.urgentBuyPulse{
+    position:fixed!important;
+    bottom:14px!important;
+    left:12px!important;
+    right:12px!important;
+
+    height:46px!important;
+    min-height:46px!important;
+
+    border-radius:14px!important;
+
+    font-size:16px!important;
+  }
+
+}
+
+/* popup ajout panier en haut */
+
+.cartToast,
+.toast,
+.successToast,
+.addedToCartToast{
+  position:fixed!important;
+  top:80px!important;
+  left:14px!important;
+  right:14px!important;
+  bottom:auto!important;
+  z-index:999999999!important;
+
+  border-radius:16px!important;
+
+  background:#111!important;
+  color:#fff!important;
+
+  padding:14px!important;
+
+  font-weight:800!important;
+
+  box-shadow:0 10px 30px rgba(0,0,0,.35)!important;
+}
+
+.whatsappProductBtn{
+  width:100%!important;
+  margin-bottom:8px!important;
+
+  height:36px!important;
+  min-height:36px!important;
+
+  border-radius:12px!important;
+
+  background:#25D366!important;
+  color:#fff!important;
+
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+
+  text-decoration:none!important;
+
+  font-size:14px!important;
+  font-weight:800!important;
+}
+
+.fastBuyBox .whatsappProductBtn{
+  position:relative!important;
+  bottom:auto!important;
+  left:auto!important;
+  right:auto!important;
+  width:100%!important;
+  margin:8px 0!important;
+  height:38px!important;
+  min-height:38px!important;
+  z-index:1!important;
+}
+
+.fastBuyBox .bitBtn{
+  position:relative!important;
+  z-index:2!important;
+}
+
+.fastBuyBox{
+  display:flex!important;
+  flex-direction:column!important;
+}
+
+.fastBuyBox .bitBtn{
+  order:1!important;
+}
+
+.fastBuyBox .whatsappProductBtn{
+  order:2!important;
+  margin-top:8px!important;
+}
+
+@media(max-width:768px){
+
+  .fastBuyBox .whatsappProductBtn{
+    position:fixed!important;
+    bottom:64px!important;
+    left:12px!important;
+    right:12px!important;
+
+    z-index:999998!important;
+
+    height:34px!important;
+    min-height:34px!important;
+
+    font-size:13px!important;
+
+    border-radius:10px!important;
+  }
+
+  .buy.urgentBuyPulse{
+    bottom:12px!important;
+    height:46px!important;
+  }
+
+  .productPage{
+    padding-bottom:125px!important;
+  }
+}
+
+.whatsappProductBtn{
+  position:relative!important;
+  bottom:auto!important;
+  left:auto!important;
+  right:auto!important;
+
+  width:100%!important;
+
+  margin-top:14px!important;
+  margin-bottom:10px!important;
+
+  height:40px!important;
+  min-height:40px!important;
+
+  border-radius:12px!important;
+
+  font-size:14px!important;
+  font-weight:800!important;
+
+  z-index:1!important;
+}
+
+.productPage{
+  padding-bottom:90px!important;
+}
+
+.whatsappProductBtn{
+  width:100%!important;
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+
+  height:42px!important;
+
+  margin-top:16px!important;
+  margin-bottom:16px!important;
+
+  border-radius:14px!important;
+
+  background:#25D366!important;
+  color:#fff!important;
+
+  text-decoration:none!important;
+
+  font-size:15px!important;
+  font-weight:800!important;
+
+  position:relative!important;
+  left:auto!important;
+  right:auto!important;
+  bottom:auto!important;
+}

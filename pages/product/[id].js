@@ -134,19 +134,28 @@ selectedSize?.label?.includes("20")
           <b>{t("discount2")}</b>
           <span>{translateText("בקנייה של 2 מוצרים או יותר — הזדמנות מושלמת להוסיף עוד פריט לעגלה.")}</span>
         </div>
-          <p>{tProduct.description}</p>
+          
+<p>{tProduct.description}</p>
+
+<a
+  className="whatsappProductBtn"
+  href={`https://wa.me/972538298484?text=${encodeURIComponent(`שלום, אני רוצה להזמין את הדגם: ${displayName}
+מחיר: ${selectedPrice}₪
+קישור למוצר: https://www.nabet-paris.com/product/${product.id}`)}`}
+  target="_blank"
+  rel="noreferrer"
+>
+  💬 WhatsApp
+</a>
+
 
 <div className="fastBuyBox">
-  <button className="applePayBtn" onClick={addToCart}>
+  <button className="applePayBtn" onClick={() => cart.setOpen(true)}>
     <img src="/apple-pay.svg" alt="Apple Pay" />
   </button>
 
-  <button className="googlePayBtn" onClick={addToCart}>
+  <button className="googlePayBtn" onClick={() => cart.setOpen(true)}>
     <img src="/google-pay.svg" alt="Google Pay" />
-  </button>
-
-  <button className="bitBtn" onClick={addToCart}>
-    <img src="/bit-logo.svg" alt="bit" />
   </button>
 
   <p className="expressShippingNote">
