@@ -9,7 +9,6 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <meta name="google-site-verification" content="3BThLCe0Gv_0_oTq8SMHlwoq0_e1oJSUkSSXUu6_NtI" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-RPKL73CDC5"></script>
         <script
           dangerouslySetInnerHTML={{

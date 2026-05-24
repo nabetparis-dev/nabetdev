@@ -1,0 +1,48 @@
+import GoogleAnalytics from "../components/GoogleAnalytics";
+import Script from "next/script";
+import "../styles/globals.css";
+import FloatingCheckoutButton from "../components/FloatingCheckoutButton";
+import { CartProvider } from "../components/CartContext";
+import ShabbatGate from "../components/ShabbatGate";
+import ScrollTopButton from "../components/ScrollTopButton";
+
+export default function App({ Component, pageProps }) {
+  return (
+    <CartProvider>
+      <GoogleAnalytics />
+      <ShabbatGate>
+  
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-RPKL73CDC5"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-RPKL73CDC5');
+        `}
+      </Script>
+
+  
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-RPKL73CDC5"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-RPKL73CDC5');
+        `}
+      </Script>
+
+    <Component {...pageProps} />
+      </ShabbatGate>
+    <ScrollTopButton />
+            <FloatingCheckoutButton />
+      </CartProvider>
+  );
+}
