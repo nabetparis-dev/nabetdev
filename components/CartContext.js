@@ -117,10 +117,21 @@ const [paymentMode, setPaymentMode] = useState("grow");
     email:""
   });
   const [submitting, setSubmitting] = useState(false);
+  const [couponCode, setCouponCode] = useState("");
+  const [couponMessage, setCouponMessage] = useState("");
   if (!cart) return null;
 
   const shippingCost = deliveryMode === "shipping" ? cart.shipping : 0;
-  const discount = cart.count >= 2 ? cart.subtotal * 0.10 : 0;
+  const automaticDiscount = cart.count >= 2 ? cart.subtotal * 0.10 : 0;
+  const normalizedCoupon = couponCode.trim().toUpperCase();
+  const couponPercent =
+    normalizedCoupon === "FACEBOOK10" ? 10 :
+    normalizedCoupon === "TIKTOK10" ? 10 :
+    normalizedCoupon === "NABET10" ? 10 :
+    normalizedCoupon === "VIP15" ? 15 :
+    0;
+  const couponDiscount = couponPercent > 0 ? cart.subtotal * (couponPercent / 100) : 0;
+  const discount = Math.max(automaticDiscount, couponDiscount);
   const total = cart.subtotal - discount + shippingCost;
 
   async function checkout() {
@@ -310,6 +321,30 @@ const payRes = await fetch("/api/create-checkout-session", {
   </label>
 )}
 </div>
+            <div className="couponBox">
+              <h3>קוד קופון</h3>
+              <div className="couponInputRow">
+                <input
+                  placeholder="הזן קוד קופון"
+                  value={couponCode}
+                  onChange={e=>{
+                    setCouponCode(e.target.value);
+                    setCouponMessage("");
+                  }}
+                />
+                <button onClick={()=>{
+                  if(couponPercent > 0){
+                    setCouponMessage(`🎉 חסכת ${shekel(couponDiscount)} בקנייה הזו`);
+                  } else {
+                    setCouponMessage("קוד הקופון לא תקין");
+                  }
+                }}>
+                  הפעל קופון
+                </button>
+              </div>
+              {couponMessage && <div className={couponPercent > 0 ? "couponSuccess" : "couponError"}>{couponMessage}</div>}
+            </div>
+
             <div className="cartTotal"><span>{t("productsAmount")}</span><b>{shekel(cart.subtotal)}</b></div>
             <div className="cartTotal soft"><span>{t("shipping")}</span><b>{shekel(shippingCost)}</b></div>
             {discount > 0 && <div className="cartTotal discountLine"><span>{t("discountLine")}</span><b>-{shekel(discount)}</b></div>}

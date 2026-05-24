@@ -3337,3 +3337,63 @@ header{
     padding:6px 9px!important;
   }
 }
+
+.couponBox{
+  background:#fff8ee!important;
+  border:1px solid rgba(185,28,28,.18)!important;
+  border-radius:20px!important;
+  padding:16px!important;
+  margin:18px 0!important;
+}
+
+.couponBox h3{
+  margin:0 0 10px!important;
+  font-weight:900!important;
+}
+
+.couponInputRow{
+  display:flex!important;
+  gap:8px!important;
+}
+
+.couponInputRow input{
+  flex:1!important;
+  border:1px solid var(--line)!important;
+  border-radius:14px!important;
+  padding:13px!important;
+  font-weight:800!important;
+}
+
+.couponInputRow button{
+  border:none!important;
+  border-radius:14px!important;
+  padding:0 16px!important;
+  background:#b91c1c!important;
+  color:#fff!important;
+  font-weight:900!important;
+}
+
+.couponSuccess{
+  margin-top:10px!important;
+  background:#16a34a!important;
+  color:#fff!important;
+  padding:12px!important;
+  border-radius:14px!important;
+  font-weight:900!important;
+  animation:couponPop .45s ease!important;
+}
+
+.couponError{
+  margin-top:10px!important;
+  background:#fee2e2!important;
+  color:#991b1b!important;
+  padding:12px!important;
+  border-radius:14px!important;
+  font-weight:900!important;
+}
+
+@keyframes couponPop{
+  0%{transform:scale(.92);opacity:.4}
+  70%{transform:scale(1.04);opacity:1}
+  100%{transform:scale(1)}
+}

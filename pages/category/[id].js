@@ -13,7 +13,7 @@ export async function getServerSideProps({ params }) {
   const products = readJson("products");
   const category = categories.find(c => c.id === params.id || c.slug === params.id);
   if (!category) return { notFound: true };
-  return { props: { category, categories, products: products.filter(p => p.categoryId === category.id), content: readJson("content"), cms: readJson("pagesCms"), canonical: `${siteUrl()}/category/${category.id}` } };
+  return { props: { category, categories, products: products.filter(p => p.categoryId === category.id || (Array.isArray(p.categoryIds) && p.categoryIds.includes(category.id))), content: readJson("content"), cms: readJson("pagesCms"), canonical: `${siteUrl()}/category/${category.id}` } };
 }
 
 export default function Category({ category, categories, products, content, cms, canonical }) {
