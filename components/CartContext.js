@@ -138,13 +138,13 @@ const [paymentMode, setPaymentMode] = useState("grow");
     if (submitting) return;
     if (!cart.items.length) return 
     if (!acceptedTerms) return 
-    const required = ["firstName","lastName","street","apartment","city","postalCode","phone","email"];
+    const required = ["firstName","phone","email","city","street"];
     const missing = required.some(k => !String(customer[k] || "").trim());
     if(missing) return 
     const customerForOrder = {
       ...customer,
-      name: `${customer.firstName} ${customer.lastName}`.trim(),
-      address: `${customer.street}, ${customer.apartment}, ${customer.city}, ${customer.postalCode}, ישראל`
+      name: `${customer.firstName}`.trim(),
+      address: `${customer.street}, ${customer.city}, ישראל`
     };
 
     setSubmitting(true);
@@ -261,21 +261,13 @@ const payRes = await fetch("/api/create-checkout-session", {
               })}
             </div>
 
-            <div className="customerBox">
-              <h3>פרטי לקוח למשלוח</h3>
-              <div className="checkoutGrid two">
-                <input required placeholder="שם פרטי *" value={customer.firstName} onChange={e=>setCustomer({...customer,firstName:e.target.value})} />
-                <input required placeholder="שם משפחה *" value={customer.lastName} onChange={e=>setCustomer({...customer,lastName:e.target.value})} />
-              </div>
-              <input required placeholder="כתובת — רחוב / סמטה / מספר בית *" value={customer.street} onChange={e=>setCustomer({...customer,street:e.target.value})} />
-              <input required placeholder="דירה / קומה / דלת *" value={customer.apartment} onChange={e=>setCustomer({...customer,apartment:e.target.value})} />
-              <div className="checkoutGrid two">
-                <input required placeholder="עיר *" value={customer.city} onChange={e=>setCustomer({...customer,city:e.target.value})} />
-                <input required placeholder="מיקוד *" value={customer.postalCode} onChange={e=>setCustomer({...customer,postalCode:e.target.value})} />
-              </div>
-              <input value="ישראל" readOnly className="countryLocked" aria-label="Pays Israël" />
+            <div className="customerBox compactCheckoutBox">
+              <h3>פרטי משלוח מהירים</h3>
+              <input required placeholder="שם פרטי ושם משפחה *" value={customer.firstName} onChange={e=>setCustomer({...customer,firstName:e.target.value})} />
               <input required type="tel" placeholder="טלפון *" value={customer.phone} onChange={e=>setCustomer({...customer,phone:e.target.value})} />
-              <input required type="email" placeholder="אימייל *" value={customer.email} onChange={e=>setCustomer({...customer,email:e.target.value})} />
+              <input required type="email" placeholder="אימייל לקבלת אישור הזמנה *" value={customer.email} onChange={e=>setCustomer({...customer,email:e.target.value})} />
+              <input required placeholder="עיר *" value={customer.city} onChange={e=>setCustomer({...customer,city:e.target.value})} />
+              <input required placeholder="כתובת מלאה למשלוח — רחוב / מספר בית / דלת *" value={customer.street} onChange={e=>setCustomer({...customer,street:e.target.value})} />
             </div>
 
 <div className="checkoutOptions">

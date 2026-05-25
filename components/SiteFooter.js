@@ -25,7 +25,7 @@ export default function SiteFooter({ cms = {} }) {
       </div>
     
       <div className="socialFooter">
-        <a href="https://www.instagram.com/" target="_blank" rel="noopener">Instagram</a>
+        <a href="https://www.instagram.com/nabet_paris_/" target="_blank" rel="noopener">Instagram</a>
         <a href="https://www.facebook.com/" target="_blank" rel="noopener">Facebook</a>
         <a href="https://www.google.com/search?q=NABET+PARIS" target="_blank" rel="noopener">Google</a>
       </div>

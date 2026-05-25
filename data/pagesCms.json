@@ -28,6 +28,11 @@
         "url": "category/tikim-ve-arnakim-la-nashim "
       },
       {
+        "label": "תיק לאקדח",
+        "url": "/category/security-bags",
+        "newTab": false
+      },
+      {
         "label": "צור קשר",
         "url": "/contact",
         "newTab": false

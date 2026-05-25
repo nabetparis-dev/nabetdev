@@ -6,5 +6,12 @@
     "active": true,
     "minItems": 2,
     "description": "10% הנחה בקניית 2 מוצרים או יותר"
+  },
+  {
+    "code": "RAMOTMALL10",
+    "type": "percent",
+    "value": 10,
+    "active": true,
+    "description": ""
   }
 ]

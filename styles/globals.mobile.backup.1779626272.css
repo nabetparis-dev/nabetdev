@@ -1663,6 +1663,25 @@ header{
   line-height:1.1!important;
   margin-top:8px!important;
 }
+.scrollTopButton{
+  position:fixed;
+  right:22px;
+  bottom:92px;
+  width:54px;
+  height:54px;
+  border-radius:50%;
+  border:1px solid #ead7bb;
+  background:linear-gradient(135deg,#111,#4b1616);
+  color:#fff;
+  font-size:28px;
+  font-weight:900;
+  box-shadow:0 18px 44px rgba(17,16,15,.24);
+  z-index:9999;
+  opacity:0;
+  transform:translateY(14px);
+  pointer-events:none;
+  transition:.25s ease;
+}
 .scrollTopButton.show{
   opacity:1;
   transform:translateY(0);
@@ -1677,6 +1696,13 @@ header{
   }
   .cmsHeroSale b{font-size:32px!important}
   .cmsHeroSale span{font-size:12px!important}
+  .scrollTopButton{
+    right:16px;
+    bottom:82px;
+    width:48px;
+    height:48px;
+    font-size:24px;
+  }
 }
 
 
@@ -2749,6 +2775,28 @@ header{
 }
 }
 
+.floatingCheckoutBtn{
+  position:fixed!important;
+  bottom:14px!important;
+  left:14px!important;
+  right:14px!important;
+  z-index:99999!important;
+
+  height:58px!important;
+
+  border:none!important;
+  border-radius:18px!important;
+
+  background:linear-gradient(135deg,#b91c1c,#dc2626)!important;
+  color:#fff!important;
+
+  font-size:20px!important;
+  font-weight:900!important;
+
+  box-shadow:0 10px 35px rgba(185,28,28,.35)!important;
+
+  animation:floatingPulse 1.8s infinite;
+}
 
 @keyframes floatingPulse{
   0%{transform:scale(1)}
@@ -2757,8 +2805,28 @@ header{
 }
 
 @media(min-width:769px){
+  .floatingCheckoutBtn{
+    max-width:420px!important;
+    margin:auto!important;
+  }
 }
 
+.floatingCheckoutBtn{
+  position:fixed!important;
+  bottom:14px!important;
+  left:14px!important;
+  right:14px!important;
+  z-index:999999!important;
+  height:62px!important;
+  border:none!important;
+  border-radius:20px!important;
+  background:linear-gradient(135deg,#b91c1c,#ef0000)!important;
+  color:white!important;
+  font-size:22px!important;
+  font-weight:900!important;
+  box-shadow:0 12px 35px rgba(185,28,28,.45)!important;
+  animation:floatingPayPulse 1.4s infinite!important;
+}
 
 @keyframes floatingPayPulse{
   0%{transform:scale(1)}
@@ -2767,8 +2835,28 @@ header{
 }
 
 @media(min-width:769px){
+  .floatingCheckoutBtn{
+    max-width:430px!important;
+    margin:auto!important;
+  }
 }
 
+.floatingCheckoutBtn{
+  position:fixed!important;
+  bottom:14px!important;
+  left:14px!important;
+  right:14px!important;
+  z-index:999999999!important;
+  height:64px!important;
+  border:none!important;
+  border-radius:22px!important;
+  background:linear-gradient(135deg,#b91c1c,#ff0000)!important;
+  color:#fff!important;
+  font-size:24px!important;
+  font-weight:900!important;
+  box-shadow:0 14px 40px rgba(185,28,28,.55)!important;
+  animation:floatingCheckoutPulse 1.2s infinite!important;
+}
 
 @keyframes floatingCheckoutPulse{
   0%{transform:scale(1)}
@@ -2777,6 +2865,10 @@ header{
 }
 
 @media(min-width:769px){
+  .floatingCheckoutBtn{
+    max-width:430px!important;
+    margin:auto!important;
+  }
 }
 
 /* cacher ancien bouton flottant paiement */
@@ -2788,6 +2880,13 @@ header{
   display:none!important;
 }
 
+.floatingCheckoutBtn{
+  background:#ff0000!important;
+  background-image:none!important;
+  color:#fff!important;
+  border:3px solid #ff2a2a!important;
+  box-shadow:0 0 25px rgba(255,0,0,.75)!important;
+}
 
 .stock,
 .productUrgencyBig{
@@ -3297,235 +3396,4 @@ header{
   0%{transform:scale(.92);opacity:.4}
   70%{transform:scale(1.04);opacity:1}
   100%{transform:scale(1)}
-}
-
-/* MOBILE PREMIUM CLEAN */
-@media(max-width:768px){
-  body{
-    overflow-x:hidden!important;
-  }
-
-  .heroOutlet,
-  .cmsHero{
-    min-height:auto!important;
-    padding:34px 18px!important;
-  }
-
-  .heroText h1,
-  .cmsHero h1{
-    font-size:34px!important;
-    line-height:1.12!important;
-  }
-
-  .heroText p,
-  .lead{
-    font-size:15px!important;
-    line-height:1.65!important;
-  }
-
-  .section{
-    padding:30px 14px!important;
-  }
-
-  .grid{
-    grid-template-columns:repeat(2,1fr)!important;
-    gap:12px!important;
-  }
-
-  .card{
-    border-radius:18px!important;
-    box-shadow:0 6px 18px rgba(0,0,0,.06)!important;
-  }
-
-  .card img{
-    height:155px!important;
-    object-fit:cover!important;
-  }
-
-  .cardBody{
-    padding:11px!important;
-  }
-
-  .cardBody h3{
-    font-size:14px!important;
-    line-height:1.35!important;
-  }
-
-  .cardBody p{
-    display:none!important;
-  }
-
-  .prices{
-    margin:8px 0!important;
-  }
-
-  .prices b{
-    font-size:19px!important;
-  }
-
-  .prices span{
-    font-size:12px!important;
-  }
-
-  .add,
-  .buy{
-    min-height:42px!important;
-    font-size:14px!important;
-    border-radius:12px!important;
-  }
-
-  .productPage{
-    grid-template-columns:1fr!important;
-    gap:18px!important;
-    padding:22px 12px 95px!important;
-  }
-
-  .productInfo{
-    padding:18px!important;
-    border-radius:20px!important;
-  }
-
-  .productInfo h1{
-    font-size:28px!important;
-    line-height:1.15!important;
-  }
-
-  .productInfo p{
-    font-size:15px!important;
-    line-height:1.7!important;
-  }
-
-  .productRatingBlock,
-  .galleryTrustLine,
-  .multiBuyPromo{
-    font-size:13px!important;
-  }
-
-  .cartDrawer{
-    width:96vw!important;
-  }
-
-}
-
-
-
-.scrollTopButton{
-  display:none!important;
-}
-
-.scrollTopButton{
-  right:18px!important;
-  left:auto!important;
-  bottom:95px!important;
-}
-
-.cartDrawer.open ~ .floatingCheckoutBtn,
-.cartShade.show ~ .floatingCheckoutBtn{
-  display:none!important;
-}
-
-body:has(.cartDrawer.open) .floatingCheckoutBtn{
-  display:none!important;
-}
-
-/* FIX MOBILE CHECKOUT BUTTON CLEAN */
-
-/* bouton תשלום בקופה visible sur le site */
-.floatingCheckoutBtn{
-  display:flex!important;
-  align-items:center!important;
-  justify-content:center!important;
-  position:fixed!important;
-  left:14px!important;
-  right:auto!important;
-  bottom:18px!important;
-  width:92px!important;
-  height:52px!important;
-  z-index:999999!important;
-  background:#ff0000!important;
-  color:#fff!important;
-  border:none!important;
-  border-radius:16px!important;
-  font-size:13px!important;
-  font-weight:900!important;
-  box-shadow:0 8px 22px rgba(255,0,0,.45)!important;
-  animation:none!important;
-  transform:none!important;
-}
-
-/* cacher תשלום בקופה quand le panier est ouvert */
-body:has(.cartDrawer.open) .floatingCheckoutBtn{
-  display:none!important;
-}
-
-/* dans le panier: aucun bouton flottant qui bouge */
-.cartDrawer .checkoutBtn{
-  position:static!important;
-  animation:none!important;
-  transform:none!important;
-  width:100%!important;
-  margin-top:14px!important;
-}
-
-/* éviter que le site bouge seul sur mobile */
-@media(max-width:768px){
-  html,body{
-    overflow-x:hidden!important;
-  }
-
-  .checkoutBtn,
-  .floatingCheckoutBtn,
-  .buy.urgentBuyPulse{
-    animation:none!important;
-  }
-}
-
-.compactCheckoutBox{
-  padding:14px!important;
-  border-radius:18px!important;
-}
-
-.compactCheckoutBox h3{
-  margin-bottom:10px!important;
-}
-
-.compactCheckoutBox input{
-  min-height:44px!important;
-  margin-bottom:8px!important;
-  font-size:15px!important;
-}
-
-@media(max-width:768px){
-  .customerBox{
-    padding:12px!important;
-  }
-
-  .checkoutOptions{
-    padding:12px!important;
-  }
-
-  .modernOption{
-    padding:11px!important;
-    border-radius:14px!important;
-    font-size:14px!important;
-  }
-
-  .cartTotal{
-    padding:8px 0!important;
-  }
-
-  .couponBox{
-    padding:12px!important;
-  }
-
-  .checkoutBtn{
-    min-height:52px!important;
-    border-radius:16px!important;
-    font-size:17px!important;
-  }
-}
-
-.compactCheckoutBox input{
-  direction:rtl!important;
-  text-align:right!important;
 }
