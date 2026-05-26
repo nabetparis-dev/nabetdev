@@ -3529,3 +3529,129 @@ body:has(.cartDrawer.open) .floatingCheckoutBtn{
   direction:rtl!important;
   text-align:right!important;
 }
+
+/* MEDIAS ADMIN CLEAN */
+.mediaLibraryGrid{
+  max-height:68vh!important;
+  overflow-y:auto!important;
+  padding:12px!important;
+  border:1px solid rgba(0,0,0,.08)!important;
+  border-radius:22px!important;
+  background:#fffaf4!important;
+}
+
+.adminTabs.wcTabs{
+  position:sticky!important;
+  top:0!important;
+  z-index:9999!important;
+  background:#fff7ea!important;
+  padding:14px!important;
+  border-radius:0 0 24px 24px!important;
+}
+
+.mediaUpload{
+  position:sticky!important;
+  top:120px!important;
+  z-index:20!important;
+  background:#fff!important;
+  box-shadow:0 8px 24px rgba(0,0,0,.08)!important;
+}
+
+.mediaLibraryGrid .mediaItem img{
+  height:170px!important;
+  object-fit:cover!important;
+}
+
+.mediaLibraryGrid::-webkit-scrollbar{
+  width:10px!important;
+}
+
+.mediaLibraryGrid::-webkit-scrollbar-thumb{
+  background:#b91c1c!important;
+  border-radius:20px!important;
+}
+
+/* FIX MEDIA GRID NO HORIZONTAL SCROLL */
+.mediaLibraryGrid{
+  display:grid!important;
+  grid-template-columns:repeat(auto-fill,minmax(260px,1fr))!important;
+  gap:18px!important;
+  overflow-y:auto!important;
+  overflow-x:hidden!important;
+  width:100%!important;
+  max-width:100%!important;
+  box-sizing:border-box!important;
+}
+
+.mediaItem{
+  width:100%!important;
+  min-width:0!important;
+}
+
+.mediaItem img{
+  width:100%!important;
+  height:220px!important;
+  object-fit:cover!important;
+  border-radius:18px!important;
+}
+
+.adminBox{
+  overflow-x:hidden!important;
+}
+
+body{
+  overflow-x:hidden!important;
+}
+
+/* MASS UPLOAD FIX */
+.mediaUpload input[type="file"]{
+  padding:18px!important;
+  border:3px dashed #c81e1e!important;
+  border-radius:22px!important;
+  background:#fff7f7!important;
+  width:100%!important;
+  font-size:18px!important;
+  cursor:pointer!important;
+}
+
+.mediaUpload{
+  position:sticky!important;
+  top:100px!important;
+  z-index:50!important;
+  background:#fffaf4!important;
+  padding:18px!important;
+  border-radius:24px!important;
+  box-shadow:0 10px 30px rgba(0,0,0,.08)!important;
+}
+
+.mediaUpload::after{
+  content:"📦 אפשר להעלות מאות תמונות ביחד";
+  display:block;
+  margin-top:10px;
+  font-weight:700;
+  color:#b91c1c;
+}
+
+/* MOBILE SUITCASE IMAGE FIX */
+@media(max-width:768px){
+  .card img[src*="suitcase"],
+  .card img[src*="valise"],
+  .card img[src*="luggage"],
+  .card img[src*="מזוודה"]{
+    object-fit:contain!important;
+    background:#fff!important;
+    padding:8px!important;
+  }
+}
+
+/* MOBILE SUITCASE IMAGE FIX */
+@media(max-width:768px){
+  .card img[src*="suitcase"],
+  .card img[src*="valise"],
+  .card img[src*="luggage"],
+  .card img[src*="מזוודה"]{
+    object-fit:contain!important;
+    background:#fff!important;
+    padding:8px!important;
+  }
+}

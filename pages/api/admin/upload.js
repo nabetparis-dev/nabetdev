@@ -43,7 +43,7 @@ export default async function handler(req,res){
   fs.mkdirSync(uploadDir,{recursive:true});
 
   try{
-    const form = formidable({ multiples:true, uploadDir:tmpDir, keepExtensions:true, maxFileSize: 60*1024*1024 });
+    const form = formidable({ multiples:true, uploadDir:tmpDir, keepExtensions:true, maxFileSize: 120*1024*1024, maxTotalFileSize: 800*1024*1024 });
     const { files } = await parseForm(req, form);
     const incoming = files.files || files.file || [];
     const arr = Array.isArray(incoming) ? incoming : [incoming];

@@ -42,7 +42,31 @@ export default function Admin(){
 
   async function login(){ const r=await fetch("/api/admin/login",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({password})}).then(r=>r.json()); if(!r.ok)return alert("סיסמה לא נכונה"); setToken(r.token); localStorage.setItem("adminToken",r.token); }
 
-  async function uploadFiles(files, callback){ if(!files?.length)return; setUploading(true); const fd=new FormData(); [...files].forEach(f=>fd.append("files",f)); const res=await fetch("/api/admin/upload",{method:"POST",headers:{"x-admin-token":token},body:fd}); const data=await res.json(); setUploading(false); if(!data.ok)return alert(data.error||"שגיאה בהעלאה"); callback(data.files||[]); load(); }
+  async function uploadFiles(files, callback){
+  if(!files?.length) return;
+
+  setUploading(true);
+
+  const fd = new FormData();
+  [...files].forEach(f => fd.append("files", f));
+
+  const res = await fetch("/api/admin/upload",{
+    method:"POST",
+    headers:{"x-admin-token":token},
+    body:fd
+  });
+
+  const data = await res.json();
+
+  setUploading(false);
+
+  if(!data.ok){
+    return alert(data.error || "שגיאה בהעלאה");
+  }
+
+  callback(data.files || []);
+  load();
+}
 
   async function optimizeAllImages(){
     if(!confirm("Compresser et convertir toutes les images en WebP ?")) return;
